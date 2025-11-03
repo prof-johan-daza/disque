@@ -19,4 +19,4 @@
             
         !!! bug "**ÉNERGIE – Rappel sur les grandeurs physiques et leurs unités**"
                             
-            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->
+            [Cliquez ici pour télécharger les documents]<!-- (https://prof-johan-daza.github.io/general/4/S5/Corrigé.pdf) -->                
