@@ -1,7 +1,7 @@
-# **_Plan stratégique quadriennale -- Foyer (34–38)_**
+# **_Plan stratégique quadriennale face aux banques (34–38)_**
 
-- [x] Mois 1 - 13M et 25M – 23 septembre. 2025 au 23 octobre. 2025
-- [x] Mois 2 – 13M et 25M - 23 octobre. 2025 au 23 novembre. 2025
+- [x] Mois 1 - 13M et 25M font 38M – 23 septembre. 2025 au 23 octobre. 2025
+- [x] Mois 2 – 13M et 25M font 38M - 23 octobre. 2025 au 23 novembre. 2025
 - [ ] Mois 3 – 23 novembre. 2025 au 23 décembre. 2025
 - [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
 - [ ] Mois 5 – 23 janvier. 2026 au 23 février. 2026
