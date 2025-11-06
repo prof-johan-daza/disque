@@ -1,272 +1,35 @@
 # **_Poésie_**
 
-***Poesía //
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
-
-# Contenido {#contenido .TOC-Heading}
-
-[Ramón de Campoamor [6](#ramón-de-campoamor)](#ramón-de-campoamor)
-
-[Amar y querer [6](#amar-y-querer)](#amar-y-querer)
-
-[Hans Magnus Enzensberger
-[7](#hans-magnus-enzensberger)](#hans-magnus-enzensberger)
-
-[Canción para los que saben
-[7](#canción-para-los-que-saben)](#canción-para-los-que-saben)
-
-[Nicolás guillén [8](#nicolás-guillén)](#nicolás-guillén)
-
-[Digo que yo no soy un hombre puro
-[8](#digo-que-yo-no-soy-un-hombre-puro)](#digo-que-yo-no-soy-un-hombre-puro)
-
-[No sé por qué piensas tú
-[10](#no-sé-por-qué-piensas-tú)](#no-sé-por-qué-piensas-tú)
-
-[Secuestro a la mujer de Antonio
-[11](#secuestro-a-la-mujer-de-antonio)](#secuestro-a-la-mujer-de-antonio)
-
-[La canción del Bongó
-[13](#la-canción-del-bongó)](#la-canción-del-bongó)
-
-[Gloria Fuentes [15](#gloria-fuentes)](#gloria-fuentes)
-
-[Autobio [15](#autobio)](#autobio)
-
-[Jaime Sabines [16](#jaime-sabines)](#jaime-sabines)
-
-[Me doy cuenta de que me faltas...
-[16](#me-doy-cuenta-de-que-me-faltas)](#me-doy-cuenta-de-que-me-faltas)
-
-[Espero curarme de ti
-[17](#espero-curarme-de-ti)](#espero-curarme-de-ti)
-
-[César Vallejo [18](#césar-vallejo)](#césar-vallejo)
-
-[Los heraldos negros [18](#los-heraldos-negros)](#los-heraldos-negros)
-
-[Espergesia [19](#espergesia)](#espergesia)
-
-[Lope Félix de Vega Y Carpio
-[21](#lope-félix-de-vega-y-carpio)](#lope-félix-de-vega-y-carpio)
-
-[Esto es amor [21](#esto-es-amor)](#esto-es-amor)
-
-[Silvina Ocampo [22](#silvina-ocampo)](#silvina-ocampo)
-
-[Las Huellas [22](#las-huellas)](#las-huellas)
-
-[Dulce María Loynaz [23](#dulce-maría-loynaz)](#dulce-maría-loynaz)
-
-[Yo quería tus ojos claros
-[23](#yo-quería-tus-ojos-claros)](#yo-quería-tus-ojos-claros)
-
-[Julio Herrera Y Reissig
-[24](#julio-herrera-y-reissig)](#julio-herrera-y-reissig)
-
-[Amor sádico [24](#amor-sádico)](#amor-sádico)
-
-[Jaime Sabines [25](#jaime-sabines-1)](#jaime-sabines-1)
-
-[Canonicemos a las putas
-[25](#canonicemos-a-las-putas)](#canonicemos-a-las-putas)
-
-[Ana Rossetti [26](#ana-rossetti)](#ana-rossetti)
-
-[Qué será ser tú [26](#qué-será-ser-tú)](#qué-será-ser-tú)
-
-[Eduardo Langagne [27](#eduardo-langagne)](#eduardo-langagne)
-
-[Ella [27](#ella)](#ella)
-
-[Gioconda Belli [28](#gioconda-belli)](#gioconda-belli)
-
-[Ahuyentemos el tiempo, amor\...
-[28](#ahuyentemos-el-tiempo-amor...)](#ahuyentemos-el-tiempo-amor...)
-
-[Vencer las trampas [29](#vencer-las-trampas)](#vencer-las-trampas)
-
-[Carlos Castro Saavedra
-[30](#carlos-castro-saavedra)](#carlos-castro-saavedra)
-
-[Soneto del amor elemental
-[30](#soneto-del-amor-elemental)](#soneto-del-amor-elemental)
-
-[José Gautier Benítez
-[31](#josé-gautier-benítez)](#josé-gautier-benítez)
-
-[Deber de amar [31](#deber-de-amar)](#deber-de-amar)
-
-[Leopoldo María Panero
-[32](#leopoldo-maría-panero)](#leopoldo-maría-panero)
-
-[Diario de un seductor
-[32](#diario-de-un-seductor)](#diario-de-un-seductor)
-
-[Ramón Cote [33](#ramón-cote)](#ramón-cote)
-
-[Extranjeros [33](#extranjeros)](#extranjeros)
-
-[Arcipreste De Hita [34](#arcipreste-de-hita)](#arcipreste-de-hita)
-
-[Aristóteles dijo [34](#aristóteles-dijo)](#aristóteles-dijo)
-
-[Juan Gustavo Cobo Borda
-[35](#juan-gustavo-cobo-borda)](#juan-gustavo-cobo-borda)
-
-[Los poetas mienten [35](#los-poetas-mienten)](#los-poetas-mienten)
-
-[Cosmología Kogui [36](#cosmología-kogui)](#cosmología-kogui)
-
-[Primero estaba el mar
-[36](#primero-estaba-el-mar)](#primero-estaba-el-mar)
-
-[Carlos Castañeda [37](#carlos-castañeda)](#carlos-castañeda)
-
-[Las enseñanzas de Don Juan
-[37](#las-enseñanzas-de-don-juan)](#las-enseñanzas-de-don-juan)
-
-[Otto René Castillo [38](#otto-rené-castillo)](#otto-rené-castillo)
-
-[Acontece así, enamorados
-[38](#acontece-así-enamorados)](#acontece-así-enamorados)
-
-[Jorge Luis Borges [39](#jorge-luis-borges)](#jorge-luis-borges)
-
-[Milonga de Jacinto Chiclana
-[39](#milonga-de-jacinto-chiclana)](#milonga-de-jacinto-chiclana)
-
-[Después de un tiempo
-[40](#después-de-un-tiempo)](#después-de-un-tiempo)
-
-[Pedro Salinas [41](#pedro-salinas)](#pedro-salinas)
-
-[Si me llamaras, sí\...
-[41](#si-me-llamaras-sí...)](#si-me-llamaras-sí...)
-
-[La voz a ti debida [42](#la-voz-a-ti-debida)](#la-voz-a-ti-debida)
-
-[Mario Waits [43](#mario-waits)](#mario-waits)
-
-[Hay veces [43](#hay-veces)](#hay-veces)
-
-[Darío Jaramillo Agudelo
-[44](#darío-jaramillo-agudelo)](#darío-jaramillo-agudelo)
-
-[Algún día [44](#algún-día)](#algún-día)
-
-[Diego de Torres y Villarroel
-[45](#diego-de-torres-y-villarroel)](#diego-de-torres-y-villarroel)
-
-[Ciencia de los cortesanos de este siglo
-[45](#ciencia-de-los-cortesanos-de-este-siglo)](#ciencia-de-los-cortesanos-de-este-siglo)
-
-[Luis Cernuda [46](#luis-cernuda)](#luis-cernuda)
-
-[Te quiero [46](#te-quiero)](#te-quiero)
-
-[Jairo Aníbal Niño [47](#jairo-aníbal-niño)](#jairo-aníbal-niño)
-
-[El día de tu santo [47](#el-día-de-tu-santo)](#el-día-de-tu-santo)
-
-[Juan Manuel Roca [48](#juan-manuel-roca)](#juan-manuel-roca)
-
-[Poema invadido por Romanos
-[48](#poema-invadido-por-romanos)](#poema-invadido-por-romanos)
-
-[Pablo Neruda [49](#pablo-neruda)](#pablo-neruda)
-
-[Farewell [49](#farewell)](#farewell)
-
-[Leopoldo Alas [51](#leopoldo-alas)](#leopoldo-alas)
-
-[Razón de amor [51](#razón-de-amor)](#razón-de-amor)
-
-[Al filo de los treinta
-[52](#al-filo-de-los-treinta)](#al-filo-de-los-treinta)
-
-[Al filo de los cuarenta
-[53](#al-filo-de-los-cuarenta)](#al-filo-de-los-cuarenta)
-
-[Silva [54](#silva)](#silva)
-
-[El mal del siglo [54](#el-mal-del-siglo)](#el-mal-del-siglo)
-
-[Vinicius de Moraes [55](#vinicius-de-moraes)](#vinicius-de-moraes)
-
-[Para vivir un gran amor
-[55](#para-vivir-un-gran-amor)](#para-vivir-un-gran-amor)
-
-[Raúl Gómez Jattin [58](#raúl-gómez-jattin)](#raúl-gómez-jattin)
-
-[Canción del amor sincero
-[58](#canción-del-amor-sincero)](#canción-del-amor-sincero)
-
-[Piel [59](#piel)](#piel)
-
-[Alfonsina Storni [60](#alfonsina-storni)](#alfonsina-storni)
-
-[Así [60](#así)](#así)
-
-[Pier Paolo Pasolini [61](#pier-paolo-pasolini)](#pier-paolo-pasolini)
-
-[Análisis tardío [61](#análisis-tardío)](#análisis-tardío)
-
-[Muerte [62](#muerte)](#muerte)
-
-[León de Greiff [63](#león-de-greiff)](#león-de-greiff)
-
-[Villa de la Candelaria
-[63](#villa-de-la-candelaria)](#villa-de-la-candelaria)
-
-[Relato de Sergio Stepansky
-[64](#relato-de-sergio-stepansky)](#relato-de-sergio-stepansky)
-
-[Edmundo de Ory [67](#edmundo-de-ory)](#edmundo-de-ory)
-
-[Estar contigo es un vocablo insólito\...
-[67](#estar-contigo-es-un-vocablo-insólito...)](#estar-contigo-es-un-vocablo-insólito...)
-
-[Juan Felipe Robledo [68](#juan-felipe-robledo)](#juan-felipe-robledo)
-
-[Se acepta la propia condición
-[68](#se-acepta-la-propia-condición)](#se-acepta-la-propia-condición)
-
-[Rafael Alberti [69](#rafael-alberti)](#rafael-alberti)
-
-[La paloma [69](#la-paloma)](#la-paloma)
-
-[Idea Vilariño [70](#idea-vilariño)](#idea-vilariño)
-
-[Ya no [70](#ya-no)](#ya-no)
-
-[Miguel de Cervantes Saavedra
-[71](#miguel-de-cervantes-saavedra)](#miguel-de-cervantes-saavedra)
-
-[Don Quijote de la Mancha
-[71](#don-quijote-de-la-mancha)](#don-quijote-de-la-mancha)
-
-[Allen Ginsberg [72](#allen-ginsberg)](#allen-ginsberg)
-
-[Buena suerte [72](#buena-suerte)](#buena-suerte)
-
 # Ramón de Campoamor
 
 ## Amar y querer
 
-A la infiel más infiel de las hermosas \
-un hombre la quería, y yo la amaba; \
-y ella a un tiempo a los dos nos encantaba \
-con la miel de sus frases engañosas. \
-Mientras él, con sus flores venenosas,  \
-queriéndola, su aliento emponzoñaba, \
-yo de ella ante los pies, que idolatraba, \
-acabadas de abrir echaba rosas. \
-De su favor ya en vano el aire arrecia; \
-mintió a los dos, y sufrirá el castigo  \
-que uno la da por vil, y otro por necia. \
-No hallará paz con él, ni bien conmigo: \
-él, que solo la quiso, la desprecia; \
+A la infiel más infiel de las hermosas
+
+un hombre la quería, y yo la amaba;
+
+y ella a un tiempo a los dos nos encantaba
+
+con la miel de sus frases engañosas.
+
+Mientras él, con sus flores venenosas,
+
+queriéndola, su aliento emponzoñaba,
+
+yo de ella ante los pies, que idolatraba,
+
+acabadas de abrir echaba rosas.
+
+De su favor ya en vano el aire arrecia;
+
+mintió a los dos, y sufrirá el castigo
+
+que uno la da por vil, y otro por necia.
+
+No hallará paz con él, ni bien conmigo:
+
+él, que solo la quiso, la desprecia;
+
 yo, que tanto la amaba, la maldigo.
 
 # Hans Magnus Enzensberger
