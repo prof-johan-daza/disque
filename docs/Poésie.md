@@ -1,7 +1,7 @@
-# **_Poésie_**
+# **_POÉSIE_**
 
 ## RAMÓN DE CAMPOAMOR
-### AMAR Y QUERER
+### _Amar y querer_
 A la infiel más infiel de las hermosas 
 un hombre la quería, y yo la amaba; 
 y ella a un tiempo a los dos nos encantaba 
@@ -16,7 +16,6 @@ que uno la da por vil, y otro por necia. 
 No hallará paz con él, ni bien conmigo: 
 él, que solo la quiso, la desprecia; 
 yo, que tanto la amaba, la maldigo.
-
 
 ## HANS MAGNUS ENZENSBERGER
 ### Canción para los que saben
