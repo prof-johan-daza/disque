@@ -6,29 +6,14 @@
 
 A la infiel más infiel de las hermosas
 
-un hombre la quería, y yo la amaba;
+# Ramón de Campoamor
 
-y ella a un tiempo a los dos nos encantaba
+## Amar y querer
 
-con la miel de sus frases engañosas.
+A la infiel más infiel de las hermosas
 
-Mientras él, con sus flores venenosas,
+# Ramón de Campoamor
 
-queriéndola, su aliento emponzoñaba,
+## Amar y querer
 
-yo de ella ante los pies, que idolatraba,
-
-acabadas de abrir echaba rosas.
-
-De su favor ya en vano el aire arrecia;
-
-mintió a los dos, y sufrirá el castigo
-
-que uno la da por vil, y otro por necia.
-
-No hallará paz con él, ni bien conmigo:
-
-él, que solo la quiso, la desprecia;
-
-yo, que tanto la amaba, la maldigo.
-
+A la infiel más infiel de las hermosas
