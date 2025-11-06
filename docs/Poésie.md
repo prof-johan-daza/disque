@@ -124,14 +124,12 @@ te voy a echar en la copa
 de un son,
 prieta, quemada de ti misma,
 cintura de mi canción.
-
 Záfate tu chal de espuma
 para que torees la rumba,
 y si Antonio se disgusta,
 que se corra por ahí;
 ¡la mujer de Antonio
 tiene que bailar aquí!
-
 Desamárrate, Gabriela.
 Muerde
 la cáscara verde,
@@ -141,7 +139,6 @@ la pájara blanca,
 y vengan de dos en dos,
 ¡que el bongó
 se calentó!
-
 De aquí no te irás, mulata
 ni al mercado, ni a tu casa;
 aquí molerán tus ancas
@@ -149,7 +146,6 @@ la zafra de tu sudor:
 repique, pique, repique
 repique, pique, repique,
 pique, repique, repique, ¡pó!
-
 Semillas las de tus ojos
 darán sus frutos espesos;
 y si viene Antonio luego
@@ -224,7 +220,6 @@ comida, sangre o ropa.
 Empecé a trabajar de niña de niñera.
 Fui criada de mi casa propia.
 (Yo misma fui mi primera muñeca.)
-
 Luego de mayor,
 lo único que pedí prestado
 fue amor,
@@ -234,7 +229,7 @@ hoy estoy arruinada.
 
 ## JAIME SABINES
 ### Me doy cuenta de que me faltas…
-y de que te busco entre las gentes, en el ruido,
+Y de que te busco entre las gentes, en el ruido,
 pero todo es inútil.
 Cuando me quedo solo
 me quedo más que solo
@@ -304,31 +299,26 @@ se empoza, como charco de culpa, en la mirada.
 Hay golpes en la vida, tan fuertes... ¡Yo no sé!
 
 ## ESPERGESIA
-YO NACÍ UN DÍA
+Yo nací un día
 que Dios estuvo enfermo. 
-
 Todos saben que vivo, 
 que soy malo; y no saben 
 del diciembre de ese enero. 
 Pues yo nací un día 
 que Dios estuvo enfermo. 
-
 Hay un vacío 
 en mi aire metafísico 
 que nadie ha de palpar: 
 el claustro de un silencio 
 que habló a flor de fuego. 
-
 Yo nací un día 
 que Dios estuvo enfermo. 
-
 Hermano, escucha, escucha... 
 Bueno. Y que no me vaya 
 sin llevar diciembres, 
 sin dejar eneros. 
 Pues yo nací un día 
 que Dios estuvo enfermo. 
-
 Todos saben que vivo, 
 que mastico... y no saben 
 por qué en mi verso chirrían, 
@@ -336,7 +326,6 @@ oscuro sinsabor de ferétro, 
 luyidos vientos 
 desenroscados de la Esfinge 
 preguntona del Desierto. 
-
 Todos saben... Y no saben 
 que la Luz es tísica, 
 y la Sombra gorda... 
@@ -344,7 +333,6 @@ Y no saben que el misterio sintetiza... 
 que él es la joroba 
 musical y triste que a distancia denuncia 
 el paso meridiano de las lindes a las Lindes. 
-
 Yo nací un día 
 que Dios estuvo enfermo, 
 grave.
@@ -419,15 +407,11 @@ nunca te amé como en aquel minuto!
 ## JAIME SABINES
 ### CANONICEMOS A LAS PUTAS
 Santoral del sábado: Betty, Lola, Margot, vírgenes perpetuas, reconstruidas, mártires provisorias llenas de gracia, manantiales de generosidad.
-
 Das al placer, oh puta redentora del mundo, y nada pides a cambio sino unas monedas miserables. No exiges ser amada, respetada, atendida, ni imitas a las esposas con los lloriqueos, las reconvenciones y los celos. No obligas a nadie a la despedida ni a la reconciliación; no chupas la sangre ni el tiempo; eres limpia de culpa; recibes en tu seno a los pecadores, escuchas las palabras y los sueños, sonríes y besas. Eres paciente, experta, atribulada, sabia, sin rencor.
-
 No engañas a nadie, eres honesta, íntegra, perfecta; anticipas tu precio, te enseñas; no discriminas a los viejos, a los criminales, a los tontos, a los de otro color; soportas las agresiones del orgullo, las asechanzas de los enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos, encuentras la fórmula de los desencantados. Eres la confidente del borracho, el refugio del perseguido, el lecho del que no tiene reposo.
 Has educado tu boca y tus manos, tus músculos y tu piel, tus vísceras y tu alma. Sabes vestir y desvestirte, acostarte, moverte. Eres precisa en el ritmo, exacta en el gemido, dócil a las maneras del amor.
-
 Eres la libertad y el equilibrio; no sujetas ni detienes a nadie; no sometes a los recuerdos ni a la espera. Eres pura presencia, fluidez, perpetuidad.
 En el lugar en que oficias a la verdad y a la belleza de la vida, Ya sea el burdel elegante, la casa discreta o el camastro de la pobreza, eres lo mismo que una lámpara y un vaso de agua y un pan.
-
 Oh puta amiga, amante, amada, recodo de este día de siempre, te reconozco, te canonizo a un lado de los hipócritas y de los perversos, te doy todo mi dinero, te corono con hojas de yerba y me dispongo a aprender de ti todo el tiempo.
 ## ANA ROSSETTI
 ### QUÉ SERÁ SER TÚ
@@ -455,7 +439,7 @@ ELLA ES IRREPETIBLE.
 Nació en las piedras donde empieza mi desorden.
 
 ## GIOCONDA BELLI
-Ahuyentemos el tiempo, amor...
+### Ahuyentemos el tiempo, amor...
 
 Ahuyentemos el tiempo, amor,
 que ya no exista;
@@ -531,7 +515,6 @@ Mientras guarde el santuario de mi pecho
 de gratitud la llama;
 mientras recuerde de mi dulce niña
 el dolor y las lagrimas;
-
 mientras recuerde que mi amor ha sido
 su dicha y su desgracia;
 mientras haya virtud, lealtad, nobleza,
@@ -564,8 +547,7 @@ lo que aún no ha vivido.
 ## RAMÓN COTE
 ### EXTRANJEROS
 Los extranjeros tienen una forma de alejarse
-que muchas veces se parece al desprecio.
-##LA TIMIDEZ
+que muchas veces se parece al desprecio. La timidez
 de un vagón de la Western Pacific,
 pintado a propósito para filmar
 alguna película de vaqueros en el desierto de Almería,
@@ -610,7 +592,7 @@ Que probemos las cosas no siempre es lo peor;
 el bien y el mal sabed y escoged lo mejor.
 ## JUAN GUSTAVO COBO BORDA
 ### LOS POETAS MIENTEN
-SUS PALABRAS
+Sus palabras
 doran la piel de la amada,
 prolongan el parloteo incesante
 con que los niños rehacen el mundo
@@ -646,7 +628,7 @@ Por ejemplo, cuando yo estaba aprendiendo sobre la yerba del diablo, era demasi
 
 ## OTTO RENÉ CASTILLO
 ### Acontece así, enamorados
-LOS ENAMORADOS
+Los enamorados
 que ahora se besan,
 todavía no saben
 que tendrán
@@ -686,7 +668,6 @@ Nadie habrá habido como él
 En el amor y en la guerra.
 Sobre la huerta y el patio
 Las torres de Balvanera
-
 Y aquella muerte casual
 En una esquina cualquiera.
 No veo los rasgos. Veo,
@@ -724,7 +705,6 @@ y uno empieza a aceptar sus derrotas con la cabeza alta y los ojos abiertos
 y uno aprende a construir
 todos sus caminos en el hoy,
 porque el terreno de mañana
-
 es demasiado inseguro para planes…
 y los futuros tienen una forma de
 caerse en la mitad.
@@ -744,7 +724,6 @@ y con cada día uno aprende.
 ### Si me llamaras, sí...
 ¡Si me llamaras, sí,
 si me llamaras!
-
 Lo dejaría todo,
 todo lo tiraría:
 los precios, los catálogos,
@@ -754,7 +733,6 @@ los telegramas viejos
 y un amor.
 Tú, que no eres mi amor,
 ¡si me llamaras!
-
 Y aún espero tu voz:
 telescopios abajo,
 desde la estrella,
@@ -766,20 +744,17 @@ Porque si tú me llamas
 -¡si me llamaras, sí, si me llamaras!-
 será desde un milagro,
 incógnito, sin verlo.
-
 Nunca desde los labios que te beso,
 nunca desde a voz que dice:
 "No te vayas."
 
 ### La voz a ti debida
-
-
 Ayer te besé en los labios.
 Te besé en los labios. Densos,
 rojos. Fue un beso tan corto
 que duró más que un relámpago,
 que un milagro, más.
-##EL TIEMPO
+El tiempo
 después de dártelo
 no lo quise para nada
 ya, para nada
@@ -787,12 +762,10 @@ lo había querido antes.
 Se empezó, se acabó en él.
 Hoy estoy besando un beso;
 estoy solo con mis labios.
-
-
-LOS PONGO
+Los pongo
 no en tu boca, no, Ya no
 —¿adónde se me ha escapado? —.
-LOS PONGO
+Los pongo
 en el beso que te di
 ayer, en las bocas juntas
 del beso que se besaron.
@@ -803,9 +776,6 @@ ni una boca lo que beso,
 que se escapa, que me huye.
 No.
 Te estoy besando más lejos.
-
-
-
 
 ## MARIO WAITS
 ### HAY VECES
@@ -824,9 +794,6 @@ componen los amigos buenos.
 Hay veces que te joden los muertos, dan señales de humo que enrojecen los ojos y no nos heredan
 demasiadas opciones, pues te rompes la testa o las promesas...
 Y ellos que se pasean con profundas miradas, sonrisas transparentes y sus trajes de fiesta.
-
-
-
 
 ## DARÍO JARAMILLO AGUDELO
 ### ALGÚN DÍA
@@ -864,12 +831,10 @@ con esto, y olvidar el catecismo,
 cátate hecho y derecho cortesano,
 mas llevárate el diablo dicho y hecho.
 
-
-
 ## LUIS CERNUDA
 ### TE QUIERO
 
-TE QUIERO.
+Te quiero.
 Te lo he dicho con el viento,
 jugueteando como animalillo en la arena
 o iracundo como órgano impetuoso;
@@ -879,8 +844,6 @@ y sonríe en todas las cosas inocentes;
 Te lo he dicho con las nubes,
 frentes melancólicas que sostienen el cielo,
 tristezas fugitivas;
-
-
 Te lo he dicho con las plantas,
 leves criaturas transparentes
 que se cubren de rubor repentino;
@@ -904,19 +867,10 @@ Esas semillas son pacientes y esperan su lugar y su tiempo.
 Yo no tenía dinero para comprarte algo lujoso.
 Yo simplemente quise regalarte un bosque.
 
-
-
-
-
-
-
-
-
-
 ## JUAN MANUEL ROCA
 ### POEMA INVADIDO POR ROMANOS
 
-LOS ROMANOS ERAN MALICIOSOS.
+Los romanos eran maliciosos.
 Llenaron Europa de ruinas
 confabulados con el tiempo.
 Les interesaba el futuro,
@@ -934,7 +888,6 @@ para que los tigres devoraran
 a su antojo a los cristianos,
 tan poco apetecibles,
 ni para ver ensartadas
-
 como entremeses del infierno
 a las huestes de Espartaco.
 Pensaron su ruina, una ruina proporcional
@@ -953,14 +906,12 @@ esqueletos de palomas.
 Como tu amor,
 que se vuelve ruina
 mientras más lo construyo.
-##EL TIEMPO ES ROMANO.
-
-
+El tiempo es romano.
 
 ## PABLO NERUDA
 ### FAREWELL
-
 1
+
 Desde el fondo de ti, y arrodillado, 
 un niño triste, como yo, nos mira.
 Por esa vida que arderá en sus venas
@@ -971,6 +922,7 @@ Por sus ojos abiertos en la tierra
 veré en los tuyos lágrimas un día.
 
 2
+
 Yo no lo quiero, Amada.
 Para que nada nos amarre
 que no nos una nada.
@@ -979,9 +931,8 @@ ni lo que no dijeron las palabras.
 Ni la fiesta de amor que no tuvimos,
 ni tus sollozos junto a la ventana.
 
-
-
 3
+
 (Amo el amor de los marineros
 que besan y se van.
 Dejan una promesa.
@@ -992,6 +943,7 @@ Una noche se acuestan con la muerte
 en el lecho del mar).
 
 4
+
 Amor el amor que se reparte
 en besos, lecho y pan.
 Amor que puede ser eterno
@@ -1001,18 +953,14 @@ para volver a amar.
 Amor divinizado que se acerca
 Amor divinizado que se va.
 
-
-
 5
+
 Ya no se encantarán mis ojos en tus ojos,
 ya no se endulzará junto a ti mi dolor.
 Pero hacia donde vaya llevaré tu mirada
 y hacia donde camines llevarás mi dolor.
 Fui tuyo, fuiste mía. Qué más? Juntos hicimos
 un recodo en la ruta donde el amor pasó.
-
-
-
 
 Fui tuyo, fuiste mía. Tú serás del que te ame,
 del que corte en tu huerto lo que he sembrado yo.
@@ -1021,33 +969,14 @@ Vengo desde tus brazos. No sé hacia dónde voy.
 ...Desde tu corazón me dice adiós un niño.
 Y yo le digo adiós.
 
-
-
-
-
-
-
-
-
-
-
 ## LEOPOLDO ALAS
 ### RAZÓN DE AMOR
 No es sólo la pasión de los abrazos, la saliva, el aroma, el vértigo, los besos o el plácido desvelo de la ausencia. Mi amor es la fábula y la trama, el relato interior que sigue a cada encuentro, la glosa que acompaña los adioses, el minucioso examen de las frases y el eco que tu voz le pone a mi silencio.
 Mi amor es ser feliz y no engañarme anticipando el daño del negro desengaño, cuando el sexo se esfume en el recuerdo remoto y resentido de un orgasmo. El consentir la calma en las mareas y atesorar las horas y los días de la fiesta de luz que celebramos, del banquete voraz de los sentidos.
 Y abolir la frontera de los cuerpos, detenernos, subiendo la escalera, a besarnos en todos los peldaños.
 
-
-
-
-
-
-
-
-
-
 ### Al filo de los treinta
-SUPÓN QUE TODO SIGUE...
+Supón que todo sigue...
 La voz que siempre escuchas por las tardes
 cuando a solas suspiras para aliviar el peso,
 con ganas de cambiar y miedo a las personas
@@ -1061,9 +990,6 @@ el cielo azul cansado y una torre dormida.
 despenar sin heridas como en los viejos tiempos,
 madrugadas difusas y, a la tarde,
 un rato nada más en el abismo.
-
-
-
 
 ### Al filo de los cuarenta
 Hasta cuándo podré querer a muchos sin entregarme a nadie.
@@ -1091,7 +1017,6 @@ pues todo lo apostado se perdió en el propio engaño.
 Pero me tengo al fin.
 Ya no me busco en el espejo. Soy el que soy.
 
-
 ## SILVA
 ### EL MAL DEL SIGLO
 El paciente:
@@ -1111,13 +1036,8 @@ de mañanita; duerma largo, báñese;
 beba bien; coma bien; cuídese mucho,
 ¡Lo que usted tiene es hambre!...
 
-
-
-
-
 ## VINICIUS DE MORAES
 ### Para vivir un gran amor
-
 Para vivir un gran amor se necesita
 mucha concentración y mucho tino,
 mucha seriedad y poca risa...
@@ -1133,7 +1053,6 @@ sea como fuere. Hay que convertir
 el cuerpo en una morada donde
 se enclaustre a la mujer amada, y luego
 apostarse afuera con una espada...
-
 para vivir un gran amor.
 Para vivir un gran amor es urgente,
 descartarse al máximo de la gente,
@@ -1147,7 +1066,7 @@ Para vivir un gran amor, les digo,
 se necesita mucha atención con el "mejor amigo",
 que por andar solo se les puede pegar
 hasta frustrar el gran amor.
-##SE NECESITA MUCHÍSIMO CUIDADO
+Se necesita muchísimo cuidado
 con aquellos que no estén apasionados,
 pues quien no lo está se halla siempre
 dispuesto a perturbar el gran amor.
@@ -1206,15 +1125,8 @@ si en esta oscura y alocada selva
 no se supiere hallar a la bien-amada...
 para vivir un gran amor.
 
-
-
-
-
-
-
 ## RAÚL GÓMEZ JATTIN
 ### CANCIÓN DEL AMOR SINCERO
-
 Prometo no amarte eternamente,
 ni serte fiel hasta la muerte,
 ni caminar tomados de la mano,
@@ -1226,11 +1138,8 @@ y miraré a otras mujeres,
 vos mirarás a otros hombres;
 juro que no eres mi todo
 ni mi cielo, ni mi única razón de vivir,
-
-
-
 aunque te extraño a veces.
-PROMETO NO DESEARTE SIEMPRE
+Prometo no desearte siempre
 a veces me cansaré de tu sexo
 vos te cansarás del mío
 y tu cabello en algunas ocasiones
@@ -1258,12 +1167,6 @@ se puede adivinar un asco al dulzor de las caricias
 implorando
 es carne de hospital y de presidio
 lo que esa putica camufla en su esplendor.
-
-
-
-
-
-
 
 ## ALFONSINA STORNI
 ### Así
@@ -1305,8 +1208,6 @@ que de tantas cuerdas que tengo he terminado por tirar de una sola;
 que me gusta embarrarme porque el barro es materia pobre y por lo tanto pura;
 que adoro la luz sólo si no ofrece esperanza.
 
-
-
 ### MUERTE
 Vuelvo a ti, como vuelve
 un emigrado a su país y lo redescubre:
@@ -1323,11 +1224,6 @@ Ahora me das miedo de verdad,
 porque estás de verdad cerca, incluida
 en mi estado de rabia, de oscura
 hambre, de ansia casi de criatura nueva.
-
-
-
-
-
 
 ## LEÓN DE GREIFF
 ### VILLA DE LA CANDELARIA
@@ -1355,10 +1251,8 @@ y en un mayor volumen de la panza.
 Juego mi vida, cambio mi vida,
 de todos modos
 la llevo perdida...
-
 Y la juego o la cambio por el más infantil espejismo,
 la dono en usufructo, o la regalo...
-
 La juego contra uno o contra todos,
 la juego contra el cero o contra el infinito,
 la juego en una alcoba, en el ágora, en un garito,
@@ -1367,7 +1261,6 @@ la juego definitivamente, desde el principio hasta el fin,
 a todo lo ancho y a todo lo hondo
 en la periferia, en el medio,
 y en el sub-fondo...
-
 Juego mi vida, cambio mi vida,
 la llevo perdida
 sin remedio.
@@ -1376,11 +1269,9 @@ la dono en usufructo, o la regalo...:
 o la trueco por una sonrisa y cuatro besos:
 todo, todo me da lo mismo:
 lo eximio y lo rüin, lo trivial, lo perfecto, lo malo...
-
 Todo, todo me da lo mismo:
 todo me cabe en el diminuto, hórrido abismo
 donde se anudan serpentinos mis sesos.
-
 Cambio mi vida por lámparas viejas
 o por los dados con los que se jugó la túnica inconsútil:
 por lo más anodino, por lo más obvio, por lo más fútil:
@@ -1392,7 +1283,6 @@ cambio mi vida por una anilla de hojalata
 o por la espada de Sigmundo,
 o por el mundo
 que tenía en los dedos Carlomagnos: para echar a rodar la bola...
-
 Cambio mi vida por la cándida aureola
 del idiota o del santo;
 la cambio por el collar
@@ -1405,10 +1295,8 @@ por una copla, por una saeta,
 por un cantar;
 por una baraja incompleta;
 por una faca, por una pipa, por una sambuca...
-
 o por esa muñeca que llora
 como cualquier poeta.
-
 Cambio mi vida al fiado por una fábrica de crepúsculos
 (con arreboles);
 por un gorila de Borneo;
@@ -1417,34 +1305,25 @@ por las perlas que se bebió la cetrina Cleopatra
 o por su naricilla que está en algún Museo;
 cambio mi vida por lámparas viejas,
 o por la escala de Jacob, o por su plato de lentejas...
-
 ¡o por dos huequecillos minúsculos
 en las sienes por donde se me fugue, en grises podres,
 toda la hartura, todo el fastidio, todo el horror que almaceno en mis odres...!
-
 Juego mi vida, cambio mi vida.
 De todos modos
 la llevo perdida...
-##EDMUNDO DE ORY
-Estar contigo es un vocablo insólito...
+
+## EDMUNDO DE ORY
+### Estar contigo es un vocablo insólito...
 Estar contigo es un vocablo insólito
 y el día que se rompa en pedacitos
 el enorme silencio del olvido
 será un eco anacrónico en mis noches.
-
 Alejanado de tu hechura a tientas
 repitiendo sintigo en mi destierro
 ya no cultivaré la corteza uniforme
 de una estrella en la punta de mis dedos.
-
 Eres tan espantosamente joven
 que estar contigo es un regalo loco.
-
-
-
-
-
-
 
 ## JUAN FELIPE ROBLEDO
 ### Se acepta la propia condición
@@ -1462,11 +1341,6 @@ y no somos sino días cegados
 y ponientes que se doblan y mañanas para nada
 y delirios de un ayer que tampoco fue mejor.
 
-
-
-
-
-
 ## RAFAEL ALBERTI
 ### LA PALOMA
 Se equivocó la paloma,
@@ -1482,16 +1356,10 @@ que tu corazón su casa.
 (Ella se durmió en la orilla,
 tú en la cumbre de una rama.)
 
-
-
-
-
-
-
 ## IDEA VILARIÑO
 ### YA NO
 
-YA NO SERÁ
+Ya no será
 ya no
 no viviremos juntos
 no criaré a tu hijo
@@ -1507,8 +1375,6 @@ lo que dijiste que era
 ni quién fuiste
 ni qué fui para ti
 ni cómo hubiera sido
-
-
 vivir juntos
 querernos
 esperarnos
@@ -1531,18 +1397,6 @@ No te veré morir.
 ## MIGUEL DE CERVANTES SAAVEDRA
 ### DON QUIJOTE DE LA MANCHA
 No se muera vuestra merced, sino tome mi consejo, y viva muchos años; porque la mayor locura que puede hacer en esta vida es dejarse morir, sin más ni más, sin que nadie le mate, ni otras manos le acaben que las de la melancolía.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## ALLEN GINSBERG
 ### BUENA SUERTE
