@@ -88,10 +88,8 @@ para saber qué cosa es la pureza.
 Punto, fecha y firma.
 Así lo dejo escrito.
 
-
-
 ### No sé por qué piensas tú,
-soldado, que te odio yo,
+Soldado, que te odio yo,
 si somos la misma cosa
 yo,
 tú.
@@ -104,7 +102,6 @@ te olvides de quién soy yo;
 caramba, si yo soy tú,
 lo mismo que tú eres yo.
 Pero no por eso yo
-
 he de malquererte, tú;
 si somos la misma cosa,
 yo,
