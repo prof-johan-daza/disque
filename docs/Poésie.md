@@ -78,18 +78,18 @@ y que lo sabemos perfectamente bien eso también lo sabemos.
 
 ## Digo que yo no soy un hombre puro
 
-Yo no voy a decirte que soy un hombre puro.\
-Entre otras cosas\
+Yo no voy a decirte que soy un hombre puro.
+Entre otras cosas
 falta saber si es que lo puro existe.
 
-O si es, pongamos, necesario.\
-O posible.\
-O si sabe bien.\
-¿Acaso has tú probado el agua químicamente pura,\
-el agua de laboratorio,\
-sin un grano de tierra o de estiércol,\
-sin el pequeño excremento de un pájaro,\
-el agua hecha no más de oxígeno e hidrógeno?\
+O si es, pongamos, necesario.
+O posible.
+O si sabe bien.
+¿Acaso has tú probado el agua químicamente pura,
+el agua de laboratorio,
+sin un grano de tierra o de estiércol,
+sin el pequeño excremento de un pájaro,
+el agua hecha no más de oxígeno e hidrógeno?
 ¡Puah!, qué porquería.
 
 Yo no te digo pues que soy un hombre puro,\
@@ -563,7 +563,7 @@ huraño, atroz, inexorable, hirsuto,\
 jamás viví como en aquella muerte,\
 nunca te amé como en aquel minuto!
 
-# **Jaime Sabines**
+# Jaime Sabines
 
 ## Canonicemos a las putas
 
