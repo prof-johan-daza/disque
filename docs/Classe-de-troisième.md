@@ -3,7 +3,7 @@
 ## Diplôme national du brevet
 Test 
 
-### **Dates Diplôme national du brevet blanc**
+### Dates Diplôme national du brevet blanc
 
 !!! abstract "**Dates Diplôme national du brevet blanc**"
 
@@ -12,13 +12,16 @@ Test
     _Dates à venir_
     ///
 
-    !!! bug "**Diplôme national du brevet – Sujets corrigés**"
+### Dates Diplôme national du brevet blanc – Sujets corrigés
 
-        [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+!!! bug "**Diplôme national du brevet – Sujets corrigés**"
+
+    [Cliquez ici pour télécharger les sujets corrigés de 2016 à 2022 - Site source : www.physix.fr](https://prof-johan-daza.github.io/general/3/Disque/DNB.pdf)
+
 
 ## Première, deuxième et troisième semaines
 
-### **INTRODUCTION – Les grandeurs physiques : contenu du cours**
+### INTRODUCTION – Les grandeurs physiques : contenu du cours
 
 !!! abstract "**INTRODUCTION – Les grandeurs physiques : contenu du cours**"
 
@@ -31,15 +34,21 @@ Test
     et 
     
     << 1re feuille corrigée en continu par prof >>
-    
-    !!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
-        [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
+### INTRODUCTION – Les grandeurs physiques : première feuille d’exercices
 
-        !!! note "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison**"
+!!! tip "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices**"
 
-            [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/S3.pdf)
 
-            !!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
+### INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison
 
-                [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
+!!! note "**INTRODUCTION – Les grandeurs physiques : première feuille d’exercices à corriger à la maison**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.docx) 
+
+### INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel
+
+!!! bug "**INTRODUCTION – Les grandeurs physiques : première feuille – Corrigé officiel**"
+
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S3/Corrigé.pdf)
