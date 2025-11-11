@@ -2,23 +2,37 @@
 
 ## RAMÓN DE CAMPOAMOR
 ### _Amar y querer_
-A la infiel más infiel de las hermosas 
-un hombre la quería, y yo la amaba; 
-y ella a un tiempo a los dos nos encantaba 
-con la miel de sus frases engañosas. 
-Mientras él, con sus flores venenosas,  
-queriéndola, su aliento emponzoñaba, 
-yo de ella ante los pies, que idolatraba, 
-acabadas de abrir echaba rosas. 
-De su favor ya en vano el aire arrecia; 
-mintió a los dos, y sufrirá el castigo  
-que uno la da por vil, y otro por necia. 
-No hallará paz con él, ni bien conmigo: 
-él, que solo la quiso, la desprecia; 
+A la infiel más infiel de las hermosas
+
+un hombre la quería, y yo la amaba;
+ 
+y ella a un tiempo a los dos nos encantaba
+
+con la miel de sus frases engañosas.
+
+Mientras él, con sus flores venenosas,
+
+queriéndola, su aliento emponzoñaba,
+
+yo de ella ante los pies, que idolatraba,
+
+acabadas de abrir echaba rosas.
+
+De su favor ya en vano el aire arrecia;
+
+mintió a los dos, y sufrirá el castigo
+
+que uno la da por vil, y otro por necia.
+
+No hallará paz con él, ni bien conmigo:
+
+él, que solo la quiso, la desprecia;
+
 yo, que tanto la amaba, la maldigo.
 
+
 ## HANS MAGNUS ENZENSBERGER
-### Canción para los que saben
+### _Canción para los que saben_
 Sabemos que hay que hacer algo inmediatamente lo sabemos pero naturalmente es demasiado pronto para hacerlo pero naturalmente es demasiado tarde para hacerlo lo sabemos
 que realmente estamos bastante bien y que así vamos a continuar y que esto no sirve para nada lo sabemos
 que somos nosotros los culpables y que no es culpa nuestra que seamos culpables y que somos culpables por ese mismo hecho y que estamos hartos con ello lo sabemos
