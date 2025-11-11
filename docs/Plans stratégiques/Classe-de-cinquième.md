@@ -6,7 +6,6 @@
 
 !!! abstract ""
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
-    
     ![Image](https://prof-johan-daza.github.io/general/5/S3/S3.png){ align=left }
     /// caption 
     _Bateau thermique : la bougie chauffe l’air dans la canette, créant un mouvement qui pousse le bateau._
