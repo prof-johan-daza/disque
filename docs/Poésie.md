@@ -1,7 +1,7 @@
 # **_Poésie_**
 
 ## **_RAMÓN DE CAMPOAMOR_**
-### _Amar y querer_
+### **_Amar y querer_**
 A la infiel más infiel de las hermosas
 
 un hombre la quería, y yo la amaba;
@@ -33,8 +33,14 @@ yo, que tanto la amaba, la maldigo.
 
 ## HANS MAGNUS ENZENSBERGER
 ### _Canción para los que saben_
-Sabemos que hay que hacer algo inmediatamente lo sabemos pero naturalmente es demasiado pronto para hacerlo pero naturalmente es demasiado tarde para hacerlo lo sabemos
-que realmente estamos bastante bien y que así vamos a continuar y que esto no sirve para nada lo sabemos
+Sabemos que hay que hacer algo inmediatamente, lo sabemos pero naturalmente es demasiado pronto para hacerlo 
+
+pero naturalmente es demasiado tarde para hacerlo, lo sabemos
+
+que realmente estamos bastante bien y que así vamos a continuar
+
+y que esto no sirve para nada, lo sabemos
+
 que somos nosotros los culpables y que no es culpa nuestra que seamos culpables y que somos culpables por ese mismo hecho y que estamos hartos con ello lo sabemos
 que quizá no vendría mal callarse un poco y que a fin de cuentas no vamos a callarnos lo sabemos lo sabemos
 y que a nadie podemos ayudar verdaderamente y que nadie verdaderamente puede ayudarnos lo sabemos
