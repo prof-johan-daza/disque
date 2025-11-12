@@ -321,7 +321,7 @@ vuelve los ojos locos, y todo lo vivido
 se empoza, como charco de culpa, en la mirada.
 Hay golpes en la vida, tan fuertes... ¡Yo no sé!
 
-## **_Espergesia_**
+### **_Espergesia_**
 Yo nací un día
 que Dios estuvo enfermo. 
 Todos saben que vivo, 
