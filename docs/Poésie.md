@@ -35,7 +35,9 @@ yo, que tanto la amaba, la maldigo.
 ## HANS MAGNUS ENZENSBERGER
 ### **_Canción para los que saben_**
 
-Sabemos que hay que hacer algo inmediatamente, lo sabemos pero naturalmente es demasiado pronto para hacerlo 
+Sabemos que hay que hacer algo inmediatamente, 
+
+lo sabemos pero naturalmente es demasiado pronto para hacerlo 
 
 pero naturalmente es demasiado tarde para hacerlo, lo sabemos
 
