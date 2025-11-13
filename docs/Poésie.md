@@ -1448,7 +1448,7 @@ los raudos potros, en febril disputa,
 hacen silbar sobre la sorda ruta.  
 los huracanes en su crin revuelta.
 
-Atrás dejando la llanura envuelta. 
+Atrás dejando la llanura envuelta  
 en polvo, alargan la cerviz enjuta,  
 y a su carrera retumbante y bruta,  
 cimbran los pindos y la palma esbelta.  
