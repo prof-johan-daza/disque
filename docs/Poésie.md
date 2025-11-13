@@ -1445,7 +1445,7 @@ Suerte que puedo pensar y que el cielo puede nevar.
 
 Atropellados, por la pampa suelta,  
 los raudos potros, en febril disputa,  
-hacen silbar sobre la sorda ruta.  
+hacen silbar sobre la sorda ruta  
 los huracanes en su crin revuelta.
 
 Atrás dejando la llanura envuelta  
