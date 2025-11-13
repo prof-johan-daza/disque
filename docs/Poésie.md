@@ -1443,20 +1443,20 @@ Suerte que puedo pensar y que el cielo puede nevar.
 ## JOSÉ EUSTACIO RIVERA
 ### **_Los potros_**
 
-Atropellados, por la pampa suelta, <!-- Acá hay un salto de línea según libro -->
-los raudos potros, en febril disputa, <!-- Acá hay un salto de línea según libro -->
-hacen silbar sobre la sorda ruta <!-- ... -->
+Atropellados, por la pampa suelta,  
+los raudos potros, en febril disputa,
+hacen silbar sobre la sorda ruta. 
 los huracanes en su crin revuelta.
 
-Atrás dejando la llanura envuelta
-en polvo, alargan la cerviz enjuta,
-y a su carrera retumbante y bruta,
-cimbran los pindos y la palma esbelta.
+Atrás dejando la llanura envuelta. 
+en polvo, alargan la cerviz enjuta,  
+y a su carrera retumbante y bruta,  
+cimbran los pindos y la palma esbelta.  
 
-Ya cuando cruzan el austral peñasco,
-vibra un relincho por las altas rocas;
-entonces para el triunfante casco,
+Ya cuando cruzan el austral peñasco,  
+vibra un relincho por las altas rocas;  
+entonces para el triunfante casco,  
 
-resoplan, roncos, ante el sol violento,
-y alzando en grupo las cabezas locas,
-oyen llegar el restrasado viento.
+resoplan, roncos, ante el sol violento,  
+y alzando en grupo las cabezas locas,  
+oyen llegar el restrasado viento.  
