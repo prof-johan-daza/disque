@@ -1444,8 +1444,8 @@ Suerte que puedo pensar y que el cielo puede nevar.
 ### **_Los potros_**
 
 Atropellados, por la pampa suelta,  
-los raudos potros, en febril disputa,
-hacen silbar sobre la sorda ruta. 
+los raudos potros, en febril disputa,  
+hacen silbar sobre la sorda ruta.  
 los huracanes en su crin revuelta.
 
 Atrás dejando la llanura envuelta. 
