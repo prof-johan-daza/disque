@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Classe-de-troisi%C3%A8me/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Po%C3%A9sie/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Plans%20strat%C3%A9giques/Classe-de-cinqui%C3%A8me/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Plans%20strat%C3%A9giques/Plan%20strat%C3%A9gique%20quadriennale%20Laura/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Plans%20strat%C3%A9giques/Plan%20strat%C3%A9gique%20quadriennale%20face%20aux%20banques%20%2834%E2%80%9338%29/</loc>
+         <lastmod>2025-11-14</lastmod>
+    </url>
+</urlset>
