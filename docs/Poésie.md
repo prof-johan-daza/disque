@@ -456,7 +456,7 @@ Qué, entonces, sentir lo que sentirías tú.
 Ella está hecha a semejanza de las cosas que amo.
 Se parece a la noche,
 o mejor: a una noche sin ausencias.
-ELLA ES EXACTA.
+Ella es exacta.
 Cuando la noche escurre, su cuerpo se humedece.
 Me permite trepar por mis temblores
 y agitar su nombre desde la oscuridad.
@@ -658,13 +658,17 @@ que ahora se besan,
 todavía no saben
 que tendrán
 que separarse muy pronto.
-LOS ENAMORADOS
+Los enamorados
 que aún no se han encontrado,
 ignoran
 que pronto creerán
 haberse hallado
 para todos los tiempos.
-POBRES
+Pobres
+los que ya se encontraron, 
+ahora tendrán 
+que separarse.
+Pobres
 los que aún no se han hallado,
 ahora tendrán
 que continuar esperando.
@@ -841,19 +845,19 @@ Algún día te escribiré un poema, el canto de mi dicha.
 
 ## DIEGO DE TORRES Y VILLARROEL
 ### **_Ciencia de los cortesanos de este siglo_**
-Bañarse con harina la melena,
-ir enseñando a todos la camisa,
-espada que no asuste y que dé risa,
-su anillo, su reloj y su cadena;
-hablar a todos con la faz serena,
-besar los pies a misa doña Luisa,
-y asistir como cosa muy precisa
-al pésame, al placer y enhorabuena;
-estar enamorado de sí mismo,
-mascullar una arieta en italiano
-y bailar en francés tuerto o derecho;
-con esto, y olvidar el catecismo,
-cátate hecho y derecho cortesano,
+Bañarse con harina la melena,  
+ir enseñando a todos la camisa,  
+espada que no asuste y que dé risa,  
+su anillo, su reloj y su cadena;  
+hablar a todos con la faz serena,  
+besar los pies a misa doña Luisa,  
+y asistir como cosa muy precisa  
+al pésame, al placer y enhorabuena;  
+estar enamorado de sí mismo,  
+mascullar una arieta en italiano  
+y bailar en francés tuerto o derecho;  
+con esto, y olvidar el catecismo,  
+cátate hecho y derecho cortesano,  
 mas llevárate el diablo dicho y hecho.
 
 ## LUIS CERNUDA
@@ -1169,7 +1173,7 @@ a veces me cansaré de tu sexo
 vos te cansarás del mío
 y tu cabello en algunas ocasiones
 se hará fastidioso en mi cara.
-JURO QUE HABRÁ MOMENTOS
+Juro que habrá momentos
 en que sentiremos un odio mutuo,
 desearemos terminar todo y
 quizás lo terminaremos.
