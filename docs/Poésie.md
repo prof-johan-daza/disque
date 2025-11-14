@@ -1427,9 +1427,11 @@ No se muera vuestra merced, sino tome mi consejo, y viva muchos años; porque la
 ### **_Buena suerte_**
 Tengo suerte de tener los cinco dedos en la mano derecha  
 Suerte de hacer pipí sin que me duela mucho  
-Suerte que los intestinos se muevan.  
+Suerte que los intestinos se muevan.
+
 Suerte, duermo de noche en una cama de capitán,  
-siesta a media tarde.  
+siesta a media tarde.
+
 Suerte de pasear por First Avenue  
 Suerte de ganar un par de cien mil al año  
 cantando Eli Eli,  
@@ -1437,7 +1439,7 @@ escribiendo lo que se me pasa por la cabeza,
 grabando garabatos primordiales,  
 enseñando en un colegio budista,  
 sacándole fotos con la Leica a la parada del bus  
-por la ventana de mis ojos  
+por la ventana de mis ojos.
 
 Oigo sirenas de ambulancias, huelo ajo y orín,  
 pruebo nísperos y lenguado,  
