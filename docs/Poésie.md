@@ -856,8 +856,7 @@ al pésame, al placer y enhorabuena;
 estar enamorado de sí mismo,  
 mascullar una arieta en italiano  
 y bailar en francés tuerto o derecho;  
-con esto, y olvidar el catecismo,
-
+con esto, y olvidar el catecismo,  
 cátate hecho y derecho cortesano,  
 mas llevárate el diablo dicho y hecho.
 
