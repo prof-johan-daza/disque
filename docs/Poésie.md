@@ -1002,64 +1002,70 @@ Mi amor es ser feliz y no engañarme anticipando el daño del negro desengaño, 
 Y abolir la frontera de los cuerpos, detenernos, subiendo la escalera, a besarnos en todos los peldaños.
 
 ### **_Al filo de los treinta_**
-Supón que todo sigue...
-La voz que siempre escuchas por las tardes
-cuando a solas suspiras para aliviar el peso,
-con ganas de cambiar y miedo a las personas
+Supón que todo sigue...  
+La voz que siempre escuchas por las tardes  
+cuando a solas suspiras para aliviar el peso,  
+con ganas de cambiar y miedo a las personas  
 y cierta desazón de estar sin ellas.
-Oigo la luz, más que verla, tumbado
-en esta cama antigua, en Almería,
+
+Oigo la luz, más que verla, tumbado  
+en esta cama antigua, en Almería,  
 al filo de los treinta.
-Las notas del silencio,
-el cielo azul cansado y una torre dormida.
-...que todo siga siendo tan sencillo:
-despenar sin heridas como en los viejos tiempos,
-madrugadas difusas y, a la tarde,
+
+Las notas del silencio,  
+el cielo azul cansado y una torre dormida.  
+...que todo siga siendo tan sencillo:  
+despenar sin heridas como en los viejos tiempos,  
+madrugadas difusas y, a la tarde,  
 un rato nada más en el abismo.
 
 ### **_Al filo de los cuarenta_**
-Hasta cuándo podré querer a muchos sin entregarme a nadie.
-Cuántos días de espontánea indefinición me quedan por delante.
-Él me espera y tiene mis facciones.
-Cuarenta años, hermano.
-Lo prefiero a todos: amables rostros que reflejaron el mío volátil,
+Hasta cuándo podré querer a muchos sin entregarme a nadie.  
+Cuántos días de espontánea indefinición me quedan por delante.  
+Él me espera y tiene mis facciones.  
+Cuarenta años, hermano.  
+Lo prefiero a todos: amables rostros que reflejaron el mío volátil,  
 almas afines que completaron mi esencia fragmentada.
-Después de tanto errar por tantos cuerpos, doy con el mío.
-Por fin un hombre interesante. Soy él.
-No era yo dirigiendo una nave imperfecta de carne,
-tan firme y rotunda en su ingrata juventud.
-Tomad y comed porque yo soy mi cuerpo.
-Yo quise ser vosotros, amigos del alma,
-y en cada uno aprendí a quererme.
-Pero en mí mismo estoy mejor acomodado
-que en la insaciable búsqueda exterior de inteligencia y belleza.
-Cuarenta, hermano.
-Olvida el paraíso de la infancia, que muchos cuestionan:
-tan hermosos fueron aquellos días suspendidos
-de horizontes inmensos
-como estos de ahora, caídos y sin perspectiva.
-Y del amor ni hablemos
-pues todo lo apostado se perdió en el propio engaño.
-Pero me tengo al fin.
-Ya no me busco en el espejo. Soy el que soy.
+
+Después de tanto errar por tantos cuerpos, doy con el mío.  
+Por fin un hombre interesante. Soy él.  
+No era yo dirigiendo una nave imperfecta de carne,  
+tan firme y rotunda en su ingrata juventud.  
+Tomad y comed porque yo soy mi cuerpo.  
+Yo quise ser vosotros, amigos del alma,  
+y en cada uno aprendí a quererme.  
+
+Pero en mí mismo estoy mejor acomodado  
+que en la insaciable búsqueda exterior de inteligencia y belleza.  
+Cuarenta, hermano.  
+Olvida el paraíso de la infancia, que muchos cuestionan:  
+tan hermosos fueron aquellos días suspendidos  
+de horizontes inmensos  
+como estos de ahora, caídos y sin perspectiva.  
+Y del amor ni hablemos  
+pues todo lo apostado se perdió en el propio engaño.  
+Pero me tengo al fin.   
+Ya no me busco en el espejo. Soy el que soy.  
 
 ## SILVA
 ### **_El mal del siglo_**
-El paciente:
-Doctor, un desaliento de la vida
-que en lo íntimo de mí se arraiga y nace,
-el mal del siglo... el mismo mal de Werther,
+El paciente:  
+Doctor, un desaliento de la vida  
+que en lo íntimo de mí se arraiga y nace,  
+el mal del siglo... el mismo mal de Werther,  
 de Rolla, de Manfredo y de Leopardi.
-Un cansancio de todo, un absoluto
-desprecio por lo humano... un incesante
-renegar de lo vil de la existencia
-digno de mi maestro Schopenhauer;
-un malestar profundo que se aumenta
-con todas las torturas del análisis...
-El médico:
-Eso es cuestión de régimen: camine
-de mañanita; duerma largo, báñese;
-beba bien; coma bien; cuídese mucho,
+
+Un cansancio de todo, un absoluto  
+desprecio por lo humano... un incesante  
+renegar de lo vil de la existencia  
+digno de mi maestro Schopenhauer;  
+un malestar profundo que se aumenta  
+con todas las torturas del análisis...  
+
+El médico:  
+Eso es cuestión de régimen: camine  
+de mañanita; duerma largo, báñese;  
+beba bien; coma bien; cuídese mucho,  
 ¡Lo que usted tiene es hambre!...
 
 ## VINICIUS DE MORAES
