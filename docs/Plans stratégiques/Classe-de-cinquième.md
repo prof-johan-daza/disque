@@ -30,3 +30,13 @@
     /// caption 
     Le film relate l'histoire de M. Gustave, concierge à l'hôtel Grand Budapest situé dans le pays imaginaire de Zubrowka pendant l'entre-deux-guerres. Alors que les nazis envahissent l'Europe, M. Gustave enseigne son métier à son jeune assistant, le groom Zero Mustapha. M. Gustave héritant un tableau de valeur d'une de ses clientes, les héritiers de celle-ci sont prêts à tout pour remettre la main sur le tableau y compris utiliser des méthodes violentes et crapuleuses. - Wikipedia
     ///
+
+## John Schlesinger
+
+### Midnight Cowboy, 1969
+
+!!! abstract ""
+    ![Image](https://prof-johan-daza.github.io/disque/Disque/Disque/MC.png){ width="800" }
+    /// caption 
+    Classé X à sa sortie en salles par la commission de classification américaine en raison de ses scènes érotiques, il a été récompensé par trois Oscars en 1970 (dont celui du meilleur film, une première pour un film classé X), avant d'être finalement interdit aux moins de 17 ans en 1971. - Wikipedia
+    ///
