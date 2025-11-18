@@ -23,27 +23,36 @@ yo, que tanto la amaba, la maldigo.
 ## HANS MAGNUS ENZENSBERGER
 ### **_Canción para los que saben_**
 
-Sabemos que hay que hacer algo inmediatamente, 
+Sabemos que hay que hacer algo inmediatamente, lo sabemos  
+pero naturalmente es demasiado pronto para hacerlo  
+pero naturalmente es demasiado tarde para hacerlo, lo sabemos  
+que realmente estamos bastante bien y que así vamos a continuar  
+y que esto no sirve para nada, lo sabemos.  
+Que somos nosotros los culpables y que no es culpa nuestra  
+que seamos culpables y que somos culpables por ese mismo hecho  
+y que estamos hartos con ello, lo sabemos.  
+Que quizá no vendría mal callarse un poco y que a fin de cuentas  
+no vamos a callarnos, lo sabemos, lo sabemos.  
+Y que a nadie podemos ayudar verdaderamente y que nadie  
+verdaderamente puede ayudarnos, lo sabemos.  
+Y que somos tan inteligentes y libres para elegir entre la nada  
+y lo nulo y que debemos estudiar este problema muy cuidadosamente  
+y que echamos dos terrones de azúcar en el té, lo sabemos.
 
-lo sabemos pero naturalmente es demasiado pronto para hacerlo 
+Que somos enemigos de la opresión y que los cigarrillos  
+han subido de precio, lo sabemos  
+y que la nación se está metiendo en un tremendo lío  
+y que nuestros vaticinios se mostrarán ciertos  
+y que no sirven para nada, lo sabemos.  
 
-pero naturalmente es demasiado tarde para hacerlo, lo sabemos
+Y que todo esto es verdad, lo sabemos.  
+Y que sobrevivir no es todo sino muy poca cosa, lo sabemos.  
+Y que sobreviviremos, lo sabemos.  
+Y que todo esto no es nada nuevo  
+y que la vida es preciosa y que eso es todo, lo sabemos  
+lo sabemos, lo sabemos perfectamente bien.
 
-que realmente estamos bastante bien y que así vamos a continuar
-
-y que esto no sirve para nada, lo sabemos
-
-que somos nosotros los culpables y que no es culpa nuestra que seamos culpables y que somos culpables por ese mismo hecho y que estamos hartos con ello lo sabemos
-que quizá no vendría mal callarse un poco y que a fin de cuentas no vamos a callarnos lo sabemos lo sabemos
-y que a nadie podemos ayudar verdaderamente y que nadie verdaderamente puede ayudarnos lo sabemos
-y que somos tan inteligentes y libres para elegir entre la nada y lo nulo y que debemos estudiar este problema muy cuidadosamente y que echamos dos terrones de azúcar en el té lo sabemos
-que somos enemigos de la opresión y que los cigarrillos han subido de precio lo sabemos
-y que la nación se está metiendo en un tremendo lío y que nuestros vaticinios se mostrarán ciertos y que no sirven para nada lo sabemos
-y que todo esto es verdad lo sabemos
-y que sobrevivir no es todo sino muy poca cosa lo sabemos
-y que sobreviviremos lo sabemos
-y que todo esto no es nada nuevo y que la vida es preciosa y que eso es todo lo sabemos lo sabemos lo sabemos perfectamente bien
-y que lo sabemos perfectamente bien eso también lo sabemos.
+Y que lo sabemos perfectamente bien, eso también lo sabemos.
 
 ## NICOLÁS GUILLÉN
 ### **_Digo que yo no soy un hombre puro_**
