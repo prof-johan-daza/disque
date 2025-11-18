@@ -1,7 +1,9 @@
-# **_Plan stratégique quadriennale face aux banques (34–38)_**
+# **_Plan stratégique annuel face à la pénurie (34–38)_**
 
-- [x] Mois 1 - 13M et 25M font 38M – 23 septembre. 2025 au 23 octobre. 2025
-- [x] Mois 2 – 13M et 25M font 38M - 23 octobre. 2025 au 23 novembre. 2025
+- [x] Mois 1 - 23 septembre. 2025 au 23 octobre. 2025
+- [ ] Mois 2 - 23 octobre. 2025 au 23 novembre. 2025
+    * [x] 8000000 à 8090117,12
+    * [ ] 5000000 à ____________
 - [ ] Mois 3 – 23 novembre. 2025 au 23 décembre. 2025
 - [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
 - [ ] Mois 5 – 23 janvier. 2026 au 23 février. 2026
@@ -12,7 +14,11 @@
 - [ ] Mois 10 – 23 juin. 2026 au 23 juillet. 2026
 - [ ] Mois 11 – 23 juillet. 2026 au 23 août. 2026
 - [ ] Mois 12 – 23 août. 2026 au 23 septembre. 2026
-- [ ] Mois 13 – 23 septembre. 2026 au 23 octobre. 2026
+
+
+
+
+<!-- - [ ] Mois 13 – 23 septembre. 2026 au 23 octobre. 2026
 - [ ] Mois 14 – 23 octobre. 2026 au 23 novembre. 2026
 - [ ] Mois 15 – 23 novembre. 2026 au 23 décembre. 2026
 - [ ] Mois 16 – 23 décembre. 2026 au 23 janvier. 2027
@@ -49,12 +55,4 @@
 - [ ] Mois 47 – 23 juillet. 2029 au 23 août. 2029
 - [ ] Mois 48 – 23 août. 2029 au 23 septembre. 2029
 - [ ] Mois 49 – 23 septembre. 2029 au 23 octobre. 2029
-- [ ] Mois 50 – 23 octobre. 2029 au 23 novembre. 2029
-
-## **_Test_**
-
-### **_Test_**
-
-## **_Test_**
-
-### **_Test_**
+- [ ] Mois 50 – 23 octobre. 2029 au 23 novembre. 2029 -->
