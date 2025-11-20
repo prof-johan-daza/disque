@@ -40,3 +40,14 @@
     /// caption 
     Classé X à sa sortie en salles par la commission de classification américaine en raison de ses scènes érotiques, il a été récompensé par trois Oscars en 1970 (dont celui du meilleur film, une première pour un film classé X), avant d'être finalement interdit aux moins de 17 ans en 1971. - Wikipedia
     ///
+
+
+## 
+
+### 
+
+!!! abstract ""
+    ![Image](https://prof-johan-daza.github.io/disque/Disque/Disque/IA.png){ width="800" }
+    /// caption 
+    Le film reçoit à sa sortie des critiques globalement élogieuses et réalise de bonnes performances au box-office. Il obtient deux nominations aux Oscars 2002 : meilleurs effets visuels et meilleure musique. Dans un sondage réalisé par la BBC en 2016 auprès de 177 critiques du monde entier, A.I. Intelligence artificielle est classé 83e meilleur film sorti depuis 2000. - Wikipedia
+    ///
