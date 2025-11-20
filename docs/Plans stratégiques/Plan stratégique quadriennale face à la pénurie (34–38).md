@@ -2,9 +2,9 @@
 
 - [x] Mois 1 - 23 septembre. 2025 au 23 octobre. 2025
 - [ ] Mois 2 - 23 octobre. 2025 au 23 novembre. 2025
-    * [x] 25000000 bits
-    * [x] 8000000 bits à 8090117,12 bits
-    * [ ] 5000000 à ____________
+    * [x] 25  000  000 bits
+    * [x] 8  000  000 bits à 8  090  117,12 bits
+    * [ ] 5  000  000 à ____________.
 - [ ] Mois 3 – 23 novembre. 2025 au 23 décembre. 2025
 - [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
 - [ ] Mois 5 – 23 janvier. 2026 au 23 février. 2026
