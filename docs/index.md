@@ -1,4 +1,4 @@
-# *_Réfractaire adj._**
+# **_Réfractaire adj._**
 
 ## Réfractaire au système
 
