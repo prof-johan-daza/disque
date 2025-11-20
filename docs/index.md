@@ -1,4 +1,10 @@
-# **_Johan_**
+# *_Réfractaire adj._**
+
+## Réfractaire au système
+
+!!! question ""
+
+    Note Syntaxique : En ce sens, l'adjectif se construit avec la préposition à.
 
 <!-- !!! question ""
 
