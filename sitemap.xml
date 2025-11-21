@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Cin%C3%A9ma/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Po%C3%A9sie/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Plans%20strat%C3%A9giques/Plan%20strat%C3%A9gique%20annuel%20Johan/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Plans%20strat%C3%A9giques/Plan%20strat%C3%A9gique%20quadriennale%20Laura/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+</urlset>
