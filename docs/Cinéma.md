@@ -42,9 +42,9 @@
     ///
 
 
-## 
+## Steven Spielberg, 2001
 
-### 
+### Artificial Intelligence: A.I.
 
 !!! abstract ""
     ![Image](https://prof-johan-daza.github.io/disque/Disque/Disque/IA.png){ width="800" }
