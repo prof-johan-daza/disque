@@ -309,23 +309,33 @@ para entender las cosas. Porque esto es muy parecido
 a estar saliendo de un manicomio para entrar a un panteón.
 ## CÉSAR VALLEJO
 ### **_Los heraldos negros_**
-Hay golpes en la vida, tan fuertes... ¡Yo no sé!
-Golpes como del odio de Dios; como si ante ellos,
-la resaca de todo lo sufrido
-se empozara en el alma... ¡Yo no sé!
-Son pocos; pero son... Abren zanjas oscuras
-en el rostro más fiero y en el lomo más fuerte.
-Serán tal vez los potros de bárbaros Atilas;
-o los heraldos negros que nos manda la Muerte.
-Son las caídas hondas de los Cristos del alma
-de alguna fe adorable que el Destino blasfema.
-Esos golpes sangrientos son las crepitaciones
+
+Hay golpes en la vida, tan fuertes...  
+¡Yo no sé!  
+Golpes como del odio de Dios;  
+como si ante ellos,  
+la resaca de todo lo sufrido  
+se empozara en el alma...  
+¡Yo no sé!  
+Son pocos; pero son...  
+Abren zanjas oscuras  
+en el rostro más fiero  
+y en el lomo más fuerte.
+
+Serán tal vez los potros de bárbaros Atilas;  
+o los heraldos negros que nos manda la Muerte.  
+Son las caídas hondas de los Cristos del alma  
+de alguna fe adorable que el Destino blasfema.  
+Esos golpes sangrientos son las crepitaciones  
 de algún pan que en la puerta del horno se nos quema.
-Y el hombre... Pobre... ¡pobre! Vuelve los ojos, como
-cuando por sobre el hombro nos llama una palmada;
-vuelve los ojos locos, y todo lo vivido
-se empoza, como charco de culpa, en la mirada.
-Hay golpes en la vida, tan fuertes... ¡Yo no sé!
+
+Y el hombre... Pobre... ¡pobre!  
+Vuelve los ojos, como  
+cuando por sobre el hombro nos llama una palmada;  
+vuelve los ojos locos, y todo lo vivido  
+se empoza, como charco de culpa, en la mirada.  
+Hay golpes en la vida, tan fuertes...  
+¡Yo no sé!
 
 ### **_Espergesia_**
 Yo nací un día
