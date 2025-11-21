@@ -112,169 +112,170 @@ Así lo dejo escrito.
 
 ### **_No sé por qué piensas tú_**
 
-Soldado, que te odio yo,
-si somos la misma cosa
-yo,
-tú.
-Tú eres pobre, lo soy yo;
-soy de abajo, lo eres tú;
-¿de dónde has sacado tú,
-soldado, que te odio yo?
-Me duele que a veces tú
-te olvides de quién soy yo;
-caramba, si yo soy tú,
-lo mismo que tú eres yo.
-Pero no por eso yo
-he de malquererte, tú;
-si somos la misma cosa,
-yo,
-tú,
-no sé por qué piensas tú,
-soldado, que te odio yo.
-Ya nos veremos yo y tú,
-juntos en la misma calle,
-hombro con hombro, tú y yo,
-sin odios ni yo ni tú,
-pero sabiendo tú y yo,
-a dónde vamos yo y tú...
-¡no sé por qué piensas tú,
+Soldado, que te odio yo,  
+si somos la misma cosa  
+yo,  
+tú.  
+Tú eres pobre, lo soy yo;  
+soy de abajo, lo eres tú;  
+¿de dónde has sacado tú,  
+soldado, que te odio yo?  
+Me duele que a veces tú  
+te olvides de quién soy yo;  
+caramba, si yo soy tú,  
+lo mismo que tú eres yo.  
+Pero no por eso yo  
+he de malquererte, tú;  
+si somos la misma cosa,  
+yo,  
+tú,  
+no sé por qué piensas tú,  
+soldado, que te odio yo.  
+Ya nos veremos yo y tú,  
+juntos en la misma calle,  
+hombro con hombro, tú y yo,  
+sin odios ni yo ni tú,  
+pero sabiendo tú y yo,  
+a dónde vamos yo y tú...  
+¡No sé por qué piensas tú,  
 soldado, que te odio yo!
 
 ### **_Secuestro a la mujer de Antonio_**
-Te voy a beber de un trago,
-como una copa de ron;
-te voy a echar en la copa
-de un son,
-prieta, quemada de ti misma,
-cintura de mi canción.
-Záfate tu chal de espuma
-para que torees la rumba,
-y si Antonio se disgusta,
-que se corra por ahí;
-¡la mujer de Antonio
-tiene que bailar aquí!
-Desamárrate, Gabriela.
-Muerde
-la cáscara verde,
-pero no apagues la vela;
-tranca
-la pájara blanca,
-y vengan de dos en dos,
-¡que el bongó
-se calentó!
-De aquí no te irás, mulata
-ni al mercado, ni a tu casa;
-aquí molerán tus ancas
-la zafra de tu sudor:
-repique, pique, repique
-repique, pique, repique,
-pique, repique, repique, ¡pó!
-Semillas las de tus ojos
-darán sus frutos espesos;
-y si viene Antonio luego
-que ni en jaranta pregunte
-cómo es qué tú estás aquí...
-Mulata, mora, morena,
-que ni el más tonto se mueva,
-porque el que más toro sea
-saldrá caminando así;
-el mismo Antonio si llega,
-saldrá caminando así;
-todo el que no esté conforme,
-saldrá caminando así...
-todo el que no esté conforme,
-saldrá caminando así...
-Repique, repique, pique,
-repique, repique, ¡pó!
-¡Prieta quemada en ti misma,
+Te voy a beber de un trago,  
+como una copa de ron;  
+te voy a echar en la copa  
+de un son,  
+prieta, quemada de ti misma,  
+cintura de mi canción.  
+Záfate tu chal de espuma  
+para que torees la rumba,  
+y si Antonio se disgusta,  
+que se corra por ahí;  
+¡la mujer de Antonio  
+tiene que bailar aquí!  
+Desamárrate, Gabriela.  
+Muerde  
+la cáscara verde,  
+pero no apagues la vela;  
+tranca  
+la pájara blanca,  
+y vengan de dos en dos,  
+¡que el bongó  
+se calentó!  
+De aquí no te irás, mulata  
+ni al mercado, ni a tu casa;  
+aquí molerán tus ancas  
+la zafra de tu sudor:  
+repique, pique, repique  
+repique, pique, repique,  
+pique, repique, repique, ¡pó!  
+Semillas las de tus ojos  
+darán sus frutos espesos;  
+y si viene Antonio luego  
+que ni en jaranta pregunte  
+cómo es qué tú estás aquí...  
+Mulata, mora, morena,  
+que ni el más tonto se mueva,  
+porque el que más toro sea  
+saldrá caminando así;  
+el mismo Antonio si llega,  
+saldrá caminando así;  
+todo el que no esté conforme,  
+saldrá caminando así...  
+todo el que no esté conforme,  
+saldrá caminando así...  
+Repique, repique, pique,  
+repique, repique, ¡pó!  
+¡Prieta quemada en ti misma,  
 cintura de mi canción!
 
 ### **_La canción del bongó_**
 
-Esta es la canción del bongó:
-Aquí el que más fino sea,
-responde, si llamo yo.
-Unos dicen: Ahora mismo,
-otros dicen: Allá voy.
-Pero mi repique bronco,
-pero mi profunda voz,
-convoca al negro y al blanco,
-que bailan el mismo son,
-cueripardos y almiprietos
-más de sangre que de sol,
-pues quien por fuera no es de noche,
-por dentro ya oscureció.
-Aquí el que más fino sea,
-responde, si llamo yo.
-En esta tierra, mulata
-de africano y español
-(Santa Bárbara de un lado,
-del otro lado, Changó),
-siempre falta algún abuelo,
-cuando no sobra algún Don
-y hay títulos de Castilla
-con parientes en Bondó:
-Vale más callarse, amigos,
-y no menear la cuestión,
-porque venimos de lejos,
-y andamos de dos en dos.
-Aquí el que más fino sea,
-responde si llamo yo.
-Habrá quién llegue a insultarme,
-pero no de corazón;
-habrá quién me escupa en público,
-cuando a solas me besó...
-A ése, le digo:
-Compadre,
-ya me pedirás perdón,
-ya comerás de mi ajiaco,
-ya me darás la razón,
-ya me golpearás el cuero,
-ya bailarás a mi voz,
-ya pasearemos del brazo,
-ya estarás donde yo estoy:
-ya vendrás de abajo arriba,
+Esta es la canción del bongó:  
+Aquí el que más fino sea,  
+responde, si llamo yo.  
+Unos dicen: Ahora mismo,  
+otros dicen: Allá voy.  
+Pero mi repique bronco,  
+pero mi profunda voz,  
+convoca al negro y al blanco,  
+que bailan el mismo son,  
+cueripardos y almiprietos  
+más de sangre que de sol,  
+pues quien por fuera no es de noche,  
+por dentro ya oscureció.  
+Aquí el que más fino sea,  
+responde, si llamo yo.  
+En esta tierra, mulata  
+de africano y español  
+(Santa Bárbara de un lado,  
+del otro lado, Changó),  
+siempre falta algún abuelo,  
+cuando no sobra algún Don  
+y hay títulos de Castilla  
+con parientes en Bondó:  
+Vale más callarse, amigos,  
+y no menear la cuestión,  
+porque venimos de lejos,  
+y andamos de dos en dos.  
+Aquí el que más fino sea,  
+responde si llamo yo.  
+Habrá quién llegue a insultarme,  
+pero no de corazón;  
+habrá quién me escupa en público,  
+cuando a solas me besó...  
+A ése, le digo:  
+Compadre,  
+ya me pedirás perdón,  
+ya comerás de mi ajiaco,  
+ya me darás la razón,  
+ya me golpearás el cuero,  
+ya bailarás a mi voz,  
+ya pasearemos del brazo,  
+ya estarás donde yo estoy:  
+ya vendrás de abajo arriba,  
 ¡que aquí el más alto soy yo!
 
 ## GLORIA FUENTES
 ### **_Autobio_**
-Os digo en prosa:
-Nunca pedí dinero,
-comida, sangre o ropa.
-Empecé a trabajar de niña de niñera.
-Fui criada de mi casa propia.
+Os digo en prosa:  
+Nunca pedí dinero,  
+comida, sangre o ropa.  
+Empecé a trabajar de niña de niñera.  
+Fui criada de mi casa propia.  
 (Yo misma fui mi primera muñeca.)
-Luego de mayor,
-lo único que pedí prestado
-fue amor,
-lo devolví con creces,
+
+Luego de mayor,  
+lo único que pedí prestado  
+fue amor,  
+lo devolví con creces,  
 hoy estoy arruinada.
 
 
 ## JAIME SABINES
 ### **_Me doy cuenta de que me faltas…_**
-Y de que te busco entre las gentes, en el ruido,
-pero todo es inútil.
-Cuando me quedo solo
-me quedo más que solo
-solo por todas partes y por ti y por mí.
-No hago sino esperar.
-Esperar todo el día hasta que no llegas.
-Hasta que me duermo
-y no estás y no has llegado
-y me quedo dormido
-y terriblemente cansado
-preguntando.
-Amor, todos los días.
-Aquí a mi lado, junto a mí, me haces falta.
-Puedes empezar a leer eso
-y cuando llegues aquí empezar de nuevo.
-Cierra estas palabras como un círculo
-como un aro, échalo a rodar, enciéndelo.
-Estas cosas giran en torno a mí igual que moscas,
-en mi garganta como moscas en un frasco.
-Yo estoy arruinado.
-Estoy arruinado en mis huesos,
+Y de que te busco entre las gentes, en el ruido,  
+pero todo es inútil.  
+Cuando me quedo solo  
+me quedo más que solo  
+solo por todas partes y por ti y por mí.  
+No hago sino esperar.  
+Esperar todo el día hasta que no llegas.  
+Hasta que me duermo  
+y no estás y no has llegado  
+y me quedo dormido  
+y terriblemente cansado  
+preguntando.  
+Amor, todos los días.  
+Aquí a mi lado, junto a mí, me haces falta.  
+Puedes empezar a leer eso  
+y cuando llegues aquí empezar de nuevo.  
+Cierra estas palabras como un círculo  
+como un aro, échalo a rodar, enciéndelo.  
+Estas cosas giran en torno a mí igual que moscas,  
+en mi garganta como moscas en un frasco.  
+Yo estoy arruinado.  
+Estoy arruinado en mis huesos,  
 todo es pesadumbre.
 
 ### **_Espero curarme de ti_**
