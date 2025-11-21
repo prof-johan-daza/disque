@@ -1,9 +1,12 @@
 # **_Plan stratégique annuel_**
 
+<!-- Face à la pénurie, j'oublie pas la pénurie !  -->
+
 - [x] Mois 1 → 23 septembre 2025 au 23 octobre 2025
     * [x] 25  000  000 bits
     * [x] 8  210  103 bits
     * [x] 8  210  103 bits
+    * [x] 25  000  000 bits
 - [ ] Mois 2 → 23 octobre 2025 au 23 novembre 2025
     * [x] 25  000  000 bits
     * [x] 8  210  103 bits
@@ -11,7 +14,9 @@
     * [ ] ?
 - [ ] Mois 3 → 23 novembre 2025 au 23 décembre 2025
     * [x] 25  000  000 bits
+    * [ ] ?
     * [ ] 8  210  103 bits
+    * [ ] ?
 - [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
 - [ ] Mois 5 – 23 janvier. 2026 au 23 février. 2026
 - [ ] Mois 6 – 23 février. 2026 au 23 mars. 2026
