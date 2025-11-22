@@ -2,16 +2,17 @@
 - [x] Mois 1 → 23 septembre 2025 au 23 octobre 2025
     * [x] 25  000  000 bits
     * [x] 8  210  103 bits
-    * [x] 8  210  103 bits
+    * [x] -  8  210  103 bits
     * [x] 25  000  000 bits
 - [ ] Mois 2 → 23 octobre 2025 au 23 novembre 2025
     * [x] 25  000  000 bits
     * [x] 8  210  103 bits
     * [x] 8  090  117 bits
-    * [ ] ?
+    * [x] 5  057  264 bits
+    * [ ] 46  357  484 bits ?
 - [ ] Mois 3 → 23 novembre 2025 au 23 décembre 2025
     * [x] 25  000  000 bits
-    * [ ] 8  210  103 bits
+    * [ ] 8  210  103 bits ?
     * [ ] ?
     * [ ] ?
 - [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
