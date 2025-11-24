@@ -9,4 +9,6 @@
 !!! question ""
 
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/4/S12.pdf)
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/4/S12_C.pdf)
+
+!!! question ""
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/4/S12_20C.pdf)
