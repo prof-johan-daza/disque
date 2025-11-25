@@ -1442,7 +1442,11 @@ No te veré morir.
 
 ## MIGUEL DE CERVANTES SAAVEDRA
 ### **_Don Quijote de la Mancha_**
-No se muera vuestra merced, sino tome mi consejo, y viva muchos años; porque la mayor locura que puede hacer en esta vida es dejarse morir, sin más ni más, sin que nadie le mate, ni otras manos le acaben que las de la melancolía.
+No se muera vuestra merced,  
+sino tome mi consejo, y viva muchos años;  
+porque la mayor locura que puede hacer en esta vida es dejarse morir,  
+sin más ni más, sin que nadie le mate,  
+ni otras manos le acaben que las de la melancolía.
 
 ## ALLEN GINSBERG
 ### **_Buena suerte_**
