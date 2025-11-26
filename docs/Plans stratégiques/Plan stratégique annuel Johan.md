@@ -11,7 +11,7 @@
     * [x] 5  057  264 bits
     * [x] 46  357  484 bits
 - [ ] Mois 3 → 23 novembre 2025 au 23 décembre 2025
-    * [x] 25  000  000 bits
+    * [x] 46  357  484 bits
     * [ ] 8  210  103 bits ?
     * [ ] ?
     * [ ] ?
