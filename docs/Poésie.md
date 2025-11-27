@@ -307,9 +307,9 @@ guardarlo, acariciarlo, tirarlo a la basura.
 No sirve, es cierto. Sólo quiero una semana  
 para entender las cosas. Porque esto es muy parecido  
 a estar saliendo de un manicomio para entrar a un panteón.
+
 ## CÉSAR VALLEJO
 ### **_Los heraldos negros_**
-
 Hay golpes en la vida, tan fuertes...  
 ¡Yo no sé!  
 Golpes como del odio de Dios;  
@@ -394,33 +394,41 @@ dar la vida y el alma a un desengaño;
 esto es amor, quien lo probó lo sabe.  
 ## SILVINA OCAMPO
 ### **_Las huellas_**
-A orillas de las aguas recogidas
-en la luz regular del suelo unidas
-como si juntas siempre caminaran,
-solas, parecería que se amaran,
-en la sal de la espuma con estrellas,
-sobre la arena bajo el sol las huellas
-de nuestros pies desnudos
+A orillas de las aguas recogidas  
+en la luz regular del suelo unidas  
+como si juntas siempre caminaran,  
+solas, parecería que se amaran,  
+en la sal de la espuma con estrellas,  
+sobre la arena bajo el sol las huellas  
+de nuestros pies desnudos  
 tan lejanos, y mudos.
-DEJANDO UNA PROMESA DIBUJADA
-nuestra voz entretanto ensimismada
-se divide en el aire y atraviesa
-la azul crueldad de la naturaleza
-mientras solos cruzamos
+
+Dejando una promesa dibujada  
+nuestra voz entretanto ensimismada  
+se divide en el aire y atraviesa  
+la azul crueldad de la naturaleza  
+mientras solos cruzamos  
 la playa y nos hablamos.
 
 ## DULCE MARÍA LOYNAZ
 ### **_Yo quería tus ojos claros_**
-Yo quería tus ojos ojos claros para prenderlos en mi pelo negro
+Yo quería tus ojos ojos claros  
+para prenderlos en mi pelo negro  
 con un alfiler de oro.
-Yo quería tus ojos claros para sembrarlos en mi jardín y
-recoger en la primavera próxima, una cosecha de
+
+Yo quería tus ojos claros  
+para sembrarlos en mi jardín y  
+recoger en la primavera próxima, una cosecha de  
 estrellas.
-Yo quería tus ojos claros para tirarlos y cogerlos en el aire
-como hacen los malabaristas del circo con sus bolas de
+
+Yo quería tus ojos claros 
+para tirarlos y cogerlos en el aire  
+como hacen los malabaristas del circo con sus bolas de  
 cristal.
-Pero tú te pusiste serio y me hablaste de algo seguramente
-muy triste, que yo no entendí bien.
+
+Pero tú te pusiste serio  
+y me hablaste de algo seguramente  
+muy triste, que yo no entendí bien.  
 Luego cayó la tarde y los dos elegimos el mar.
 
 ## JULIO HERRERA Y REISSIG
