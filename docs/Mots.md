@@ -1,14 +1,14 @@
-# **_Réfractaire adj._**
-
-## Réfractaire au système
+# **_Mots_**
+## Réfractaire adj.
+### Réfractaire au système
 
 !!! question ""
 
     Note Syntaxique : En ce sens, l'adjectif se construit avec la préposition à.
 
+## Oublier v. tr., pronom.
+### Pour verbe transitif
+
 !!! question ""
 
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/4/S12.pdf)
-
-!!! question ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/4/S12_20C.pdf)
+    Verbe transitif : Il a accompli un rêve, mais a oublié ses premiers rêves.
