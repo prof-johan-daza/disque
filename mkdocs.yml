@@ -34,9 +34,9 @@ nav:
   - Cinéma : Cinéma.md
   - Poésie: Poésie.md
   - Concours: Concours.md
-  - 'Plans stratégiques':
-      - Annuel: Plans%20strat%C3%A9giques/Plan-strat%C3%A9gique-annuel.md
-      - Quadriennale: Plans%20strat%C3%A9giques/Plan-strat%C3%A9gique-quadriennale.md
+  - 'Plans-strat%C3%A9giques':
+      - Annuel: Plans-strat%C3%A9giques/Plan-strat%C3%A9gique-annuel.md
+      - Quadriennale: Plans-strat%C3%A9giques/Plan-strat%C3%A9gique-quadriennale.md
 
 markdown_extensions:
   - def_list
