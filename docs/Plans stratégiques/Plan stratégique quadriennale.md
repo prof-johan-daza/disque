@@ -1,4 +1,4 @@
-# **_Plan stratégique quadriennale Laura_**
+# **_Plan stratégique quadriennale_**
 
 - [x] Mois 1 – 1 avril. 2024 au 5 avril. 2024
 - [x] Mois 2 – 1 mai. 2024 au 5 mai. 2024

@@ -27,6 +27,17 @@ theme:
       primary: lime
       accent: deep orange
 
+nav:
+
+  - Imprimer: index.md
+  - Mots: Mots.md
+  - Cinéma : Cinéma.md
+  - Poésie: Poésie.md
+  - Concours: Concours.md
+  - 'Plans stratégiques':
+    - Annuel: Plans stratégiques/Plan stratégique annuel.md
+    - Quadriennale: Plans stratégiques/Plan stratégique annuel.md
+
 
 markdown_extensions:
   - def_list
