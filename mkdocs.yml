@@ -35,8 +35,8 @@ nav:
   - Poésie: Poésie.md
   - Concours: Concours.md
   - 'Plans stratégiques':
-      - Annuel: Plans stratégiques/Plan_stratégique_annuel.md
-      - Quadriennale: Plans stratégiques/Plan_stratégique_quadriennale.md
+      - Annuel: Plans stratégiques/Plan-stratégique-annuel.md
+      - Quadriennale: Plans stratégiques/Plan-stratégique-quadriennale.md
 
 
 markdown_extensions:
