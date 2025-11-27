@@ -36,7 +36,7 @@ nav:
   - Concours: Concours.md
   - 'Plans stratégiques':
       - Annuel: Plans stratégiques/Plan stratégique annuel.md
-      - Quadriennale: Plans stratégiques/Plan stratégique annuel.md
+      - Quadriennale: Plans stratégiques/Plan stratégique quadriennale.md
 
 
 markdown_extensions:
