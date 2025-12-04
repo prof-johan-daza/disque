@@ -19,7 +19,7 @@
 - [x] Mois 18 – 1 septembre. 2025 au 5 septembre. 2025
 - [x] Mois 19 – 1 octobre. 2025 au 5 octobre. 2025
 - [x] Mois 20 – 1 novembre. 2025 au 5 novembre. 2025
-- [ ] Mois 21 – 1 décembre. 2025 au 5 décembre. 2025
+- [x] Mois 21 – 1 décembre. 2025 au 5 décembre. 2025
 - [ ] Mois 22 – 1 janvier. 2026 au 5 janvier. 2026
 - [ ] Mois 23 – 1 février. 2026 au 5 février. 2026
 - [ ] Mois 24 – 1 mars. 2026 au 5 mars. 2026
