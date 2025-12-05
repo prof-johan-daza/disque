@@ -1503,4 +1503,64 @@ entonces para el triunfante casco,
 
 resoplan, roncos, ante el sol violento,  
 y alzando en grupo las cabezas locas,  
-oyen llegar el restrasado viento.  
+oyen llegar el restrasado viento.
+
+## José Martí
+### **_Versos sencillos_**
+
+Yo soy un hombre sincero  
+de donde crece la palma;    
+y antes de morirme quiero  
+echar mis versos del alma.
+
+Yo vengo de todas partes,  
+y hacia todas partes voy:  
+Arte soy entre las artes,  
+en los montes, monte soy.
+
+Yo sé los nombres extraños  
+de las yerbas y las flores,  
+y de mortales engaños,  
+y de sublimes dolores.
+
+Yo he visto en la noche oscura  
+llover sobre mi cabeza  
+los rayos de lumbre pura  
+de la divina belleza.
+
+Alas nacer vi en los hombros  
+de las mujeres hermosas:  
+Y salir de los escombros,  
+volando las mariposas.
+
+He visto vivir a un hombre  
+con el puñal al costado,  
+sin decir jamás el nombre  
+de aquella que lo ha matado.
+
+Rápida como un reflejo,  
+dos veces vi el alma, dos:  
+Cuando murió el pobre viejo,  
+cuando ella me dijo adiós.
+
+Temblé una vez -en la reja,  
+a la entrada de la viña-  
+cuando la bárbara abeja  
+picó en la frente a mi niña.
+
+Gocé una vez, de tal suerte  
+que gocé cual nunca: cuando  
+la sentencia de mi muerte  
+leyó el alcalde llorando.
+
+Oigo un suspiro, a través  
+de las tierras y la mar,  
+y no es un suspiro -es  
+que mi hijo va a despertar-.
+
+Si dicen que del joyero  
+tome la joya mejor,  
+tomo a un amigo sincero  
+Y pongo a un lado el amor.
+
+...
