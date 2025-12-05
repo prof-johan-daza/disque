@@ -3,4 +3,7 @@
 ## Livre
 
 !!! question ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/G.pdf)
+    ![Image](https://prof-johan-daza.github.io/disque/Disque/Disque/Livre/41225.png){ width="800" }
+    /// caption 
+  La antología que tiene en sus manos el lector obedece a la idea de la comunicación y de la actualidad literarias: una suma de poemas y poetas de Colombia en el diálogo con sus pares del resto del continente - Contraportada Panamericana, c1997. 
+    ///
