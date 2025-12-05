@@ -1505,7 +1505,7 @@ resoplan, roncos, ante el sol violento,
 y alzando en grupo las cabezas locas,  
 oyen llegar el restrasado viento.
 
-## José Martí
+## JOSÉ MARTÍ
 ### **_Versos sencillos_**
 
 Yo soy un hombre sincero  
