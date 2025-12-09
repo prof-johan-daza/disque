@@ -30,6 +30,7 @@ theme:
 nav:
 
   - Imprimer: index.md
+  - Commentaires: Commentaires.md
   - Mots: Mots.md
   - Cinéma : Cinéma.md
   - Poésie: Poésie.md
