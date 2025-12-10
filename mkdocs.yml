@@ -37,8 +37,8 @@ nav:
   - Livre: Livre.md
   - Fait divers: Fait.md
   - 'Commentaires':
-      - Classe: Plans stratégiques/CommentairesC.md
-      - Élève: Plans stratégiques/CommentairesE.md
+      - Classe: Commentaires/CommentairesC.md
+      - Élève: Commentaires/CommentairesE.md
   - 'Plans stratégiques':
       - Annuel: Plans stratégiques/Plan-strat%C3%A9gique-annuel.md
       - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
