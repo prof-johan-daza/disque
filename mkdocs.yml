@@ -30,13 +30,15 @@ theme:
 nav:
 
   - Imprimer: index.md
-  - Commentaires: Commentaires.md
   - Mots: Mots.md
   - Cinéma : Cinéma.md
   - Poésie: Poésie.md
   - Concours: Concours.md
   - Livre: Livre.md
   - Fait divers: Fait.md
+  - 'Commentaires':
+      - Classe: Plans stratégiques/CommentairesC.md
+      - Élève: Plans stratégiques/CommentairesE.md
   - 'Plans stratégiques':
       - Annuel: Plans stratégiques/Plan-strat%C3%A9gique-annuel.md
       - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
