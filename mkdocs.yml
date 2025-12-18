@@ -36,13 +36,13 @@ nav:
   - Concours: Concours.md
   - Livre: Livre.md
   - Fait divers: Fait.md
+  - Footing: Footing.md
   - 'Commentaires':
       - Classe: Commentaires/CommentairesC.md
       - Élève: Commentaires/CommentairesE.md
   - 'Plans stratégiques':
       - Annuel: Plans stratégiques/Plan-strat%C3%A9gique-annuel.md
       - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
-
 
 markdown_extensions:
   - def_list
