@@ -426,19 +426,22 @@ para prenderlos en mi pelo negro
 con un alfiler de oro.
 
 Yo quería tus ojos claros  
-para sembrarlos en mi jardín y  
-recoger en la primavera próxima, una cosecha de  
-estrellas.
+para sembrarlos en mi jardín  
+y recoger en la primavera próxima,  
+una cosecha de estrellas.
 
-Yo quería tus ojos claros 
-para tirarlos y cogerlos en el aire  
-como hacen los malabaristas del circo con sus bolas de  
-cristal.
+Yo quería tus ojos claros  
+para tirarlos  
+y cogerlos en el aire  
+como hacen los malabaristas del circo  
+con sus bolas de cristal.
 
 Pero tú te pusiste serio  
-y me hablaste de algo seguramente  
-muy triste, que yo no entendí bien.  
-Luego cayó la tarde y los dos elegimos el mar.
+y me hablaste de algo  
+seguramente muy triste  
+Luego cayó la tarde  
+que yo no entendí bien.  
+y los dos elegimos el mar.
 
 ## JULIO HERRERA Y REISSIG
 ### **_Amor sádico_**
