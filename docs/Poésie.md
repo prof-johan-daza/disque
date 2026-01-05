@@ -445,109 +445,128 @@ y los dos elegimos el mar.
 
 ## JULIO HERRERA Y REISSIG
 ### **_Amor sádico_**
-Ya no te amaba, sin dejar por eso
-de amar la sombra de tu amor distante.
-Ya no te amaba, sin embargo el beso
+Ya no te amaba, sin dejar por eso  
+de amar la sombra de tu amor distante.  
+Ya no te amaba, sin embargo el beso  
 de la repulsa nos unió al instante...
-Agrio placer y bárbaro embeleso
-crispó mi faz, me demudó el semblante;
-ya no te amaba, y me turbé no obstante,
+
+Agrio placer y bárbaro embeleso  
+crispó mi faz, me demudó el semblante;  
+ya no te amaba, y me turbé no obstante,  
 como una virgen en un bosque espeso.
-Y ya perdida para siempre, al verte
-anochecer en el eterno luto,
+
+Y ya perdida para siempre, al verte  
+anochecer en el eterno luto,  
 mudo el amor, el corazón inerte,
-huraño, atroz, inexorable, hirsuto,
-jamás viví como en aquella muerte,
+
+huraño, atroz, inexorable, hirsuto...    
+jamás viví como en aquella muerte,  
 nunca te amé como en aquel minuto!
 
 ## JAIME SABINES
 ### **_Canonicemos a las putas_**
 Santoral del sábado: Betty, Lola, Margot, vírgenes perpetuas, reconstruidas, mártires provisorias llenas de gracia, manantiales de generosidad.
+
 Das al placer, oh puta redentora del mundo, y nada pides a cambio sino unas monedas miserables. No exiges ser amada, respetada, atendida, ni imitas a las esposas con los lloriqueos, las reconvenciones y los celos. No obligas a nadie a la despedida ni a la reconciliación; no chupas la sangre ni el tiempo; eres limpia de culpa; recibes en tu seno a los pecadores, escuchas las palabras y los sueños, sonríes y besas. Eres paciente, experta, atribulada, sabia, sin rencor.
+
 No engañas a nadie, eres honesta, íntegra, perfecta; anticipas tu precio, te enseñas; no discriminas a los viejos, a los criminales, a los tontos, a los de otro color; soportas las agresiones del orgullo, las asechanzas de los enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos, encuentras la fórmula de los desencantados. Eres la confidente del borracho, el refugio del perseguido, el lecho del que no tiene reposo.
+
 Has educado tu boca y tus manos, tus músculos y tu piel, tus vísceras y tu alma. Sabes vestir y desvestirte, acostarte, moverte. Eres precisa en el ritmo, exacta en el gemido, dócil a las maneras del amor.
+
 Eres la libertad y el equilibrio; no sujetas ni detienes a nadie; no sometes a los recuerdos ni a la espera. Eres pura presencia, fluidez, perpetuidad.
+
 En el lugar en que oficias a la verdad y a la belleza de la vida, Ya sea el burdel elegante, la casa discreta o el camastro de la pobreza, eres lo mismo que una lámpara y un vaso de agua y un pan.
+
 Oh puta amiga, amante, amada, recodo de este día de siempre, te reconozco, te canonizo a un lado de los hipócritas y de los perversos, te doy todo mi dinero, te corono con hojas de yerba y me dispongo a aprender de ti todo el tiempo.
 ## ANA ROSSETTI
 ### **_Qué será ser tú_**
-Este es el enigma, la atracción sobrecogedora
-de conocer, el irresistible afán de echar el ancla
-en ti, de poseerte.
-Qué será la perplejidad de ser tú.
-Qué, el misterio, la dolencia de ser tú y saber.
-Qué, el estupor de ser tú, verdaderamente tú y,
-con tus ojos, verme.
-Qué será percibir que yo te ame.
-Que será, siendo tú, oírmelo decir.
-Qué, entonces, sentir lo que sentirías tú.
+Este es el enigma,la atracción  
+sobrecogedora  
+de conocer, el irresistible afán de echar  
+el ancla  
+en ti, de poseerte.  
+Qué será la perplejidad de ser tú.  
+Qué, el misterio, la dolencia de ser tú y  
+saber.  
+Qué, el estupor de ser tú,  
+verdaderamente tú y,  
+con tus ojos, verme.  
+Qué será percibir que yo te ame.  
+Que será, siendo tú, oírmelo decir.  
+Qué, entonces, sentir lo que sentirías tú.  
 
 ## EDUARDO LANGAGNE
 ### **_Ella_**
-Ella está hecha a semejanza de las cosas que amo.
-Se parece a la noche,
-o mejor: a una noche sin ausencias.
-Ella es exacta.
-Cuando la noche escurre, su cuerpo se humedece.
-Me permite trepar por mis temblores
-y agitar su nombre desde la oscuridad.
-ELLA ES IRREPETIBLE.
-Nació en las piedras donde empieza mi desorden.
+Ella está hecha a semejanza. 
+de las cosas que amo.  
+Se parece a la noche,  
+o mejor:  
+a una noche sin ausencias.  
+Ella es exacta.  
+Cuando la noche escurre,   
+su cuerpo se humedece.
+Me permite trepar por mis temblores  
+y agitar su nombre desde la oscuridad.  
+ELLA ES IRREPETIBLE.  
+Nació en las piedras  
+donde empieza mi desorden.  
 
 ## GIOCONDA BELLI
 ### **_Ahuyentemos el tiempo, amor..._**
 
-Ahuyentemos el tiempo, amor,
-que ya no exista;
-esos minutos largos que desfilan pesados
-cuando no estás conmigo
-y estás en todas partes
-sin estar pero estando.
-Me dolés en el cuerpo,
-me acariciás el pelo
-y no estás
-y estás cerca,
-te siento levantarte
-desde el aire llenarme
-pero estoy sola, amor,
-y este estarte viendo
-sin que estés,
-me hace sentirme a veces
-como una leona herida,
-me retuerzo
-doy vueltas
-te busco
-y no estás
+Ahuyentemos el tiempo, amor,  
+que ya no exista;  
+esos minutos largos que desfilan pesados  
+cuando no estás conmigo  
+y estás en todas partes  
+sin estar pero estando.  
+Me dolés en el cuerpo,  
+me acariciás el pelo  
+y no estás  
+y estás cerca,  
+te siento levantarte  
+desde el aire llenarme  
+pero estoy sola, amor,  
+y este estarte viendo  
+sin que estés,  
+me hace sentirme a veces  
+como una leona herida,  
+me retuerzo  
+doy vueltas  
+te busco  
+y no estás  
 y estás
-allí
-tan cerca.
+allí  
+tan cerca.  
 
 
 
 ### **_Vencer las trampas_**
-Volvés a sentir el calorcito en la yema de los dedos,
-la cosquilla de escribir en el estómago y sos de nuevo
-poeta, mujer, pájara. Estas otra vez fértil y tierrosa
-llenas de fuego líquido las venas que creías apagadas
-como ríos mansos.
-
+Volvés a sentir el calorcito en la yema de los dedos,  
+la cosquilla de escribir en el estómago y sos de nuevo  
+poeta, mujer, pájara. Estas otra vez fértil y tierrosa  
+llenas de fuego líquido las venas que creías apagadas  
+como ríos mansos.  
 
 ## CARLOS CASTRO SAAVEDRA
 ### **_Soneto del amor elemental_**
-Te quiero así, mujer: sencillamente,
-como quiere el pastor a sus ovejas,
-el caminante a las encinas viejas
+Te quiero así, mujer: sencillamente,  
+como quiere el pastor a sus ovejas,  
+el caminante a las encinas viejas  
 y el río matinal a su corriente.
-Te amo como las casas a la gente
-y como la colmena a las abejas,
-y los ojos dormidos a las cejas
+
+Te amo como las casas a la gente  
+y como la colmena a las abejas,  
+y los ojos dormidos a las cejas  
 que vuelan en el cielo de la frente.
-Voy a tu corazón como las olas
-a los buques cargados de amapolas
+
+Voy a tu corazón como las olas   
+a los buques cargados de amapolas  
 y de maderas claras y sencillas.
-Doy con tu beso al fin, con tu ternura,
-como el río con toda la llanura
-y la sed con el agua sin orillas.
+
+Doy con tu beso al fin, con tu ternura,  
+como el río con toda la llanura  
+y la sed con el agua sin orillas.  
 
 ## JOSÉ GAUTIER BENÍTEZ
 ### **_Deber de amar_**
