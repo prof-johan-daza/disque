@@ -352,17 +352,17 @@ Hay un vacio
 en mi aire metafísico  
 que nadie ha de palpar:  
 el claustro de un silencio  
-que habló a flor de fuego.  
+que habló a flor de fuego.
   
 Yo nací un día  
-que Dios estuvo enfermo.  
+que Dios estuvo enfermo.
   
 Hermano, escucha, escucha...  
 Bueno. Y que no me vaya  
 sin llevar diciembres,    
 sin dejar eneros. 
 Pues yo nací un día  
-que Dios estuvo enfermo.  
+que Dios estuvo enfermo.
   
 Todos saben que vivo,  
 que mastico... y no saben  
@@ -370,7 +370,7 @@ por qué en mi verso chirrían,
 oscuro sinsabor de ferétro,  
 luyidos vientos  
 desenroscados de la Esfinge  
-preguntona del Desierto.  
+preguntona del Desierto.
   
 Todos saben... Y no saben  
 que la Luz es tísica,  
