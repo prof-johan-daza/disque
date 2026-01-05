@@ -339,50 +339,51 @@ Hay golpes en la vida, tan fuertes...
 
 ### **_Espergesia_**
 Yo nací un día  
-que Dios estuvo enfermo.
+que Dios estuvo enfermo.  
 
 Todos saben que vivo,  
 que soy malo; y no saben   
-del diciembre de ese enero.    
-Pues yo nací un día    
-que Dios estuvo enfermo.
+del diciembre de ese enero.  
+
+Pues yo nací un día  
+que Dios estuvo enfermo.  
     
 Hay un vacio  
-en mi aire metafísico    
-que nadie ha de palpar:    
-el claustro de un silencio    
+en mi aire metafísico  
+que nadie ha de palpar:  
+el claustro de un silencio  
 que habló a flor de fuego.  
   
-Yo nací un día    
+Yo nací un día  
 que Dios estuvo enfermo.  
   
-Hermano, escucha, escucha...    
-Bueno. Y que no me vaya    
-sin llevar diciembres,    
-sin dejar eneros.    
-Pues yo nací un día    
+Hermano, escucha, escucha...  
+Bueno. Y que no me vaya  
+sin llevar diciembres,    
+sin dejar eneros. 
+Pues yo nací un día  
 que Dios estuvo enfermo.  
   
-Todos saben que vivo,    
-que mastico... y no saben    
-por qué en mi verso chirrían,    
-oscuro sinsabor de ferétro,    
-luyidos vientos      
-desenroscados de la Esfinge    
+Todos saben que vivo,  
+que mastico... y no saben  
+por qué en mi verso chirrían,  
+oscuro sinsabor de ferétro,  
+luyidos vientos  
+desenroscados de la Esfinge  
 preguntona del Desierto.  
   
-Todos saben... Y no saben    
-que la Luz es tísica,    
-y la Sombra gorda...    
-Y no saben que el misterio sintetiza...    
-que él es la joroba    
-musical y triste que a distancia 
-denuncia       
-el paso meridiano de las lindes a las 
-Lindes.  
-Yo nací un día  
-que Dios estuvo enfermo,  
-grave.
+Todos saben... Y no saben  
+que la Luz es tísica,  
+y la Sombra gorda...  
+Y no saben que el misterio sintetiza...  
+que él es la joroba  
+musical y triste que a distancia  
+denuncia  
+el paso meridiano de las lindes a las  
+Lindes.  
+Yo nací un día  
+que Dios estuvo enfermo,  
+grave.  
 
 ## LOPE FÉLIX DE VEGA Y CARPIO
 ### **_Esto es amor_**
