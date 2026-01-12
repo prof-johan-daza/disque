@@ -16,4 +16,5 @@
 ## 14. Himnos a la noche, Enrique de Ofterdingen – NOVALIS
 ## 15. Antología de poesía colombiana e hispanoamericana – GARCÍA MAFFLA
 ## 16. Morí por la belleza – Emily DICKINSON
-- [ ] 17. Los días azules – Fernando VALLEJO
+## 17. Los días azules – Fernando VALLEJO
+- [ ] La puta de Babilonia – Fernando VALLEJO
