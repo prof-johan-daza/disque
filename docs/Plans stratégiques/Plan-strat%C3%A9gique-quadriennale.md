@@ -21,7 +21,8 @@
 - [x] Mois 20 – 1 novembre. 2025 au 5 novembre. 2025
 - [x] Mois 21 – 1 décembre. 2025 au 5 décembre. 2025
 - [x] Mois 22 – 1 janvier. 2026 au 5 janvier. 2026
-- [ ] Mois 23 – 1 février. 2026 au 5 février. 2026
+- [x] Mois 23 – 1 février. 2026 au 5 février. 2026
+    *[x] Cadena 1
 - [ ] Mois 24 – 1 mars. 2026 au 5 mars. 2026
 - [ ] Mois 25 – 1 avril. 2026 au 5 avril. 2026
 - [ ] Mois 26 – 1 mai. 2026 au 5 mai. 2026
