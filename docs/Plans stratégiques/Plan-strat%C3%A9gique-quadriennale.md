@@ -24,16 +24,27 @@
 - [x] Mois 23 – 1 février. 2026 au 5 février. 2026
     * [x] Cadena 1
 - [ ] Mois 24 – 1 mars. 2026 au 5 mars. 2026
+    * [x] Cadena 2
 - [ ] Mois 25 – 1 avril. 2026 au 5 avril. 2026
+    * [x] Cadena 3
 - [ ] Mois 26 – 1 mai. 2026 au 5 mai. 2026
+    * [x] Cadena 4
 - [ ] Mois 27 – 1 juin. 2026 au 5 juin. 2026
+    * [x] Cadena 5
 - [ ] Mois 28 – 1 juillet. 2026 au 5 juillet. 2026
+    * [x] Cadena 6
 - [ ] Mois 29 – 1 août. 2026 au 5 août. 2026
+    * [x] Cadena 7
 - [ ] Mois 30 – 1 septembre. 2026 au 5 septembre. 2026
+    * [x] Cadena 8
 - [ ] Mois 31 – 1 octobre. 2026 au 5 octobre. 2026
+    * [x] Cadena 9
 - [ ] Mois 32 – 1 novembre. 2026 au 5 novembre. 2026
+    * [x] Cadena 10
 - [ ] Mois 33 – 1 décembre. 2026 au 5 décembre. 2026
+    * [x] Cadena 11
 - [ ] Mois 34 – 1 janvier. 2027 au 5 janvier. 2027
+    * [x] Cadena 12 (Última)
 - [ ] Mois 35 – 1 février. 2027 au 5 février. 2027
 - [ ] Mois 36 – 1 mars. 2027 au 5 mars. 2027
 - [ ] Mois 37 – 1 avril. 2027 au 5 avril. 2027
