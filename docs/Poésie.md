@@ -465,19 +465,37 @@ nunca te amé como en aquel minuto!
 
 ## JAIME SABINES
 ### **_Canonicemos a las putas_**
-Santoral del sábado: Betty, Lola, Margot, vírgenes perpetuas, reconstruidas, mártires provisorias llenas de gracia, manantiales de generosidad.
+Santoral del sábado: Betty, Lola, Margot, vírgenes perpetuas, reconstruidas,  
+mártires provisorias llenas de gracia, manantiales de generosidad.
 
-Das al placer, oh puta redentora del mundo, y nada pides a cambio sino unas monedas miserables. No exiges ser amada, respetada, atendida, ni imitas a las esposas con los lloriqueos, las reconvenciones y los celos. No obligas a nadie a la despedida ni a la reconciliación; no chupas la sangre ni el tiempo; eres limpia de culpa; recibes en tu seno a los pecadores, escuchas las palabras y los sueños, sonríes y besas. Eres paciente, experta, atribulada, sabia, sin rencor.
+Das al placer, oh puta redentora del mundo, y nada pides a cambio sino unas  
+monedas miserables. No exiges ser amada, respetada, atendida, ni imitas a las  
+esposas con los lloriqueos, las reconvenciones y los celos. No obligas a nadie  
+a la despedida ni a la reconciliación; no chupas la sangre ni el tiempo;  
+eres limpia de culpa; recibes en tu seno a los pecadores, escuchas las palabras  
+y los sueños, sonríes y besas. Eres paciente, experta, atribulada, sabia, sin rencor.
 
-No engañas a nadie, eres honesta, íntegra, perfecta; anticipas tu precio, te enseñas; no discriminas a los viejos, a los criminales, a los tontos, a los de otro color; soportas las agresiones del orgullo, las asechanzas de los enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos, encuentras la fórmula de los desencantados. Eres la confidente del borracho, el refugio del perseguido, el lecho del que no tiene reposo.
+No engañas a nadie, eres honesta, íntegra, perfecta; anticipas tu precio,  
+te enseñas; no discriminas a los viejos, a los criminales, a los tontos,  
+a los de otro color; soportas las agresiones del orgullo, las asechanzas de los  enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos,   encuentras la fórmula de los desencantados. Eres la confidente del borracho,  
+el refugio del perseguido, el lecho del que no tiene reposo.
 
-Has educado tu boca y tus manos, tus músculos y tu piel, tus vísceras y tu alma. Sabes vestir y desvestirte, acostarte, moverte. Eres precisa en el ritmo, exacta en el gemido, dócil a las maneras del amor.
+Has educado tu boca y tus manos, tus músculos y tu piel, tus vísceras y tu alma.  
+Sabes vestir y desvestirte, acostarte, moverte. Eres precisa en el ritmo,  
+exacta en el gemido, dócil a las maneras del amor.
 
-Eres la libertad y el equilibrio; no sujetas ni detienes a nadie; no sometes a los recuerdos ni a la espera. Eres pura presencia, fluidez, perpetuidad.
+Eres la libertad y el equilibrio; no sujetas ni detienes a nadie;  
+no sometes a los recuerdos ni a la espera. Eres pura presencia,  
+fluidez, perpetuidad.
 
-En el lugar en que oficias a la verdad y a la belleza de la vida, Ya sea el burdel elegante, la casa discreta o el camastro de la pobreza, eres lo mismo que una lámpara y un vaso de agua y un pan.
+En el lugar en que oficias a la verdad y a la belleza de la vida,  
+ya sea el burdel elegante, la casa discreta o el camastro de la pobreza,  
+eres lo mismo que una lámpara y un vaso de agua y un pan.
 
-Oh puta amiga, amante, amada, recodo de este día de siempre, te reconozco, te canonizo a un lado de los hipócritas y de los perversos, te doy todo mi dinero, te corono con hojas de yerba y me dispongo a aprender de ti todo el tiempo.
+Oh puta amiga, amante, amada, recodo de este día de siempre,  
+te reconozco, te canonizo a un lado de los hipócritas y de los perversos,  
+te doy todo mi dinero, te corono con hojas de yerba y me dispongo a aprender  
+de ti todo el tiempo.
 ## ANA ROSSETTI
 ### **_Qué será ser tú_**
 Este es el enigma,la atracción  
@@ -699,77 +717,115 @@ Todo estaba oscuro. No había sol, ni luna, ni gente, ni animales, ni plantas. S
 
 ## CARLOS CASTAÑEDA
 ### **_Las enseñanzas de Don Juan_**
-Por ejemplo, cuando yo estaba aprendiendo sobre la yerba del diablo, era demasiado ansioso. Me agarraba a las cosas de la misma manera que los niños agarran dulces. La yerba del diablo es sólo un camino entre cantidades de caminos. Cualquier cosa es un camino entre cantidades de caminos. Por eso debes tener siempre presente que un camino es sólo un camino; si sientes que no deberías seguirlo, no debes seguir en él bajo ninguna condición. Para tener esa claridad debes llevar una vida disciplinada. Sólo entonces sabrás que un camino es nada más un camino, y no hay afrenta, ni para ti ni para otros, en dejarlo si eso es lo que tu corazón te dice. Pero tu decisión de seguir en el camino o de dejarlo debe estar libre de miedo y de ambición. Te prevengo. Mira cada camino de cerca y con intención. Pruébalo tantas veces como consideres necesario. Luego hazte a ti mismo, y a ti solo, una pregunta. Es una pregunta que sólo se hace un hombre muy viejo. Mi benefactor me habló de ella una vez cuando yo era joven, y mi sangre era demasiado vigorosa para que yo la entendiera, Ahora sí la entiendo. Te diré cuál es: ¿tiene corazón este camino? Todos los caminos son lo mismo: no llevan a ninguna parte. Son caminos que van por el matorral. Puedo decir que en mi propia vida he recorrido caminos largos, largos, pero no estoy en ninguna parte. Ahora tiene sentido la pregunta de mi benefactor, ¿Tiene corazón este camino? Si tiene, el camino es bueno; si no, de nada sirve. Ningún camino lleva a ninguna parte, pero uno tiene corazón y el otro no. Uno hace gozoso el viaje; mientras lo sigas, eres uno con él. El otro te hará maldecir tu vida. Uno te hace fuerte; el otro te debilita.
+Por ejemplo, cuando yo estaba aprendiendo sobre la yerba del diablo,  
+era demasiado ansioso. Me agarraba a las cosas de la misma manera que  
+los niños agarran dulces. La yerba del diablo es sólo un camino entre  
+cantidades de caminos. Cualquier cosa es un camino entre cantidades de caminos.  
 
+Por eso debes tener siempre presente que un camino es sólo un camino;  
+si sientes que no deberías seguirlo, no debes seguir en él bajo ninguna condición.  
+
+Para tener esa claridad debes llevar una vida disciplinada.  
+Sólo entonces sabrás que un camino es nada más un camino, y no hay afrenta,  
+ni para ti ni para otros, en dejarlo si eso es lo que tu corazón te dice.  
+Pero tu decisión de seguir en el camino o de dejarlo debe estar libre de miedo  
+y de ambición. Te prevengo. 
+
+Mira cada camino de cerca y con intención.  
+Pruébalo tantas veces como consideres necesario.  
+Luego hazte a ti mismo, y a ti solo, una pregunta.  
+Es una pregunta que sólo se hace un hombre muy viejo.  
+Mi benefactor me habló de ella una vez cuando yo era joven,  
+y mi sangre era demasiado vigorosa para que yo la entendiera. 
+
+Ahora sí la entiendo. Te diré cuál es: ¿tiene corazón este camino?  
+Todos los caminos son lo mismo: no llevan a ninguna parte.  
+Son caminos que van por el matorral. Puedo decir que en mi propia vida  
+he recorrido  caminos largos, largos, pero no estoy en ninguna parte.  
+Ahora tiene sentido la pregunta de mi benefactor,  
+¿tiene corazón este camino? Si tiene, el camino es bueno;  
+si no, de nada sirve. Ningún camino lleva a ninguna parte,  
+pero uno tiene corazón y el otro no.  
+Uno hace gozoso el viaje; mientras lo sigas, eres uno con él.  
+El otro te hará maldecir tu vida. Uno te hace fuerte; el otro te debilita.
 ## OTTO RENÉ CASTILLO
 ### **_Acontece así, enamorados_**
-Los enamorados
-que ahora se besan,
-todavía no saben
-que tendrán
-que separarse muy pronto.
-Los enamorados
-que aún no se han encontrado,
-ignoran
-que pronto creerán
-haberse hallado
-para todos los tiempos.
-Pobres
-los que ya se encontraron, 
-ahora tendrán 
-que separarse.
-Pobres
-los que aún no se han hallado,
-ahora tendrán
+Los enamorados  
+que ahora se besan,  
+todavía no saben  
+que tendrán  
+que separarse muy pronto.  
+Los enamorados  
+que aún no se han encontrado,  
+ignoran  
+que pronto creerán  
+haberse hallado  
+para todos los tiempos.  
+Pobres  
+los que ya se encontraron,  
+ahora tendrán  
+que separarse.  
+Pobres  
+los que aún no se han hallado,  
+ahora tendrán  
 que continuar esperando.
-
 ## JORGE LUIS BORGES
 ### **_Milonga de Jacinto Chiclana_**
-Me acuerdo. Fue en Balvanera,
-En una noche lejana
-Que alguien dejó caer el nombre
+Me acuerdo. Fue en Balvanera,  
+En una noche lejana  
+Que alguien dejó caer el nombre  
 De un tal Jacinto Chiclana.
-Algo se dijo también
-De una esquina y de un cuchillo;
-Los años nos dejan ver
-El entrevero y el brillo.
-Quién sabe por qué razón
-Me anda buscando ese nombre;
-Me gustaría saber
-Cómo habrá sido aquel hombre.
-Alto lo veo y cabal,
-Con el alma comedida,
-Capaz de no alzar la voz
-Y de jugarse la vida.
-Nadie con paso más firme
-Habrá pisado la tierra;
-Nadie habrá habido como él
-En el amor y en la guerra.
-Sobre la huerta y el patio
-Las torres de Balvanera
-Y aquella muerte casual
-En una esquina cualquiera.
-No veo los rasgos. Veo,
-Bajo el farol amarillo,
-El choque de hombres o sombras
-Y esa víbora, el cuchillo.
-Acaso en aquel momento
-En que le entraba la herida,
-Pensó que a un varón le cuadra
-No demorar la partida.
-Sólo Dios puede saber
-La laya fiel de aquel hombre;
-Señores, yo estoy cantando
-Lo que se cifra en el nombre.
-Entre las cosas hay una
-De la que no se arrepiente
-Nadie en la tierra. Esa cosa
-Es haber sido valiente.
-Siempre el coraje es mejor,
-La esperanza nunca es vana;
-Vaya pues esta milonga,
-Para Jacinto Chiclana.
 
+Algo se dijo también  
+De una esquina y de un cuchillo;  
+Los años nos dejan ver  
+El entrevero y el brillo.
+
+Quién sabe por qué razón  
+Me anda buscando ese nombre;  
+Me gustaría saber  
+cómo habrá sido aquel hombre.
+
+Alto lo veo y cabal,  
+con el alma comedida,  
+capaz de no alzar la voz  
+y de jugarse la vida.
+
+Nadie con paso más firme  
+habrá pisado la tierra;  
+nadie habrá habido como él  
+en el amor y en la guerra.
+
+Sobre la huerta y el patio  
+Las torres de Balvanera  
+Y aquella muerte casual  
+en una esquina cualquiera.
+
+No veo los rasgos. Veo,  
+bajo el farol amarillo,  
+el choque de hombres o sombras  
+y esa víbora, el cuchillo.
+
+Acaso en aquel momento  
+en que le entraba la herida,  
+pensó que a un varón le cuadra  
+no demorar la partida.
+
+Sólo Dios puede saber  
+la laya fiel de aquel hombre;  
+señores, yo estoy cantando  
+lo que se cifra en el nombre.
+
+Entre las cosas hay una  
+de la que no se arrepiente  
+nadie en la tierra. Esa cosa  
+es haber sido valiente.
+
+Siempre el coraje es mejor,  
+la esperanza nunca es vana;  
+vaya pues esta milonga,
+Para Jacinto Chiclana.
+<!-- 8 févier 2026, 19h 30 -->
 ### **_Después de un tiempo_**
 Después de un tiempo,
 uno aprende la sutil diferencia
