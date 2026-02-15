@@ -61,3 +61,5 @@
 - [ ] Mois 48 – 1 mars. 2028 au 5 mars. 2028
 - [ ] Mois 49 – 1 avril. 2028 au 5 avril. 2028
 - [ ] Mois 50 – 1 mai. 2028 au 5 mai. 2028
+
+## Mi février 2026 – Incohérence ou Non-sens – 0,503 M
