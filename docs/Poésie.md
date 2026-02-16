@@ -1,4 +1,4 @@
-# **_Poésie_** <!--Línea por el momento : -->
+# **_Poésie_** <!--Línea por el momento : 1223 -->
 ## **_RAMÓN DE CAMPOAMOR_**
 ### **_Amar y querer_**
 A la infiel más infiel de las hermosas  
@@ -1115,7 +1115,7 @@ desprecio por lo humano... un incesante
 renegar de lo vil de la existencia  
 digno de mi maestro Schopenhauer;  
 un malestar profundo que se aumenta  
-con todas las torturas del análisis...  
+con todas las torturas del análisis...
 
 El médico:  
 Eso es cuestión de régimen: camine  
@@ -1124,91 +1124,100 @@ beba bien; coma bien; cuídese mucho,
 ¡Lo que usted tiene es hambre!...
 ## VINICIUS DE MORAES
 ### **_Para vivir un gran amor_**
-Para vivir un gran amor se necesita
-mucha concentración y mucho tino,
+Para vivir un gran amor se necesita  
+mucha concentración y mucho tino,  
 mucha seriedad y poca risa...
-para vivir un gran amor.
-Para vivir un gran amor es menester
-ser hombre de una sola mujer;
+
+Para vivir un gran amor.  
+Para vivir un gran amor es menester  
+ser hombre de una sola mujer;  
 pues serlo de muchas, pucha !
 es cosa fácil... no tiene ningún mérito.
-Para vivir un gran amor, primero es preciso
-consagrarse caballero
-y entregarse a su dama por entero,
-sea como fuere. Hay que convertir
-el cuerpo en una morada donde
-se enclaustre a la mujer amada, y luego
+
+Para vivir un gran amor, primero es preciso  
+consagrarse caballero  
+y entregarse a su dama por entero,  
+sea como fuere. Hay que convertir  
+el cuerpo en una morada donde  
+se enclaustre a la mujer amada, y luego  
 apostarse afuera con una espada...
+
+Para vivir un gran amor.  
+Para vivir un gran amor es urgente,  
+descartarse al máximo de la gente,  
+pues en general la gente envidia  
+el amor profundamente.  
+Hay que cortar con grupos y boites,  
+pasar de largo ante los café-societies  
+y de todas sus tristes marionetas...  
 para vivir un gran amor.
-Para vivir un gran amor es urgente,
-descartarse al máximo de la gente,
-pues en general la gente envidia
-el amor profundamente.
-Hay que cortar con grupos y boites,
-pasar de largo ante los café-societies
-y de todas sus tristes marionetas...
-para vivir un gran amor.
-Para vivir un gran amor, les digo,
-se necesita mucha atención con el "mejor amigo",
-que por andar solo se les puede pegar
+
+Para vivir un gran amor, les digo,  
+se necesita mucha atención con el "mejor amigo",  
+que por andar solo se les puede pegar  
 hasta frustrar el gran amor.
-Se necesita muchísimo cuidado
-con aquellos que no estén apasionados,
-pues quien no lo está se halla siempre
-dispuesto a perturbar el gran amor.
-Para vivir un gran amor, en realidad,
-hay que compenetrarse de la certidumbre
-de que no existe amor sin fidelidad...
-para vivir un gran amor. Pues quien traiciona
-su amor por vanidad desconoce la libertad,
-esa inmensa, innombrable libertad
+
+Se necesita muchísimo cuidado  
+con aquellos que no estén apasionados,  
+pues quien no lo está se halla siempre  
+dispuesto a perturbar el gran amor.  
+Para vivir un gran amor, en realidad,  
+hay que compenetrarse de la certidumbre  
+de que no existe amor sin fidelidad...  
+para vivir un gran amor. Pues quien traiciona  
+su amor por vanidad desconoce la libertad,  
+esa inmensa, innombrable libertad  
 que supone un solo amor.
-Para vivir un gran amor, il faut además
-de ser fiel, ser buen conocedor del
-yudo y del arte culinario...
-para vivir un gran amor.
-Para vivir un gran amor perfecto
-no basta ser apenas buen sujeto;
-es necesario también tener grandes
-pectorales, pectorales de remero.
-Es preciso mirar siempre a la persona amada
-como a la primer enamorada
-y a su propia viuda también,
-ya amortajada en su amor muerto.
-Es muy necesario haber previsto
-un crédito de rosas del florista...
-mayor, mucho mayor que el de la modista !!
-para complacer al gran amor.
-Pues lo único que el gran amor quiere
-es amor, amor, sin medida;
-además un tutuzinho con panceta
+
+Para vivir un gran amor, il faut además  
+de ser fiel, ser buen conocedor del  
+yudo y del arte culinario...  
+para vivir un gran amor.  
+Para vivir un gran amor perfecto  
+no basta ser apenas buen sujeto;  
+es necesario también tener grandes  
+pectorales, pectorales de remero.  
+Es preciso mirar siempre a la persona amada  
+como a la primer enamorada  
+y a su propia viuda también,  
+ya amortajada en su amor muerto.  
+Es muy necesario haber previsto  
+un crédito de rosas del florista...  
+mayor, mucho mayor que el de la modista !!  
+para complacer al gran amor.  
+Pues lo único que el gran amor quiere  
+es amor, amor, sin medida;  
+además un tutuzinho con panceta  
 hace ganar puntos...
-Se ganan puntos sabiendo preparar cositas:
-huevos fritos, camarones, sopitas, salsas,
-strogonoffs; comiditas para después del amor.
-¿Y qué mejor que ir a la cocina
-y preparar con amor una gallina
-con una rica y sabrosa
-farofinha para su gran amor?
-Para vivir un gran amor es muy,
-muy importante vivir siempre juntos
-y hasta ser, en lo posible, un solo difunto,
+
+Se ganan puntos sabiendo preparar cositas:  
+huevos fritos, camarones, sopitas, salsas,  
+strogonoffs; comiditas para después del amor.  
+¿Y qué mejor que ir a la cocina  
+y preparar con amor una gallina  
+con una rica y sabrosa  
+farofinha para su gran amor?  
+Para vivir un gran amor es muy,  
+muy importante vivir siempre juntos  
+y hasta ser, en lo posible, un solo difunto,  
 para no morir de dolor.
-Es necesario cuidar permanentemente,
-no sólo el cuerpo sino también la mente,
-pues la amada acusa cualquier mezquindad
-y el amor se enfría un poco.
-Hay que ser cortés sin cortesía;
-dulce y conciliador sin cobardía;
-saber ganar dinero con poesía...
+
+Es necesario cuidar permanentemente,  
+no sólo el cuerpo sino también la mente,  
+pues la amada acusa cualquier mezquindad  
+y el amor se enfría un poco.  
+Hay que ser cortés sin cortesía;  
+dulce y conciliador sin cobardía;  
+saber ganar dinero con poesía...  
 para vivir un gran amor.
-Es necesario saber tomar whisky,
-no arriesgarse nunca con el mal bebedor!!
-y ser impermeable a las habladurías,
-con las que el amor, no quiere saber nada.
-Pero todo esto no sirve de nada
-si en esta oscura y alocada selva
-no se supiere hallar a la bien-amada...
+
+Es necesario saber tomar whisky,  
+no arriesgarse nunca con el mal bebedor!!  
+y ser impermeable a las habladurías,  
+con las que el amor, no quiere saber nada.  
+Pero todo esto no sirve de nada  
+si en esta oscura y alocada selva  
+no se supiere hallar a la bien-amada...  
 para vivir un gran amor.
 ## RAÚL GÓMEZ JATTIN
 ### **_Canción del amor sincero_**
