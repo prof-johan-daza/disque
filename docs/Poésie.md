@@ -630,29 +630,29 @@ el dolor guardado golondrinas con que callan,
 el anillo equivocado de las despedidas.
 ## ARCIPRESTE DE HITA
 ### **_Aristóteles dijo_**
-Aristóteles dijo, y es cosa verdadera,
-que el hombre por dos cosas trabaja: la primera,
-por el sustentamiento, y la segunda era
-por conseguir unión con hembra placentera.
-Si lo dijera yo, se podría tachar,
-más lo dice un filósofo, no se me ha de culpar.
-De lo que dice el sabio no debemos dudar,
-pues con hechos se prueba su sabio razonar.
-Que dice verdad el sabio claramente se prueba;
-hombres, aves y bestias, todo animal de cueva
-desea, por natura, siempre compaña nueva
-y mucho más el hombre que otro ser que se mueva.
-Digo que más el hombre, pues otras criaturas
-tan sólo en una época se juntan, por natura;
-el hombre, en todo tiempo, sin seso y sin mesura,
-siempre que quiere y puede hacer esa locura.
-Prefiere el fuego estar guardado entre ceniza,
-pues antes se consume cuanto más se le atiza;
-el hombre, cuando peca, bien ve que se desliza,
-mas por naturaleza, en el mal profundiza.
-Yo, como soy humano y, por tal, pecador,
-sentí por las mujeres, a veces, gran amor.
-Que probemos las cosas no siempre es lo peor;
+Aristóteles dijo, y es cosa verdadera,  
+que el hombre por dos cosas trabaja: la primera,  
+por el sustentamiento, y la segunda era  
+por conseguir unión con hembra placentera.  
+Si lo dijera yo, se podría tachar,  
+más lo dice un filósofo, no se me ha de culpar.  
+De lo que dice el sabio no debemos dudar,  
+pues con hechos se prueba su sabio razonar.  
+Que dice verdad el sabio claramente se prueba;  
+hombres, aves y bestias, todo animal de cueva  
+desea, por natura, siempre compaña nueva  
+y mucho más el hombre que otro ser que se mueva.  
+Digo que más el hombre, pues otras criaturas  
+tan sólo en una época se juntan, por natura;  
+el hombre, en todo tiempo, sin seso y sin mesura,  
+siempre que quiere y puede hacer esa locura.  
+Prefiere el fuego estar guardado entre ceniza,  
+pues antes se consume cuanto más se le atiza;  
+el hombre, cuando peca, bien ve que se desliza,  
+mas por naturaleza, en el mal profundiza.  
+Yo, como soy humano y, por tal, pecador,  
+sentí por las mujeres, a veces, gran amor.  
+Que probemos las cosas no siempre es lo peor;  
 el bien y el mal sabed y escoged lo mejor.
 ## JUAN GUSTAVO COBO BORDA
 ### **_Los poetas mienten_**
