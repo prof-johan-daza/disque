@@ -603,10 +603,10 @@ todo, todo, lo juro! lo prefiero
 primero que olvidarla.
 ## LEOPOLDO MARÍA PANERO
 ### **_Diario de un seductor_**
-No es tu sexo lo que en tu sexo busco
-sino ensuciar tu alma:
-desflorar
-con todo el barro de la vida
+No es tu sexo lo que en tu sexo busco  
+sino ensuciar tu alma:  
+desflorar  
+con todo el barro de la vida  
 lo que aún no ha vivido.
 ## RAMÓN COTE
 ### **_Extranjeros_**
