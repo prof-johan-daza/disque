@@ -656,31 +656,31 @@ Que probemos las cosas no siempre es lo peor;
 el bien y el mal sabed y escoged lo mejor.
 ## JUAN GUSTAVO COBO BORDA
 ### **_Los poetas mienten_**
-Sus palabras
-doran la piel de la amada,
-prolongan el parloteo incesante
-con que los niños rehacen el mundo
-y construyen la casa de la mente
-donde todos tendrán cabida:
-los caprichosos y los lelos,
-los arbitrarios y los llenos de falencias.
-Bien o mal, los poetas no cobran nada
-por revelar el engaño consentido
-con que entre todos nos sentimos
-seres reales de carne y hueso.
-Sólo el poeta sabe
-de su radical inexistencia.
-Él es apenas
-esa ficción
-construida por sus versos.
-La red de mentiras tercas
-donde busca atrapar
-una muchacha
-dura como piedra,
-libre como viento.
-Sensible como el abrazo
-que se dan
-quienes se quieren
+Sus palabras  
+doran la piel de la amada,  
+prolongan el parloteo incesante  
+con que los niños rehacen el mundo  
+y construyen la casa de la mente  
+donde todos tendrán cabida:  
+los caprichosos y los lelos,  
+los arbitrarios y los llenos de falencias.  
+Bien o mal, los poetas no cobran nada  
+por revelar el engaño consentido  
+con que entre todos nos sentimos  
+seres reales de carne y hueso.  
+Sólo el poeta sabe  
+de su radical inexistencia.  
+Él es apenas  
+esa ficción  
+construida por sus versos.  
+La red de mentiras tercas  
+donde busca atrapar  
+una muchacha  
+dura como piedra,  
+libre como viento.  
+Sensible como el abrazo  
+que se dan  
+quienes se quieren  
 y tiemblan.
 ## COSMOLOGÍA KOGUI
 ### **_Primero estaba el mar_**
