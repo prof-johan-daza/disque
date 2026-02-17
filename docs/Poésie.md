@@ -1580,7 +1580,7 @@ por la ventana de mis ojos.
 Oigo sirenas de ambulancias, huelo ajo y orín,  
 pruebo nísperos y lenguado,  
 camino descalzo por el piso del loft,  
-algo insensibilizadas las plantas de los pies.  
+algo insensibilizadas las plantas de los pies.
 
 Suerte que puedo pensar y que el cielo puede nevar.
 ## JOSÉ EUSTACIO RIVERA
@@ -1594,11 +1594,11 @@ los huracanes en su crin revuelta.
 Atrás dejando la llanura envuelta  
 en polvo, alargan la cerviz enjuta,  
 y a su carrera retumbante y bruta,  
-cimbran los pindos y la palma esbelta.  
+cimbran los pindos y la palma esbelta.
 
 Ya cuando cruzan el austral peñasco,  
 vibra un relincho por las altas rocas;  
-entonces para el triunfante casco,  
+entonces para el triunfante casco,
 
 resoplan, roncos, ante el sol violento,  
 y alzando en grupo las cabezas locas,  
