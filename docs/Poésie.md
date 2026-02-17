@@ -502,10 +502,11 @@ a una noche sin ausencias.
 Ella es exacta.  
 Cuando la noche escurre,   
 su cuerpo se humedece.
+
 Me permite trepar por mis temblores  
 y agitar su nombre desde la oscuridad.  
-ELLA ES IRREPETIBLE.  
-Nació en las piedras  
+Ella es irrepetible.  
+Nació en las piedras,  
 donde empieza mi desorden.
 ## GIOCONDA BELLI
 ### **_Ahuyentemos el tiempo, amor..._**
