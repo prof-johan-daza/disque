@@ -1365,145 +1365,153 @@ que de tantas cuerdas que tengo he terminado por tirar de una sola;
 que me gusta embarrarme porque el barro es materia pobre y por lo tanto pura;  
 que adoro la luz sólo si no ofrece esperanza.
 ### **_Muerte_**
-Vuelvo a ti, como vuelve
-un emigrado a su país y lo redescubre:
-he hecho fortuna (en el intelecto)
-y soy feliz, tanto
-como hace tiempo lo era, destituido por norma.
-Una rabia negra de poesía en el pecho.
+Vuelvo a ti, como vuelve  
+un emigrado a su país y lo redescubre:  
+he hecho fortuna (en el intelecto)  
+y soy feliz, tanto  
+como hace tiempo lo era, destituido por norma.  
+Una rabia negra de poesía en el pecho.  
 Una loca vejez de jovencito.
-Antes tu alegría se confundía
-con el terror, es verdad, y ahora
-casi con otra alegría
-lívida, árida: mi pasión decepcionada.
-Ahora me das miedo de verdad,
-porque estás de verdad cerca, incluida
-en mi estado de rabia, de oscura
+
+Antes tu alegría se confundía  
+con el terror, es verdad, y ahora  
+casi con otra alegría  
+lívida, árida: mi pasión decepcionada.  
+Ahora me das miedo de verdad,  
+porque estás de verdad cerca, incluida  
+en mi estado de rabia, de oscura  
 hambre, de ansia casi de criatura nueva.
 ## LEÓN DE GREIFF
 ### **_Villa de la candelaria_**
-Vano el motivo
-desta prosa: 
-nada...
-Cosas de todo día.
-Sucesos
-banales.
-Gente necia,
+Vano el motivo  
+desta prosa:  
+nada...  
+Cosas de todo día.  
+Sucesos  
+banales.  
+Gente necia,  
 local y chata y roma.
-Gran tráfico
-en el marco de la plaza.
-Chismes.
-Catolicismo.
-Y una total inopia en los cerebros...
-Cual 
-si todo 
-se fincara en la riqueza, 
-en menjurjes bursátiles
+
+Gran tráfico  
+en el marco de la plaza.  
+Chismes.  
+Catolicismo.  
+Y una total inopia en los cerebros...  
+Cual  
+si todo  
+se fincara en la riqueza,  
+en menjurjes bursátiles  
 y en un mayor volumen de la panza.
 ### **_Relato de Sergio Stepansky_**
-Juego mi vida, cambio mi vida,
-de todos modos
-la llevo perdida...
-Y la juego o la cambio por el más infantil espejismo,
-la dono en usufructo, o la regalo...
-La juego contra uno o contra todos,
-la juego contra el cero o contra el infinito,
-la juego en una alcoba, en el ágora, en un garito,
-en una encrucijada, en una barricada, en un motín;
-la juego definitivamente, desde el principio hasta el fin,
-a todo lo ancho y a todo lo hondo
-en la periferia, en el medio,
+Juego mi vida, cambio mi vida,  
+de todos modos  
+la llevo perdida...  
+Y la juego o la cambio por el más infantil espejismo,  
+la dono en usufructo, o la regalo...  
+La juego contra uno o contra todos,  
+la juego contra el cero o contra el infinito,  
+la juego en una alcoba, en el ágora, en un garito,  
+en una encrucijada, en una barricada, en un motín;  
+la juego definitivamente, desde el principio hasta el fin,  
+a todo lo ancho y a todo lo hondo  
+en la periferia, en el medio,  
 y en el sub-fondo...
-Juego mi vida, cambio mi vida,
-la llevo perdida
-sin remedio.
-Y la juego, o la cambio por el más infantil espejismo,
-la dono en usufructo, o la regalo...:
-o la trueco por una sonrisa y cuatro besos:
-todo, todo me da lo mismo:
+
+Juego mi vida, cambio mi vida,  
+la llevo perdida  
+sin remedio.  
+Y la juego, o la cambio por el más infantil espejismo,  
+la dono en usufructo, o la regalo...:  
+o la trueco por una sonrisa y cuatro besos:  
+todo, todo me da lo mismo:  
 lo eximio y lo rüin, lo trivial, lo perfecto, lo malo...
-Todo, todo me da lo mismo:
-todo me cabe en el diminuto, hórrido abismo
-donde se anudan serpentinos mis sesos.
-Cambio mi vida por lámparas viejas
-o por los dados con los que se jugó la túnica inconsútil:
-por lo más anodino, por lo más obvio, por lo más fútil:
-por los colgajos que se guinda en las orejas
-la simiesca mulata,
-la terracota nubia;
-la pálida morena, la amarilla oriental, o la hiperbórea rubia:
-cambio mi vida por una anilla de hojalata
-o por la espada de Sigmundo,
-o por el mundo
+
+Todo, todo me da lo mismo:  
+todo me cabe en el diminuto, hórrido abismo  
+donde se anudan serpentinos mis sesos.  
+Cambio mi vida por lámparas viejas  
+o por los dados con los que se jugó la túnica inconsútil:  
+por lo más anodino, por lo más obvio, por lo más fútil:  
+por los colgajos que se guinda en las orejas  
+la simiesca mulata,  
+la terracota nubia;  
+la pálida morena, la amarilla oriental, o la hiperbórea rubia:  
+cambio mi vida por una anilla de hojalata  
+o por la espada de Sigmundo,  
+o por el mundo  
 que tenía en los dedos Carlomagnos: para echar a rodar la bola...
-Cambio mi vida por la cándida aureola
-del idiota o del santo;
-la cambio por el collar
-que le pintaron al gordo Capeto;
-o por la ducha rígida que llovió en la nuca
-a Carlos de Inglaterra;
-la cambio por un romance, la cambio por un soneto;
-por once gatos de Angora,
-por una copla, por una saeta,
-por un cantar;
-por una baraja incompleta;
-por una faca, por una pipa, por una sambuca...
-o por esa muñeca que llora
+
+Cambio mi vida por la cándida aureola  
+del idiota o del santo;  
+la cambio por el collar  
+que le pintaron al gordo Capeto;  
+o por la ducha rígida que llovió en la nuca  
+a Carlos de Inglaterra;  
+la cambio por un romance, la cambio por un soneto;  
+por once gatos de Angora,  
+por una copla, por una saeta,  
+por un cantar;  
+por una baraja incompleta;  
+por una faca, por una pipa, por una sambuca...  
+o por esa muñeca que llora  
 como cualquier poeta.
-Cambio mi vida al fiado por una fábrica de crepúsculos
-(con arreboles);
-por un gorila de Borneo;
-por dos panteras de Sumatra;
-por las perlas que se bebió la cetrina Cleopatra
-o por su naricilla que está en algún Museo;
-cambio mi vida por lámparas viejas,
-o por la escala de Jacob, o por su plato de lentejas...
-¡o por dos huequecillos minúsculos
-en las sienes por donde se me fugue, en grises podres,
-toda la hartura, todo el fastidio, todo el horror que almaceno en mis odres...!
-Juego mi vida, cambio mi vida.
-De todos modos
+
+Cambio mi vida al fiado por una fábrica de crepúsculos  
+(con arreboles);  
+por un gorila de Borneo;  
+por dos panteras de Sumatra;  
+por las perlas que se bebió la cetrina Cleopatra  
+o por su naricilla que está en algún Museo;  
+cambio mi vida por lámparas viejas,  
+o por la escala de Jacob, o por su plato de lentejas...  
+¡o por dos huequecillos minúsculos  
+en las sienes por donde se me fugue, en grises podres,  
+toda la hartura, todo el fastidio, todo el horror que almaceno en mis odres...!  
+Juego mi vida, cambio mi vida.  
+De todos modos  
 la llevo perdida...
 ## EDMUNDO DE ORY
 ### **_Estar contigo es un vocablo insólito..._**
-Estar contigo es un vocablo insólito
-y el día que se rompa en pedacitos
-el enorme silencio del olvido
-será un eco anacrónico en mis noches.
-Alejanado de tu hechura a tientas
-repitiendo sintigo en mi destierro
-ya no cultivaré la corteza uniforme
-de una estrella en la punta de mis dedos.
-Eres tan espantosamente joven
+Estar contigo es un vocablo insólito  
+y el día que se rompa en pedacitos  
+el enorme silencio del olvido  
+será un eco anacrónico en mis noches.  
+Alejanado de tu hechura a tientas  
+repitiendo sintigo en mi destierro  
+ya no cultivaré la corteza uniforme  
+de una estrella en la punta de mis dedos.  
+Eres tan espantosamente joven  
 que estar contigo es un regalo loco.
 ## JUAN FELIPE ROBLEDO
 ### **_Se acepta la propia condición_**
-No es arriba, en el cielo, donde encontraremos nuestro destino,
-no es abajo tampoco, porque allí nuestros pies encontrarán el polvo,
-no entre adelfas o nomeolvides hallaremos reposo,
-no habrá pausa en el tiempo de los días álgidos,
+No es arriba, en el cielo, donde encontraremos nuestro destino,  
+no es abajo tampoco, porque allí nuestros pies encontrarán el polvo,  
+no entre adelfas o nomeolvides hallaremos reposo,  
+no habrá pausa en el tiempo de los días álgidos,  
 no hallaremos consuelo en el roto corazón.
-No, no hay ánimo para irse de fiesta
-ni efemérides para celebrar,
-permanecemos con el espinazo quebrado bajo las lámparas.
-y no descubriremos un sitio más cómodo.
-Viajamos en medio del espanto, padres de gemidos que no se oirán en la brisa,
-y no somos sino días cegados
-y ponientes que se doblan y mañanas para nada
+
+No, no hay ánimo para irse de fiesta  
+ni efemérides para celebrar,  
+permanecemos con el espinazo quebrado bajo las lámparas.  
+y no descubriremos un sitio más cómodo.  
+Viajamos en medio del espanto, padres de gemidos que no se oirán en la brisa,  
+y no somos sino días cegados  
+y ponientes que se doblan y mañanas para nada  
 y delirios de un ayer que tampoco fue mejor.
 ## RAFAEL ALBERTI
 ### **_La paloma_**
-Se equivocó la paloma,
-se equivocaba.
-Por ir al norte fue al sur,
-creyó que el trigo era el agua.
-Creyó que el mar era el cielo,
+Se equivocó la paloma,  
+se equivocaba.  
+Por ir al norte fue al sur,  
+creyó que el trigo era el agua.  
+Creyó que el mar era el cielo,  
 que la noche la mañana.
-Que las estrellas rocío,
-que el calor la nevada.
-Que tu falda era su blusa,
-que tu corazón su casa.
-(Ella se durmió en la orilla,
+
+Que las estrellas rocío,  
+que el calor la nevada.  
+Que tu falda era su blusa,  
+que tu corazón su casa.  
+(Ella se durmió en la orilla,  
 tú en la cumbre de una rama.)
 ## IDEA VILARIÑO
 ### **_Ya no_**
