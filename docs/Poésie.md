@@ -695,37 +695,46 @@ y ella era pensamiento y memoria. Así la madre existió
 sólo en Aluna, en el mundo más abajo, sola.
 ## CARLOS CASTAÑEDA
 ### **_Las enseñanzas de Don Juan_**
-Por ejemplo, cuando yo estaba aprendiendo sobre la yerba del diablo,  
-era demasiado ansioso. Me agarraba a las cosas de la misma manera que  
-los niños agarran dulces. La yerba del diablo es sólo un camino entre  
-cantidades de caminos. Cualquier cosa es un camino entre cantidades de caminos.  
+Por ejemplo, cuando yo estaba aprendiendo sobre  
+la yerba del diablo, era demasiado ansioso.  
+Me agarraba a las cosas de la misma manera que  
+los niños agarran dulces. La yerba del diablo  
+es sólo un camino entre cantidades de caminos.  
+Cualquier cosa es un camino entre cantidades  
+de caminos.
 
-Por eso debes tener siempre presente que un camino es sólo un camino;  
-si sientes que no deberías seguirlo, no debes seguir en él bajo ninguna condición.  
+Por eso debes tener siempre presente que un  
+camino es sólo un camino; si sientes que no  
+deberías seguirlo, no debes seguir en él bajo  
+ninguna condición.
 
-Para tener esa claridad debes llevar una vida disciplinada.  
-Sólo entonces sabrás que un camino es nada más un camino, y no hay afrenta,  
-ni para ti ni para otros, en dejarlo si eso es lo que tu corazón te dice.  
-Pero tu decisión de seguir en el camino o de dejarlo debe estar libre de miedo  
-y de ambición. Te prevengo. 
+Para tener esa claridad debes llevar una vida  
+disciplinada. Sólo entonces sabrás que un camino  
+es nada más un camino, y no hay afrenta,   
+ni para ti ni para otros, en dejarlo si eso es  
+lo que tu corazón te dice. Pero tu decisión de  
+seguir en el camino o de dejarlo debe estar libre  
+de miedo y de ambición. Te prevengo.
 
 Mira cada camino de cerca y con intención.  
 Pruébalo tantas veces como consideres necesario.  
 Luego hazte a ti mismo, y a ti solo, una pregunta.  
 Es una pregunta que sólo se hace un hombre muy viejo.  
 Mi benefactor me habló de ella una vez cuando yo era joven,  
-y mi sangre era demasiado vigorosa para que yo la entendiera. 
+y mi sangre era demasiado vigorosa para que yo la entendiera.
 
-Ahora sí la entiendo. Te diré cuál es: ¿tiene corazón este camino?  
-Todos los caminos son lo mismo: no llevan a ninguna parte.  
-Son caminos que van por el matorral. Puedo decir que en mi propia vida  
-he recorrido  caminos largos, largos, pero no estoy en ninguna parte.  
+Ahora sí la entiendo. Te diré cuál es:  
+¿tiene corazón este camino? Todos los caminos son lo mismo:  
+no llevan a ninguna parte. Son caminos que van por el matorral.  
+Puedo decir que en mi propia vida he recorrido  caminos largos,  
+largos, pero no estoy en ninguna parte.  
 Ahora tiene sentido la pregunta de mi benefactor,  
 ¿tiene corazón este camino? Si tiene, el camino es bueno;  
 si no, de nada sirve. Ningún camino lleva a ninguna parte,  
 pero uno tiene corazón y el otro no.  
 Uno hace gozoso el viaje; mientras lo sigas, eres uno con él.  
-El otro te hará maldecir tu vida. Uno te hace fuerte; el otro te debilita.
+El otro te hará maldecir tu vida.  
+Uno te hace fuerte; el otro te debilita.
 ## OTTO RENÉ CASTILLO
 ### **_Acontece así, enamorados_**
 Los enamorados  
@@ -804,87 +813,96 @@ la esperanza nunca es vana;
 vaya pues esta milonga,  
 Para Jacinto Chiclana.
 ### **_Después de un tiempo_**
-Después de un tiempo,
-uno aprende la sutil diferencia
-entre sostener una mano
-y encadenar un alma,
-y uno aprende que el amor
-no significa acostarse
-y una compañía no significa seguridad
+Después de un tiempo,  
+uno aprende la sutil diferencia  
+entre sostener una mano  
+y encadenar un alma,  
+y uno aprende que el amor  
+no significa acostarse  
+y una compañía no significa seguridad  
 y uno empieza a aprender.
-Que los besos no son contratos y los regalos no son promesas
-y uno empieza a aceptar sus derrotas con la cabeza alta y los ojos abiertos
-y uno aprende a construir
-todos sus caminos en el hoy,
-porque el terreno de mañana
-es demasiado inseguro para planes…
-y los futuros tienen una forma de
+
+Que los besos no son contratos  
+y los regalos no son promesas  
+y uno empieza a aceptar sus derrotas con  
+la cabeza alta y los ojos abiertos  
+y uno aprende a construir  
+todos sus caminos en el hoy,  
+porque el terreno de mañana  
+es demasiado inseguro para planes…  
+y los futuros tienen una forma de  
 caerse en la mitad.
-Y después de un tiempo
-uno aprende que si es demasiado,
-hasta el calorcito del sol quema.
-Así que uno planta su propio jardín
-y decora su propia alma, en lugar
-de esperar a que alguien le traiga flores.
-Y uno aprende que realmente puede aguantar,
-que uno realmente es fuerte,
-que uno realmente vale,
-y uno aprende y aprende…
+
+Y después de un tiempo  
+uno aprende que si es demasiado,  
+hasta el calorcito del sol quema.  
+Así que uno planta su propio jardín  
+y decora su propia alma, en lugar  
+de esperar a que alguien le traiga flores.  
+Y uno aprende que realmente puede aguantar,  
+que uno realmente es fuerte,  
+que uno realmente vale,  
+y uno aprende y aprende…  
 y con cada día uno aprende.
 ## PEDRO SALINAS
 ### **_Si me llamaras, sí..._**
-¡Si me llamaras, sí,
-si me llamaras!
-Lo dejaría todo,
-todo lo tiraría:
-los precios, los catálogos,
-el azul del océano en los mapas,
-los días y sus noches,
-los telegramas viejos
+¡Si me llamaras, sí,  
+si me llamaras!  
+Lo dejaría todo,  
+todo lo tiraría:  
+los precios, los catálogos,  
+el azul del océano en los mapas,  
+los días y sus noches,  
+los telegramas viejos  
 y un amor.
-Tú, que no eres mi amor,
-¡si me llamaras!
-Y aún espero tu voz:
-telescopios abajo,
-desde la estrella,
-por espejos, por túneles,
-por los años bisiestos
+
+Tú, que no eres mi amor,  
+¡si me llamaras!  
+Y aún espero tu voz:  
+telescopios abajo,  
+desde la estrella,  
+por espejos, por túneles,  
+por los años bisiestos  
 puede venir. No sé por dónde.
-Desde el prodigio, siempre.
-Porque si tú me llamas
--¡si me llamaras, sí, si me llamaras!-
-será desde un milagro,
-incógnito, sin verlo.
-Nunca desde los labios que te beso,
-nunca desde a voz que dice:
+
+Desde el prodigio, siempre.  
+Porque si tú me llamas  
+-¡si me llamaras, sí, si me llamaras!-  
+será desde un milagro,  
+incógnito, sin verlo.  
+Nunca desde los labios que te beso,  
+nunca desde a voz que dice:  
 "No te vayas."
 ### **_La voz a ti debida_**
-Ayer te besé en los labios.
-Te besé en los labios. Densos,
-rojos. Fue un beso tan corto
-que duró más que un relámpago,
+Ayer te besé en los labios.  
+Te besé en los labios. Densos,  
+rojos. Fue un beso tan corto  
+que duró más que un relámpago,  
 que un milagro, más.
-El tiempo
-después de dártelo
-no lo quise para nada
-ya, para nada
+
+El tiempo  
+después de dártelo  
+no lo quise para nada  
+ya, para nada  
 lo había querido antes.
-Se empezó, se acabó en él.
-Hoy estoy besando un beso;
-estoy solo con mis labios.
-Los pongo
-no en tu boca, no, Ya no
-—¿adónde se me ha escapado? —.
-Los pongo
-en el beso que te di
-ayer, en las bocas juntas
+
+Se empezó, se acabó en él.  
+Hoy estoy besando un beso;  
+estoy solo con mis labios.  
+Los pongo  
+no en tu boca, no, Ya no  
+—¿adónde se me ha escapado? —.  
+Los pongo  
+en el beso que te di  
+ayer, en las bocas juntas  
 del beso que se besaron.
-Y dura este beso más
-que el silencio, que la luz.
-Porque Ya no es una carne
-ni una boca lo que beso,
-que se escapa, que me huye.
-No.
+
+Y dura este beso más  
+que el silencio, que la luz.  
+Porque Ya no es una carne  
+ni una boca lo que beso,  
+que se escapa, que me huye.  
+No.  
 Te estoy besando más lejos.
 ## MARIO WAITS
 ### **_Hay veces_**
