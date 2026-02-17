@@ -1284,82 +1284,85 @@ no se supiere hallar a la bien-amada...
 para vivir un gran amor.
 ## RAÚL GÓMEZ JATTIN
 ### **_Canción del amor sincero_**
-Prometo no amarte eternamente,
-ni serte fiel hasta la muerte,
-ni caminar tomados de la mano,
-ni colmarte de rosas,
+Prometo no amarte eternamente,  
+ni serte fiel hasta la muerte,  
+ni caminar tomados de la mano,  
+ni colmarte de rosas,  
 ni besarte apasionadamente siempre.
-Juro que habrá tristezas,
-habrá problemas y discusiones,
-y miraré a otras mujeres,
-vos mirarás a otros hombres;
-juro que no eres mi todo
-ni mi cielo, ni mi única razón de vivir,
-aunque te extraño a veces.
-Prometo no desearte siempre
-a veces me cansaré de tu sexo
-vos te cansarás del mío
-y tu cabello en algunas ocasiones
+
+Juro que habrá tristezas,  
+habrá problemas y discusiones,  
+y miraré a otras mujeres,  
+vos mirarás a otros hombres;  
+juro que no eres mi todo  
+ni mi cielo, ni mi única razón de vivir,  
+aunque te extraño a veces.  
+Prometo no desearte siempre  
+a veces me cansaré de tu sexo  
+vos te cansarás del mío  
+y tu cabello en algunas ocasiones  
 se hará fastidioso en mi cara.
-Juro que habrá momentos
-en que sentiremos un odio mutuo,
-desearemos terminar todo y
-quizás lo terminaremos.
-Mas te digo que nos amaremos,
-construiremos, compartiremos.
-¿Ahora sí podrás creerme que...
+
+Juro que habrá momentos  
+en que sentiremos un odio mutuo,  
+desearemos terminar todo y  
+quizás lo terminaremos.  
+Mas te digo que nos amaremos,  
+construiremos, compartiremos.  
+¿Ahora sí podrás creerme que...  
 te amo?
 ### **_Piel_**
-No se deje engañar por su apariencia fresca
-y sobre todo por su olorcillo a tocador decente
-detrás
-un poco detrás están las marcas
-Mire bien su color espolvoreado de óxido
-su temblor híbrido de animal y centella
-sus vellos enroscados atrapando la luz
-sus suaves hendiduras llenas de sudor agrio
-y un poco más profundo
-se puede adivinar un asco al dulzor de las caricias
-implorando
-es carne de hospital y de presidio
+No se deje engañar por su apariencia fresca  
+y sobre todo por su olorcillo a tocador decente  
+detrás un poco detrás están las marcas
+
+Mire bien su color espolvoreado de óxido  
+su temblor híbrido de animal y centella  
+sus vellos enroscados atrapando la luz  
+sus suaves hendiduras llenas de sudor agrio  
+y un poco más profundo  
+se puede adivinar un asco al dulzor de las caricias  
+implorando  
+es carne de hospital y de presidio  
 lo que esa putica camufla en su esplendor.
 ## ALFONSINA STORNI
 ### **_Así_**
-Hice el libro así:
-Gimiendo, llorando, soñando, ay de mí.
-Mariposa triste, leona cruel,
-Di luces y sombra todo en una vez.
-Cuando fui leona nunca recordé
-Cómo pude un día mariposa ser.
-Cuando mariposa jamás me pensé
+Hice el libro así:  
+Gimiendo, llorando, soñando, ay de mí.  
+Mariposa triste, leona cruel,  
+Di luces y sombra todo en una vez.  
+Cuando fui leona nunca recordé  
+Cómo pude un día mariposa ser.  
+Cuando mariposa jamás me pensé  
 Que pudiera un día zarpar o morder.
-Encogida a ratos y a saltos después
-Sangraron mi vida y a sangre maté.
-Sé que, ya paloma, pesado ciprés.
-O mata florida, lloré y más lloré.
-Ya probando sales, ya probando miel,
-Los ojos lloraron a más no poder.
-Da entonces lo mismo, que lo he visto bien,
-Ser rosa o espina, ser néctar o hiel.
-Así voy a curvas con mi mala sed
+
+Encogida a ratos y a saltos después  
+sangraron mi vida y a sangre maté.  
+Sé que, ya paloma, pesado ciprés.  
+O mata florida, lloré y más lloré.  
+Ya probando sales, ya probando miel,  
+Los ojos lloraron a más no poder.  
+Da entonces lo mismo, que lo he visto bien,  
+Ser rosa o espina, ser néctar o hiel.  
+Así voy a curvas con mi mala sed  
 Podando jardines de todo jaez.
 ## PIER PAOLO PASOLINI
 ### **_Análisis tardío_**
 (Fin de los años sesenta)
-Sé bien, sé bien que estoy en el fondo de la fosa; 
-que todo aquello que toco ya lo he tocado;
-que soy prisionero de un interés indecente;
-que cada convalecencia es una recaída;
-que las aguas están estancadas y todo tiene sabor a viejo;
-que también el humorismo forma parte del bloque inamovible;
-que no hago otra cosa que reducir lo nuevo a lo antiguo;
-que no intento todavía reconocer quién soy;
-que he perdido hasta la antigua paciencia de orfebre;
-que la vejez hace resaltar por impaciencia sólo las miserias;
-que no saldré nunca de aquí por más que sonría;
-que doy vueltas de un lado a otro por la tierra como una bestia enjaulada;
-que de tantas cuerdas que tengo he terminado por tirar de una sola;
-que me gusta embarrarme porque el barro es materia pobre y por lo tanto pura;
+Sé bien, sé bien que estoy en el fondo de la fosa;  
+que todo aquello que toco ya lo he tocado;  
+que soy prisionero de un interés indecente;  
+que cada convalecencia es una recaída;  
+que las aguas están estancadas y todo tiene sabor a viejo;  
+que también el humorismo forma parte del bloque inamovible;  
+que no hago otra cosa que reducir lo nuevo a lo antiguo;  
+que no intento todavía reconocer quién soy;  
+que he perdido hasta la antigua paciencia de orfebre;  
+que la vejez hace resaltar por impaciencia sólo las miserias;  
+que no saldré nunca de aquí por más que sonría;  
+que doy vueltas de un lado a otro por la tierra como una bestia enjaulada;  
+que de tantas cuerdas que tengo he terminado por tirar de una sola;  
+que me gusta embarrarme porque el barro es materia pobre y por lo tanto pura;  
 que adoro la luz sólo si no ofrece esperanza.
 ### **_Muerte_**
 Vuelvo a ti, como vuelve
