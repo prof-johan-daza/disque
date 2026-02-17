@@ -906,37 +906,51 @@ No.
 Te estoy besando más lejos.
 ## MARIO WAITS
 ### **_Hay veces_**
-Hay veces que te joden los muertos con su sonrisa permanente, su profunda mirada y un viento de
-reclamos entre su innecesario respirar.
-Hay veces que los muertos invaden sin permiso la intimidad de nuestros sueños y hacen fiestas u
-otras veces charlas amenas, dándote escalofrío sus alientos para que no pierdas el ánimo ni el ánima
+Hay veces que te joden los muertos con su sonrisa  
+permanente, su profunda mirada y un viento de  
+reclamos entre su innecesario respirar.  
+Hay veces que los muertos invaden sin permiso  
+la intimidad de nuestros sueños y hacen fiestas u  
+otras veces charlas amenas, dándote escalofrío sus  
+alientos para que no pierdas el ánimo ni el ánima  
 en aspavientos.
-Más no los exorcizas, a menos que quiebres la madrugada, que camines insomne al contar a tu paso
+
+Más no los exorcizas, a menos que quiebres  
+la madrugada, que camines insomne al contar a tu paso  
 las estrellas, que hay veces, son también, lejanos muertos.
-Hay veces que tu mejor camarada te traiciona, pues lo abrazas un viernes, quedan de reencontrarse
-en luna nueva y lo ves alejarse e ignoras que algo se masculla entre dientes; el sábado te sorprendes
-en su funeral, el lunes en la mesa de siempre te bebes en el soliloquio del llanto, su amargo café sin
-fondo de conversación y descubres que no hay sacarina sustituta para el agradable azúcar de que se
+
+Hay veces que tu mejor camarada te traiciona,  
+pues lo abrazas un viernes, quedan de reencontrarse  
+en luna nueva y lo ves alejarse e ignoras que algo  
+se masculla entre dientes; el sábado te sorprendes  
+en su funeral, el lunes en la mesa de siempre  
+te bebes en el soliloquio del llanto, su amargo café sin  
+fondo de conversación y descubres que no hay sacarina  
+sustituta para el agradable azúcar de que se  
 componen los amigos buenos.
-Hay veces que te joden los muertos, dan señales de humo que enrojecen los ojos y no nos heredan
-demasiadas opciones, pues te rompes la testa o las promesas...
-Y ellos que se pasean con profundas miradas, sonrisas transparentes y sus trajes de fiesta.
+
+Hay veces que te joden los muertos, dan señales  
+de humo que enrojecen los ojos y no nos heredan  
+demasiadas opciones, pues te rompes la testa o las promesas...  
+Y ellos que se pasean con profundas miradas, sonrisas  
+transparentes y sus trajes de fiesta.
 ## DARÍO JARAMILLO AGUDELO
 ### **_Algún día_**
-Algún día te escribiré un poema que no
-mencione el aire ni la noche;
-un poema que omita los nombres de las flores,
-que no tenga jazmines o magnolias.
-Algún día te escribiré un poema sin pájaros,
-sin fuentes, un poema que eluda el mar
+Algún día te escribiré un poema que no  
+mencione el aire ni la noche;  
+un poema que omita los nombres de las flores,  
+que no tenga jazmines o magnolias.  
+Algún día te escribiré un poema sin pájaros,  
+sin fuentes, un poema que eluda el mar  
 y que no mire a las estrellas.
-Algún día te escribiré un poema que se limite
-a pasar los dedos por tu piel
-y que convierta en palabras tu mirada.
-Sin comparaciones, sin metáforas;
-algún día escribiré un poema que huela a ti,
-un poema con el ritmo de tus pulsaciones,
-con la intensidad estrujada de tu abrazo.
+
+Algún día te escribiré un poema que se limite  
+a pasar los dedos por tu piel  
+y que convierta en palabras tu mirada.  
+Sin comparaciones, sin metáforas;  
+algún día escribiré un poema que huela a ti,  
+un poema con el ritmo de tus pulsaciones,  
+con la intensidad estrujada de tu abrazo.  
 Algún día te escribiré un poema, el canto de mi dicha.
 ## DIEGO DE TORRES Y VILLARROEL
 ### **_Ciencia de los cortesanos de este siglo_**
@@ -956,135 +970,157 @@ cátate hecho y derecho cortesano,
 mas llevárate el diablo dicho y hecho.
 ## LUIS CERNUDA
 ### **_Te quiero_**
-Te quiero.
-Te lo he dicho con el viento,
-jugueteando como animalillo en la arena
-o iracundo como órgano impetuoso;
-Te lo he dicho con el sol,
-que dora desnudos cuerpos juveniles
+Te quiero.  
+Te lo he dicho con el viento,  
+jugueteando como animalillo en la arena  
+o iracundo como órgano impetuoso;  
+Te lo he dicho con el sol,  
+que dora desnudos cuerpos juveniles  
 y sonríe en todas las cosas inocentes;
-Te lo he dicho con las nubes,
-frentes melancólicas que sostienen el cielo,
-tristezas fugitivas;
-Te lo he dicho con las plantas,
-leves criaturas transparentes
-que se cubren de rubor repentino;
-Te lo he dicho con el agua,
-vida luminosa que vela un fondo de sombra;
-te lo he dicho con el miedo,
-te lo he dicho con la alegría,
+
+Te lo he dicho con las nubes,  
+frentes melancólicas que sostienen el cielo,  
+tristezas fugitivas;  
+Te lo he dicho con las plantas,  
+leves criaturas transparentes  
+que se cubren de rubor repentino;  
+Te lo he dicho con el agua,  
+vida luminosa que vela un fondo de sombra;  
+te lo he dicho con el miedo,  
+te lo he dicho con la alegría,  
 con el hastío, con las terribles palabras.
-Pero así no me basta:
-más allá de la vida,
-quiero decírtelo con la muerte;
-más allá del amor,
+
+Pero así no me basta:  
+más allá de la vida,  
+quiero decírtelo con la muerte;  
+más allá del amor,  
 quiero decírtelo con el olvido.
 ## JAIRO ANÍBAL NIÑO
 ### **_El día de tu santo_**
-El día de tu santo te hicieron regalos muy valiosos: un perfume extranjero, una sortija, un lapicero de oro, unos patines, unos tenis Nike y una bicicleta.
-Yo solamente te pude traer, en una caja antigua de color rapé, un montón de semillas de naranjo, de pino, de cedro, de araucaria, de bellísima, de caobo y de amarillo.
-Esas semillas son pacientes y esperan su lugar y su tiempo.
-Yo no tenía dinero para comprarte algo lujoso.
+El día de tu santo te hicieron regalos muy valiosos:  
+un perfume extranjero, una sortija, un lapicero de oro,  
+unos patines, unos tenis Nike y una bicicleta.  
+Yo solamente te pude traer, en una caja antigua  
+de color rapé, un montón de semillas de naranjo,  
+de pino, de cedro, de araucaria, de bellísima,  
+de caobo y de amarillo.
+
+Esas semillas son pacientes y esperan su lugar y su tiempo.  
+Yo no tenía dinero para comprarte algo lujoso.  
 Yo simplemente quise regalarte un bosque.
 ## JUAN MANUEL ROCA
 ### **_Poema invadido por Romanos_**
-Los romanos eran maliciosos.
-Llenaron Europa de ruinas
-confabulados con el tiempo.
-Les interesaba el futuro,
-las huellas más que las pisadas.
-Los romanos, Casandra, eran mañosos.
-No fraguaron el Acueducto de Segovia
-como un ducto de agua y de luz.
-Lo pensaron como vestigio,
+Los romanos eran maliciosos.  
+Llenaron Europa de ruinas  
+confabulados con el tiempo.  
+Les interesaba el futuro,  
+las huellas más que las pisadas.  
+Los romanos, Casandra, eran mañosos.  
+No fraguaron el Acueducto de Segovia  
+como un ducto de agua y de luz.  
+Lo pensaron como vestigio,  
 como un absorto pasado.
-Sembraron de edificios roñosos Europa,
-de estatuas acéfalas
-engullidas por la gloria de Roma.
-No hicieron el Coliseo
-para que los tigres devoraran
-a su antojo a los cristianos,
-tan poco apetecibles,
-ni para ver ensartadas
-como entremeses del infierno
+
+Sembraron de edificios roñosos Europa,  
+de estatuas acéfalas  
+engullidas por la gloria de Roma.  
+No hicieron el Coliseo  
+para que los tigres devoraran  
+a su antojo a los cristianos,  
+tan poco apetecibles,  
+ni para ver ensartadas  
+como entremeses del infierno  
 a las huestes de Espartaco.
-Pensaron su ruina, una ruina proporcional
-a la sombra mordida del sol que agoniza.
-Mi amigo Dino Campana
-pudo haber saltado a la yugular
-de uno de sus dioses de mármol.
-Los romanos dan mucho en qué pensar.
-Por ejemplo,
-en un caballo de bronce
-de la Piazza Bianca.
-al momento de restaurarlo,
-al asomarse a su boca abierta,
-encontraron en el vientre
+
+Pensaron su ruina, una ruina proporcional  
+a la sombra mordida del sol que agoniza.  
+Mi amigo Dino Campana  
+pudo haber saltado a la yugular  
+de uno de sus dioses de mármol.  
+Los romanos dan mucho en qué pensar.  
+Por ejemplo,  
+en un caballo de bronce  
+de la Piazza Bianca.  
+al momento de restaurarlo,  
+al asomarse a su boca abierta,  
+encontraron en el vientre  
 esqueletos de palomas.
-Como tu amor,
-que se vuelve ruina
-mientras más lo construyo.
+
+Como tu amor,  
+que se vuelve ruina  
+mientras más lo construyo.  
 El tiempo es romano.
 ## PABLO NERUDA
 ### **_Farewell_**
 1  
-Desde el fondo de ti, y arrodillado, 
-un niño triste, como yo, nos mira.
-Por esa vida que arderá en sus venas
-tendrían que amarrarse nuestras vidas.
-Por esas manos, hijas de tus manos,
-tendrían que matar las manos mías.
-Por sus ojos abiertos en la tierra
+Desde el fondo de ti, y arrodillado,  
+un niño triste, como yo, nos mira.  
+Por esa vida que arderá en sus venas  
+tendrían que amarrarse nuestras vidas.  
+Por esas manos, hijas de tus manos,  
+tendrían que matar las manos mías.  
+Por sus ojos abiertos en la tierra  
 veré en los tuyos lágrimas un día.
 
 2  
-Yo no lo quiero, Amada.
-Para que nada nos amarre
-que no nos una nada.
-Ni la palabra que aromó tu boca,
-ni lo que no dijeron las palabras.
-Ni la fiesta de amor que no tuvimos,
+Yo no lo quiero, Amada.  
+Para que nada nos amarre  
+que no nos una nada.  
+Ni la palabra que aromó tu boca,  
+ni lo que no dijeron las palabras.  
+Ni la fiesta de amor que no tuvimos,  
 ni tus sollozos junto a la ventana.
 
 3  
-(Amo el amor de los marineros
-que besan y se van.
-Dejan una promesa.
-No vuelven nunca más.
-En cada puerto una mujer espera:
-los marineros besan y se van.
-Una noche se acuestan con la muerte
+(Amo el amor de los marineros  
+que besan y se van.  
+Dejan una promesa.  
+No vuelven nunca más.  
+En cada puerto una mujer espera:  
+los marineros besan y se van.  
+Una noche se acuestan con la muerte 
 en el lecho del mar).
 
 4  
-Amor el amor que se reparte
-en besos, lecho y pan.
-Amor que puede ser eterno
-y puede ser fugaz.
-Amor que quiere libertarse
-para volver a amar.
-Amor divinizado que se acerca
+Amor el amor que se reparte  
+en besos, lecho y pan.  
+Amor que puede ser eterno  
+y puede ser fugaz.  
+Amor que quiere libertarse  
+para volver a amar.  
+Amor divinizado que se acerca  
 Amor divinizado que se va.
 
 5  
-Ya no se encantarán mis ojos en tus ojos,
-ya no se endulzará junto a ti mi dolor.
-Pero hacia donde vaya llevaré tu mirada
-y hacia donde camines llevarás mi dolor.
-Fui tuyo, fuiste mía. Qué más? Juntos hicimos
+Ya no se encantarán mis ojos en tus ojos,  
+ya no se endulzará junto a ti mi dolor.  
+Pero hacia donde vaya llevaré tu mirada  
+y hacia donde camines llevarás mi dolor.  
+Fui tuyo, fuiste mía. Qué más? Juntos hicimos  
 un recodo en la ruta donde el amor pasó.
 
-Fui tuyo, fuiste mía. Tú serás del que te ame,
-del que corte en tu huerto lo que he sembrado yo.
-Yo me voy. Estoy triste: pero siempre estoy triste.
-Vengo desde tus brazos. No sé hacia dónde voy.
-...Desde tu corazón me dice adiós un niño.
+Fui tuyo, fuiste mía. Tú serás del que te ame,  
+del que corte en tu huerto lo que he sembrado yo.  
+Yo me voy. Estoy triste: pero siempre estoy triste.  
+Vengo desde tus brazos. No sé hacia dónde voy.  
+...Desde tu corazón me dice adiós un niño.  
 Y yo le digo adiós.
 ## LEOPOLDO ALAS
 ### **_Razón de amor_**
-No es sólo la pasión de los abrazos, la saliva, el aroma, el vértigo, los besos o el plácido desvelo de la ausencia. Mi amor es la fábula y la trama, el relato interior que sigue a cada encuentro, la glosa que acompaña los adioses, el minucioso examen de las frases y el eco que tu voz le pone a mi silencio.
-Mi amor es ser feliz y no engañarme anticipando el daño del negro desengaño, cuando el sexo se esfume en el recuerdo remoto y resentido de un orgasmo. El consentir la calma en las mareas y atesorar las horas y los días de la fiesta de luz que celebramos, del banquete voraz de los sentidos.
-Y abolir la frontera de los cuerpos, detenernos, subiendo la escalera, a besarnos en todos los peldaños.
+No es sólo la pasión de los abrazos, la saliva,  
+el aroma, el vértigo, los besos o el plácido desvelo  
+de la ausencia. Mi amor es la fábula y la trama,  
+el relato interior que sigue a cada encuentro,  
+la glosa que acompaña los adioses, el minucioso examen  
+de las frases y el eco que tu voz le pone a mi silencio.
+
+Mi amor es ser feliz y no engañarme anticipando  
+el daño del negro desengaño, cuando el sexo se esfume  
+en el recuerdo remoto y resentido de un orgasmo.  
+El consentir la calma en las mareas y atesorar las horas  
+y los días de la fiesta de luz que celebramos, del banquete  
+voraz de los sentidos. Y abolir la frontera de los cuerpos,  
+detenernos, subiendo la escalera, a besarnos en todos los peldaños.
 ### **_Al filo de los treinta_**
 Supón que todo sigue...  
 La voz que siempre escuchas por las tardes  
