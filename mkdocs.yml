@@ -8,6 +8,7 @@ theme:
   logo: assets/logo-disque.png
   favicon: assets/favicon-disque.ico
   features:
+    - content.code.copy
     - navigation.tabs
     - navigation.tabs.sticky
   palette:
