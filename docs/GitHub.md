@@ -14,3 +14,10 @@ git remote add origin https://github.com/prof-johan-daza/disque.git
 git clone https://github.com/prof-johan-daza/general.git
 ```
 ## 4. Terminal VISUAL – Mot de passe PDF
+```python title="TerminalVISUAL.py" linenums="1" hl_lines="1"
+cd ~/Documents/disque # cd ~/Documents/disque ou cd ~/Documents/general
+git init
+git add .
+git commit -m "NombredelCommit"
+git push origin main
+```
