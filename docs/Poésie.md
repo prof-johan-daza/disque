@@ -684,7 +684,15 @@ quienes se quieren
 y tiemblan.
 ## COSMOLOGÍA KOGUI
 ### **_Primero estaba el mar_**
-Todo estaba oscuro. No había sol, ni luna, ni gente, ni animales, ni plantas. Solo el mar estaba en todas partes. El mar era la madre. Ella era agua, era río, laguna, quebrada y mar. Así, primero sólo estaba la madre. La madre no era gente, ni nada, ni cosa alguna. Ella era Aluna. Ella era espíritu de lo que iba a venir y ella era pensamiento y memoria. Así la madre existió sólo en Aluna, en el mundo más abajo, sola.
+Todo estaba oscuro. No había sol, ni luna, ni gente,  
+ni animales, ni plantas. Solo el mar estaba en todas  
+partes. El mar era la madre. Ella era agua, era río,  
+laguna, quebrada y mar. Así, primero sólo estaba  
+la madre. La madre no era gente, ni nada, ni cosa alguna.
+
+Ella era Aluna. Ella era espíritu de lo que iba a venir  
+y ella era pensamiento y memoria. Así la madre existió  
+sólo en Aluna, en el mundo más abajo, sola.
 ## CARLOS CASTAÑEDA
 ### **_Las enseñanzas de Don Juan_**
 Por ejemplo, cuando yo estaba aprendiendo sobre la yerba del diablo,  
