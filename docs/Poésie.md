@@ -610,23 +610,23 @@ con todo el barro de la vida
 lo que aún no ha vivido.
 ## RAMÓN COTE
 ### **_Extranjeros_**
-Los extranjeros tienen una forma de alejarse
-que muchas veces se parece al desprecio. La timidez
-de un vagón de la Western Pacific,
-pintado a propósito para filmar
-alguna película de vaqueros en el desierto de Almería,
-o el verde de Carruagems Portugueses
-que recuerda a un camaleón incómodo
-descubierto de repente,
-o el ruso, molesto de tener pintado
-un caballo que responde
-a la desvaída emoción del jinete
-en una parada militar.
-Más tarde formarán parte del inventario,
-pero por ahora siguen conversando
-ese extravío mudo
-de las cosas olvidadas
-el dolor guardado golondrinas con que callan,
+Los extranjeros tienen una forma de alejarse  
+que muchas veces se parece al desprecio. La timidez  
+de un vagón de la Western Pacific,  
+pintado a propósito para filmar  
+alguna película de vaqueros en el desierto de Almería,  
+o el verde de Carruagems Portugueses  
+que recuerda a un camaleón incómodo  
+descubierto de repente,  
+o el ruso, molesto de tener pintado  
+un caballo que responde  
+a la desvaída emoción del jinete  
+en una parada militar.  
+Más tarde formarán parte del inventario,  
+pero por ahora siguen conversando  
+ese extravío mudo  
+de las cosas olvidadas  
+el dolor guardado golondrinas con que callan,  
 el anillo equivocado de las despedidas.
 ## ARCIPRESTE DE HITA
 ### **_Aristóteles dijo_**
