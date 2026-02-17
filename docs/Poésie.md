@@ -1,4 +1,4 @@
-# **_Poésie_** <!--Línea por el momento : 1223 -->
+# **_Poésie_** <!-- Viajamos en medio del espanto,[··] padres de-->
 ## **_RAMÓN DE CAMPOAMOR_**
 ### **_Amar y querer_**
 A la infiel más infiel de las hermosas  
@@ -1194,8 +1194,9 @@ mucha seriedad y poca risa...
 Para vivir un gran amor.  
 Para vivir un gran amor es menester  
 ser hombre de una sola mujer;  
-pues serlo de muchas, pucha !
-es cosa fácil... no tiene ningún mérito.
+pues serlo de muchas, pucha !  
+es cosa fácil...  
+No tiene ningún mérito.
 
 Para vivir un gran amor, primero es preciso  
 consagrarse caballero  
@@ -1494,7 +1495,8 @@ No, no hay ánimo para irse de fiesta
 ni efemérides para celebrar,  
 permanecemos con el espinazo quebrado bajo las lámparas.  
 y no descubriremos un sitio más cómodo.  
-Viajamos en medio del espanto, padres de gemidos que no se oirán en la brisa,  
+Viajamos en medio del espanto,  
+padres de gemidos que no se oirán en la brisa,  
 y no somos sino días cegados  
 y ponientes que se doblan y mañanas para nada  
 y delirios de un ayer que tampoco fue mejor.
