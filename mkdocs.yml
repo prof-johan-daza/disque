@@ -29,6 +29,7 @@ theme:
 
 nav:
 
+  - GitHub: GitHub.md
   - Imprimer: index.md
   - Mots: Mots.md
   - France profonde: France-profonde.md
