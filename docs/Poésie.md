@@ -340,14 +340,14 @@ que habló a flor de fuego.
 
 Yo nací un día  
 que Dios estuvo enfermo.
-  
+
 Hermano, escucha, escucha...  
 Bueno. Y que no me vaya  
 sin llevar diciembres,   
 sin dejar eneros.  
 Pues yo nací un día  
 que Dios estuvo enfermo.
-  
+
 Todos saben que vivo,  
 que mastico... y no saben  
 por qué en mi verso chirrían,  
