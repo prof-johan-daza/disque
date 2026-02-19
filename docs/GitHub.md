@@ -21,3 +21,7 @@ git add .
 git commit -m "NombredelCommit"
 git push origin main
 ```
+## 5. Terminal MAC – Arrêt de terminal
+```python title="TerminalMAC.py" linenums="1" hl_lines="1"
+^C
+```
