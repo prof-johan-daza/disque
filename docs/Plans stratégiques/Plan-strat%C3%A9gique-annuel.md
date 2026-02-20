@@ -1,66 +1,14 @@
 # **_Plan stratégique annuel_**
-- [x] Mois 1 → 23 septembre 2025 au 23 octobre 2025
-    * [x] 25  000  000 bits
-    * [x] 8  210  103 bits
-    * [x] -  8  210  103 bits
-    * [x] 25  000  000 bits
-- [x] Mois 2 → 23 octobre 2025 au 23 novembre 2025
-    * [x] 25  000  000 bits
-    * [x] 8  210  103 bits
-    * [x] 8  090  117 bits
-    * [x] 5  057  264 bits
-    * [x] 46  357  484 bits
-- [ ] Mois 3 → 23 novembre 2025 au 23 décembre 2025
-    * [x] 46  357  484 bits
-    * [ ] 8  210  103 bits ?
-    * [ ] ?
-    * [ ] ?
-- [ ] Mois 4 – 23 décembre. 2025 au 23 janvier. 2026
-- [ ] Mois 5 – 23 janvier. 2026 au 23 février. 2026
-- [ ] Mois 6 – 23 février. 2026 au 23 mars. 2026
-- [ ] Mois 7 – 23 mars. 2026 au 23 avril. 2026
-- [ ] Mois 8 – 23 avril. 2026 au 23 mai. 2026
-- [ ] Mois 9 – 23 mai. 2026 au 23 juin. 2026
-- [ ] Mois 10 – 23 juin. 2026 au 23 juillet. 2026
-- [ ] Mois 11 – 23 juillet. 2026 au 23 août. 2026
-- [ ] Mois 12 – 23 août. 2026 au 23 septembre. 2026
-<!-- - [ ] Mois 13 – 23 septembre. 2026 au 23 octobre. 2026
-- [ ] Mois 14 – 23 octobre. 2026 au 23 novembre. 2026
-- [ ] Mois 15 – 23 novembre. 2026 au 23 décembre. 2026
-- [ ] Mois 16 – 23 décembre. 2026 au 23 janvier. 2027
-- [ ] Mois 17 – 23 janvier. 2027 au 23 février. 2027
-- [ ] Mois 18 – 23 février. 2027 au 23 mars. 2027
-- [ ] Mois 19 – 23 mars. 2027 au 23 avril. 2027
-- [ ] Mois 20 – 23 avril. 2027 au 23 mai. 2027
-- [ ] Mois 21 – 23 mai. 2027 au 23 juin. 2027
-- [ ] Mois 22 – 23 juin. 2027 au 23 juillet. 2027
-- [ ] Mois 23 – 23 juillet. 2027 au 23 août. 2027
-- [ ] Mois 24 – 23 août. 2027 au 23 septembre. 2027
-- [ ] Mois 25 – 23 septembre. 2027 au 23 octobre. 2027
-- [ ] Mois 26 – 23 octobre. 2027 au 23 novembre. 2027
-- [ ] Mois 27 – 23 novembre. 2027 au 23 décembre. 2027
-- [ ] Mois 28 – 23 décembre. 2027 au 23 janvier. 2028
-- [ ] Mois 29 – 23 janvier. 2028 au 23 février. 2028
-- [ ] Mois 30 – 23 février. 2028 au 23 mars. 2028
-- [ ] Mois 31 – 23 mars. 2028 au 23 avril. 2028
-- [ ] Mois 32 – 23 avril. 2028 au 23 mai. 2028
-- [ ] Mois 33 – 23 mai. 2028 au 23 juin. 2028
-- [ ] Mois 34 – 23 juin. 2028 au 23 juillet. 2028
-- [ ] Mois 35 – 23 juillet. 2028 au 23 août. 2028
-- [ ] Mois 36 – 23 août. 2028 au 23 septembre. 2028
-- [ ] Mois 37 – 23 septembre. 2028 au 23 octobre. 2028
-- [ ] Mois 38 – 23 octobre. 2028 au 23 novembre. 2028
-- [ ] Mois 39 – 23 novembre. 2028 au 23 décembre. 2028
-- [ ] Mois 40 – 23 décembre. 2028 au 23 janvier. 2029
-- [ ] Mois 41 – 23 janvier. 2029 au 23 février. 2029
-- [ ] Mois 42 – 23 février. 2029 au 23 mars. 2029
-- [ ] Mois 43 – 23 mars. 2029 au 23 avril. 2029
-- [ ] Mois 44 – 23 avril. 2029 au 23 mai. 2029
-- [ ] Mois 45 – 23 mai. 2029 au 23 juin. 2029
-- [ ] Mois 46 – 23 juin. 2029 au 23 juillet. 2029
-- [ ] Mois 47 – 23 juillet. 2029 au 23 août. 2029
-- [ ] Mois 48 – 23 août. 2029 au 23 septembre. 2029
-- [ ] Mois 49 – 23 septembre. 2029 au 23 octobre. 2029
-- [ ] Mois 50 – 23 octobre. 2029 au 23 novembre. 2029 -->
-
-## Engagement sur 20 ans ?
+## ~65 M Janvier 2027
+- [x] Mois 1 → 23 février. 2026 au 23 mars. 2026
+- [ ] Mois 2 → 23 mars. 2026 au 23 avril. 2026
+- [ ] Mois 3 → 23 avril. 2026 au 23 mai. 2026
+- [ ] Mois 4 → 23 mai. 2026 au 23 juin. 2026
+- [ ] Mois 5 → 23 juin. 2026 au 23 juillet. 2026
+- [ ] Mois 6 → 23 juillet. 2026 au 23 août. 2026
+- [ ] Mois 7 → 23 août. 2026 au 23 septembre. 2026
+- [ ] Mois 8 → 23 septembre. 2026 au 23 octobre. 2026
+- [ ] Mois 9 → 23 octobre. 2026 au 23 novembre. 2026
+- [ ] Mois 10 → 23 novembre. 2026 au 23 décembre. 2026
+- [ ] Mois 11 → 23 décembre. 2026 au 23 janvier. 2027
+- [ ] Mois 12 → 23 janvier. 2027 au 23 février. 2027
