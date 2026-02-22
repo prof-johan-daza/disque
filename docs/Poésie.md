@@ -915,23 +915,25 @@ otras veces charlas amenas, dándote escalofrío sus
 alientos para que no pierdas el ánimo ni el ánima  
 en aspavientos.
 
-Más no los exorcizas, a menos que quiebres  
-la madrugada, que camines insomne al contar a tu paso  
-las estrellas, que hay veces, son también, lejanos muertos.
+Más no los exorcizas, a menos que quiebres la  
+madrugada, que camines insomne al contar a tu  
+paso las estrellas, que hay veces, son también,  
+lejanos muertos.
 
 Hay veces que tu mejor camarada te traiciona,  
 pues lo abrazas un viernes, quedan de reencontrarse  
 en luna nueva y lo ves alejarse e ignoras que algo  
 se masculla entre dientes; el sábado te sorprendes  
 en su funeral, el lunes en la mesa de siempre  
-te bebes en el soliloquio del llanto, su amargo café sin  
-fondo de conversación y descubres que no hay sacarina  
-sustituta para el agradable azúcar de que se  
-componen los amigos buenos.
+te bebes en el soliloquio del llanto, su amargo café  
+sin fondo de conversación y descubres que no hay  
+sacarina sustituta para el agradable azúcar de que  
+se componen los amigos buenos.
 
 Hay veces que te joden los muertos, dan señales  
 de humo que enrojecen los ojos y no nos heredan  
-demasiadas opciones, pues te rompes la testa o las promesas...  
+demasiadas opciones, pues te rompes la testa o  
+las promesas...  
 Y ellos que se pasean con profundas miradas, sonrisas  
 transparentes y sus trajes de fiesta.
 ## DARÍO JARAMILLO AGUDELO
