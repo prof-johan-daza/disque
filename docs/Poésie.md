@@ -934,8 +934,8 @@ Hay veces que te joden los muertos, dan señales
 de humo que enrojecen los ojos y no nos heredan  
 demasiadas opciones, pues te rompes la testa o  
 las promesas...  
-Y ellos que se pasean con profundas miradas, sonrisas  
-transparentes y sus trajes de fiesta.
+Y ellos que se pasean con profundas miradas,  
+sonrisas transparentes y sus trajes de fiesta.
 ## DARÍO JARAMILLO AGUDELO
 ### **_Algún día_**
 Algún día te escribiré un poema que no  
