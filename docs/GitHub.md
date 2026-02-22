@@ -25,7 +25,7 @@ git push origin main
 ```python title="TerminalMAC.py" linenums="1" hl_lines="1"
 ^C
 ```
-## 4. Terminal VISUAL – 
+## 6. Terminal VISUAL – 
 ```python title="TerminalMAC.py" linenums="1"
 git stash push -u -m "pre-rebase: DS_Store" && git rebase origin/main && git push origin main
 ```
