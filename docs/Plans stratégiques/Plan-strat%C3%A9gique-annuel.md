@@ -1,5 +1,5 @@
 # **_Plan stratégique annuel_**
-## ~65 M Janvier 2027
+## 1. Fin janvier 2027
 - [x] Mois 1 → 23 février. 2026 au 23 mars. 2026
 - [ ] Mois 2 → 23 mars. 2026 au 23 avril. 2026
 - [ ] Mois 3 → 23 avril. 2026 au 23 mai. 2026
