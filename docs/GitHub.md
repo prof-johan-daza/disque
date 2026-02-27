@@ -35,7 +35,7 @@ git stash push -u -m "pre-rebase: DS_Store" && git rebase origin/main && git pus
     Colonnes de notes affichées dans Pronote :
 
     → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Feuille élève  
-    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine.pdf")   
+    ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine.pdf")  
     → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Corrigé  
     ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine+C.pdf")
 ```
