@@ -63,4 +63,7 @@
 - [ ] Mois 50 – 1 mai. 2028 au 5 mai. 2028
 
 ## Incohérence ou Non-sens
+
 ### 1. Mi février 2026 ~ 0,503 M
+
+### 2. Début mars 2026 ~ 0,450 M
