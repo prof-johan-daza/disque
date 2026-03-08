@@ -24,8 +24,8 @@
 - [x] Mois 22 – 1 janvier. 2026 au 5 janvier. 2026
 - [x] Mois 23 – 1 février. 2026 au 5 février. 2026
     * [x] C 1
-- [ ] Mois 24 – 1 mars. 2026 au 5 mars. 2026
-    * [ ] C 2
+- [x] Mois 24 – 1 mars. 2026 au 5 mars. 2026
+    * [x] C 2
 - [ ] Mois 25 – 1 avril. 2026 au 5 avril. 2026
     * [ ] C 3
 - [ ] Mois 26 – 1 mai. 2026 au 5 mai. 2026
@@ -67,3 +67,5 @@
 ### 1. Mi février 2026 ~ 0,503 M
 
 ### 2. Début mars 2026 ~ 0,450 M
+
+### 3. Presque mi-Mars 2026 ~0,208 M
