@@ -15,7 +15,8 @@ git clone https://github.com/prof-johan-daza/general.git
 ```
 ## 4. Terminal VISUAL – Commitetpush
 ```python title="TerminalVISUAL.py" linenums="1" hl_lines="1"
-cd ~/Documents/disque # cd ~/Documents/disque ou cd ~/Documents/general
+cd "/Users/johandaza/Documents/Documents - MacBook Air de Johan/disque"
+ou cd "/Users/johandaza/Documents/Documents - MacBook Air de Johan/general"
 git init
 git add .
 git commit -m "NombredelCommit"
@@ -39,4 +40,3 @@ git stash push -u -m "pre-rebase: DS_Store" && git rebase origin/main && git pus
     → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Corrigé  
     ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine+C.pdf")
 ```
-<!-- cd "/Users/johandaza/Documents/Documents - MacBook Air de Johan" -->
