@@ -40,7 +40,7 @@ git stash push -u -m "pre-rebase: DS_Store" && git rebase origin/main && git pus
     → "Nombre de la feuille" feuille – "Thématique dans la progresssion" – Corrigé  
     ["Nombre de la feuille" – Cliquez ici pour télécharger les documents - Auteur : "Nom auteur"](https://prof-johan-daza.github.io/general/"Classe"/"S+#semaine Dossier"/"S+#semaine+C.pdf")
 ```
-## 7. Terminal VISUAL – Ouvrir exactement ce dossier dans VS Code
+## 8. Terminal VISUAL – Ouvrir exactement ce dossier dans VS Code
 ```python title="TerminalVISUAL.py" linenums="1"
 code .
 ```
