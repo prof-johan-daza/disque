@@ -62,10 +62,10 @@
 - [ ] Mois 49 – 1 avril. 2028 au 5 avril. 2028
 - [ ] Mois 50 – 1 mai. 2028 au 5 mai. 2028
 
-## Incohérence ou Non-sens
+## 2. Incohérence ou Non-sens
 
-### 1. Mi février 2026 ~ 0,503 M
+### I. Mi février 2026 ~ 0,503 M
 
-### 2. Début mars 2026 ~ 0,450 M
+### II. Début mars 2026 ~ 0,450 M
 
-### 3. Presque mi-Mars 2026 ~0,208 M
+### III. Presque mi-Mars 2026 ~0,208 M
