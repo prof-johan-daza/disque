@@ -1,4 +1,4 @@
-# **_GitHub_**
+# GitHub
 
 ## 1. Terminal MAC – Disque
 
