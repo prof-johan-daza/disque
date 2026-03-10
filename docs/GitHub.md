@@ -60,3 +60,9 @@ git stash push -u -m "pre-rebase: DS_Store" && git rebase origin/main && git pus
 ```python title="TerminalVISUAL.py" linenums="1"
 code .
 ```
+
+## 9. Terminal VISUAL – Variés
+
+```python title="TerminalVISUAL.py"
+touch – mkdir – cd – ls -a – pwd
+```
