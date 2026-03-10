@@ -1,4 +1,4 @@
-# **_Laura_**
+# *Laura*
 ## 1. Mai 2028
 - [x] Mois 1 – 1 avril. 2024 au 5 avril. 2024
 - [x] Mois 2 – 1 mai. 2024 au 5 mai. 2024
@@ -23,27 +23,27 @@
 - [x] Mois 21 – 1 décembre. 2025 au 5 décembre. 2025
 - [x] Mois 22 – 1 janvier. 2026 au 5 janvier. 2026
 - [x] Mois 23 – 1 février. 2026 au 5 février. 2026
-    * [x] C 1
+       - [x] C 1
 - [x] Mois 24 – 1 mars. 2026 au 5 mars. 2026
-    * [x] C 2
+       - [x] C 2
 - [ ] Mois 25 – 1 avril. 2026 au 5 avril. 2026
-    * [ ] C 3
+       - [ ] C 3
 - [ ] Mois 26 – 1 mai. 2026 au 5 mai. 2026
-    * [ ] C 4
+       - [ ] C 4
 - [ ] Mois 27 – 1 juin. 2026 au 5 juin. 2026
-    * [ ] C 5
+       - [ ] C 5
 - [ ] Mois 28 – 1 juillet. 2026 au 5 juillet. 2026
-    * [ ] C 6
+       - [ ] C 6
 - [ ] Mois 29 – 1 août. 2026 au 5 août. 2026
-    * [ ] C 7
+       - [ ] C 7
 - [ ] Mois 30 – 1 septembre. 2026 au 5 septembre. 2026
-    * [ ] C 8
+       - [ ] C 8
 - [ ] Mois 31 – 1 octobre. 2026 au 5 octobre. 2026
-    * [ ] C 9
+       - [ ] C 9
 - [ ] Mois 32 – 1 novembre. 2026 au 5 novembre. 2026
-    * [ ] C 10
+       - [ ] C 10
 - [ ] Mois 33 – 1 décembre. 2026 au 5 décembre. 2026
-    * [ ] C 11 (Última)
+       - [ ] C 11 (Última)
 - [ ] Mois 34 – 1 janvier. 2027 au 5 janvier. 2027
 - [ ] Mois 35 – 1 février. 2027 au 5 février. 2027
 - [ ] Mois 36 – 1 mars. 2027 au 5 mars. 2027
