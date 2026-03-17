@@ -56,7 +56,7 @@
 !!! question ""
     C’est un bon trimestre, bravo. Continuez à faire preuve de sérieux et de régularité dans votre travail. Il serait bénéfique de participer davantage avec le groupe et de vous intégrer pleinement en classe afin de tirer le meilleur parti des échanges et des activités.
 
-#### 16,2/20
+#### 16,1/20
 
 !!! question ""
     C’est un bon trimestre, bravo. Continuez à faire preuve de sérieux et de régularité dans votre travail. Attention toutefois à vos nombreuses absences, qui peuvent freiner votre progression.
