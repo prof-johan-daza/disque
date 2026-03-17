@@ -1,4 +1,4 @@
-# **_Commentaires_**
+# Commentaires
 
 ## Élève
 
@@ -93,4 +93,4 @@
 #### 12/20
 
 !!! question ""
-    C’est un bon trimestre dans l’ensemble, continuez ainsi. La maîtrise de la langue reste encore insuffisante, mais des efforts ont été fournis et vous parvenez à travailler à partir des documents mis à disposition. Poursuivez dans cette voie.
+    C’est un bon trimestre dans l’ensemble : continuez ainsi. La maîtrise de certains concepts des SPC reste encore à approfondir, mais des efforts ont été fournis. Poursuivez dans cette voie.
