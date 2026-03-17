@@ -9,6 +9,11 @@
 !!! question ""
     Félicitations pour cet excellent trimestre ! Continuez à travailler avec autant d’enthousiasme et de détermination : cela pourra vous mener à de grandes réussites à l’avenir.
 
+#### 19,7/20
+
+!!! question ""
+    Félicitations pour ce très bon trimestre ! Votre bonne aptitude, associée à une concentration régulière et une motivation solide, se reflète clairement dans votre travail.
+
 #### 19,6/20
 
 !!! question ""
@@ -87,6 +92,7 @@
     Élève volontaire dans mon cours, mais qui peine encore à suivre les consignes données. Il travaille principalement en fonction de la note et ne s’est réellement investi qu’à la fin du trimestre.
 
 #### 13/20
+
 !!! question ""
     Des résultats corrects et une attitude le plus souvent propice au travail. Poursuivez vos efforts et intensifiez votre travail personnel. Un manque de travail demeure toutefois, et les modalités spécifiques d’accompagnement mises en place ne semblent pas encore suffire à corriger votre attitude.
 
