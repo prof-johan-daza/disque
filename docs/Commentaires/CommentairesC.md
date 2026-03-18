@@ -1,18 +1,16 @@
-# Commentaires
+# Classe
 
-## Classe
+## Deuxième trimestre
 
-### Premier trimestre
+### 20/20
 
-#### 20/20
+La classe a réalisé un trimestre remarquable, avec un niveau général élevé et des progrès constants. L’implication, le sérieux et la motivation des élèves sont exemplaires.
 
-!!! question ""
-    La classe a réalisé un trimestre remarquable, avec un niveau général élevé et des progrès constants. L’implication, le sérieux et la motivation des élèves sont exemplaires.
+## Troisième trismestre
 
-#### 17/20
+### 17/20
 
-!!! question ""
-    La classe affiche un très bon niveau général et a réalisé d’importants progrès au cours du trimestre. L’implication est soutenue et de nombreux élèves se distinguent par leur sérieux et leur régularité.
+La classe affiche un très bon niveau général et a réalisé d’importants progrès au cours du trimestre. L’implication est soutenue et de nombreux élèves se distinguent par leur sérieux et leur régularité.
 
 #### 15/20
 
