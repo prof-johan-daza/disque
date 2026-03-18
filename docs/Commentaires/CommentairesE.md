@@ -34,8 +34,6 @@
 !!! question ""
     Bravo ! Résultats très satisfaisants. Vous êtes rigoureux et très appliqué dans votre travail. Continuez ainsi.
 
-    Bravo ! Résultats très satisfaisants. Vous êtes rigoureuse et très appliquée dans votre travail. Continuez ainsi.
-
 #### 19/20
 
 !!! question ""
@@ -44,12 +42,21 @@
 #### 18,5/20
 
 !!! question ""
+    Continuez à travailler avec autant d’engagement et de détermination. Je vous encourage également à participer davantage et à être plus active en classe afin de tirer pleinement parti des échanges et des apprentissages.
+
     Continuez à travailler avec autant d’engagement et de détermination. Je vous encourage également à participer davantage et à être plus actif en classe afin de tirer pleinement parti des échanges et des apprentissages.
 
 #### 18/20
 
 !!! question ""
     Continuez à travailler avec autant d’engagement et de détermination : cela pourra vous mener à de belles réussites à l’avenir.
+
+#### 17,1/20
+
+!!! question ""
+    Vous êtes une très bonne élève. Les résultats de ce trimestre sont corrects. Je vous conseille de commencer le troisième trimestre avec une bonne dynamique dès le début et de ne pas attendre la fin pour essayer de rattraper des points.
+
+    Vous êtes un très bon élève. Les résultats de ce trimestre sont corrects. Je vous conseille de commencer le troisième trimestre avec une bonne dynamique dès le début et de ne pas attendre la fin pour essayer de rattraper des points.
 
 #### 17/20
 
@@ -91,6 +98,11 @@
 !!! question ""
     C’est un très bon trimestre dans l’ensemble : poursuivez ainsi, en veillant à ne pas vous laisser distraire trop facilement.
 
+#### 14,2/20
+
+!!! question ""
+    Vos résultats ne reflètent pas votre réel niveau. Vous pourriez obtenir de bien meilleurs résultats, car vous comprenez très facilement les enjeux du cours. Vous devez adopter une attitude plus rigoureuse dans votre travail dès les premières semaines du prochain trimestre afin de progresser.
+
 #### 14,1/20
 
 !!! question ""
@@ -104,6 +116,11 @@
     Élève volontaire dans mon cours, mais qui peine encore à suivre les consignes données. Elle travaille principalement en fonction de la note et ne s’est réellement investie qu’à la fin du trimestre.
 
     Élève volontaire dans mon cours, mais qui peine encore à suivre les consignes données. Il travaille principalement en fonction de la note et ne s’est réellement investi qu’à la fin du trimestre.
+
+#### 13,1/20
+
+!!! question ""
+    Trimestre juste. Bien que vous soyez motivé pour apprendre les notions scientifiques, votre travail ne reflète pas réellement cette motivation. Je vous conseille d’améliorer votre prise de notes. Je suis convaincu qu’en progressant sur ce point, votre troisième trimestre présentera de meilleurs résultats.
 
 #### 13/20
 
