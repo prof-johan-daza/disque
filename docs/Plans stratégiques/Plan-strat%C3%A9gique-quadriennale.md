@@ -1,5 +1,7 @@
-# *Laura*
+# Laura
+
 ## 1. Mai 2028
+
 - [x] Mois 1 – 1 avril. 2024 au 5 avril. 2024
 - [x] Mois 2 – 1 mai. 2024 au 5 mai. 2024
 - [x] Mois 3 – 1 juin. 2024 au 5 juin. 2024
@@ -64,8 +66,10 @@
 
 ## 2. Incohérence ou Non-sens
 
-### I. Mi février 2026 ~ 0,503 M
+- [x] Mi février 2026 – 0,503 M
+- [x] Début mars 2026 – 0,450 M
+- [x] Presque mi-Mars 2026 – 0,208 M
 
-### II. Début mars 2026 ~ 0,450 M
+## 3. Épisode de pluie intense
 
-### III. Presque mi-Mars 2026 ~0,208 M
+- [x] 18 mars 2026 – 90%
