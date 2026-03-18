@@ -14,6 +14,11 @@
 !!! question ""
     Excellent trimestre ! C’est une aptitude exemplaire : votre investissement et votre sérieux ont porté leurs fruits. Continuez dans cette belle dynamique.
 
+#### 19,8/20
+
+!!! question ""
+    Très bon trimestre ! C’est une aptitude exemplaire : votre investissement et votre sérieux ont porté leurs fruits. Continuez dans cette belle dynamique.
+
 #### 19,7/20
 
 !!! question ""
@@ -88,6 +93,13 @@
 !!! question ""
 
     C’est un très bon trimestre dans l’ensemble : poursuivez ainsi, en veillant à ne pas vous laisser distraire trop facilement.
+
+#### 14,1/20
+
+!!! question ""
+    Même s’il y a eu une baisse dans les résultats, vous restez une élève remarquable, montrant une très bonne attitude de travail. Je suis convaincu que de meilleurs résultats viendront au troisième trimestre.
+
+    Même s’il y a eu une baisse dans les résultats, vous restez un élève remarquable, montrant une très bonne attitude de travail. Je suis convaincu que de meilleurs résultats viendront au troisième trimestre.
 
 #### 14/20
 
