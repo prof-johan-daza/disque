@@ -117,3 +117,8 @@
 
 !!! question ""
     C’est un bon trimestre dans l’ensemble : continuez ainsi. La maîtrise de certains concepts des SPC reste encore à approfondir, mais des efforts ont été fournis. Poursuivez dans cette voie.
+
+#### 11/20
+
+!!! question ""
+    C’est un trimestre plutôt faible : il est nécessaire d’intensifier le travail. La maîtrise de plusieurs concepts en SPC reste insuffisante et doit être nettement approfondie. Il est important de corriger la trajectoire dès maintenant.
