@@ -9,6 +9,11 @@
 !!! question ""
     Félicitations pour cet excellent trimestre ! Continuez à travailler avec autant d’enthousiasme et de détermination : cela pourra vous mener à de grandes réussites à l’avenir.
 
+#### 19,9/20
+
+!!! question ""
+    Excellent trimestre ! C’est une aptitude exemplaire : votre investissement et votre sérieux ont porté leurs fruits. Continuez dans cette belle dynamique.
+
 #### 19,7/20
 
 !!! question ""
