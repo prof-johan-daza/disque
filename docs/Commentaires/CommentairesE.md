@@ -74,7 +74,6 @@
 #### 16/20
 
 !!! question ""
-
     Trimestre satisfaisant. Vous avez de solides acquis, mais vous devez faire attention à ne pas trop bavarder. Continuez dans cette direction.
 
 #### 15,5/20
@@ -85,13 +84,11 @@
 #### 15,1/20
 
 !!! question ""
-
     Élève volontaire dans mon cours, mais qui peine encore à suivre les consignes données. Il travaille principalement en fonction de la note et réalise fréquemment des hors-sujets. Passionné par la médiation scientifique, il a tendance à mélanger les sujets et à supposer que certaines connaissances sont déjà acquises. Un travail plus rigoureux et une meilleure écoute des consignes lui permettront de progresser davantage.
 
 #### 15/20
 
 !!! question ""
-
     C’est un très bon trimestre dans l’ensemble : poursuivez ainsi, en veillant à ne pas vous laisser distraire trop facilement.
 
 #### 14,1/20
