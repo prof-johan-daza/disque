@@ -47,6 +47,7 @@ nav:
       - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
 
 markdown_extensions:
+
   - def_list
   - md_in_html
   - pymdownx.blocks.caption
