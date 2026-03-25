@@ -32,8 +32,8 @@ theme:
 
 nav:
 
-  - GitHub: GitHub.md
   - Imprimer: index.md
+  - GitHub: GitHub.md
   - Mots: Mots.md
   - Cinéma : Cinéma.md
   - Poésie: Poésie.md
