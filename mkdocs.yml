@@ -34,14 +34,22 @@ theme:
 
 nav:
 
-  - Imprimer: index.md
-  - GitHub: GitHub.md
-  - Mots: Mots.md
-  - Cinéma : Cinéma.md
-  - Poésie: Poésie.md
-  - Bibliothèque: Bibliothèque.md
-  - Fait divers: Fait.md
-  - Footing: Footing.md
+  - Imprimer:
+      - imprimer/index.md
+  - GitHub:
+      - github/index.md
+  - Mots:
+      - mots/index.md
+  - Cinéma:
+      - cinema/index.md
+  - Poésie:
+      - poesie/index.md
+  - Bibliothèque:
+      - bibliotheque/index.md
+  - Fait divers:
+      - fait-divers/index.md
+  - Footing:
+      - footing/index.md
   - 'Commentaires':
       - Classe: Commentaires/CommentairesC.md
       - Élève: Commentaires/CommentairesE.md
