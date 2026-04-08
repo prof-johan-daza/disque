@@ -28,8 +28,8 @@
        - [x] C 1
 - [x] Mois 24 – 1 mars. 2026 au 5 mars. 2026
        - [x] C 2
-- [ ] Mois 25 – 1 avril. 2026 au 5 avril. 2026
-       - [ ] C 3
+- [x] Mois 25 – 1 avril. 2026 au 5 avril. 2026
+       - [x] C 3
 - [ ] Mois 26 – 1 mai. 2026 au 5 mai. 2026
        - [ ] C 4
 - [ ] Mois 27 – 1 juin. 2026 au 5 juin. 2026
