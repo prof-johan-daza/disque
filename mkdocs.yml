@@ -50,11 +50,6 @@ nav:
     - fait-divers/Fait.md
   - Footing:
     - footing/Footing.md
-  - 'Commentaires':
-    - Classe: Commentaires/CommentairesC.md
-    - Élève: Commentaires/CommentairesE.md
-  - 'Stratégie':
-    - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
 
 markdown_extensions:
 
