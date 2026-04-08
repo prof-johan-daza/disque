@@ -35,26 +35,26 @@ theme:
 nav:
 
   - Imprimer:
-      - imprimer/index.md
+    - imprimer/index.md
   - GitHub:
-      - github/index.md
+    - github/GitHub.md
   - Mots:
-      - mots/index.md
+    - mots/Mots.md
   - Cinéma:
-      - cinema/index.md
+    - cinema/Cinéma.md
   - Poésie:
-      - poesie/index.md
+    - poesie/Poésie.md
   - Bibliothèque:
-      - bibliotheque/index.md
+    - bibliotheque/Bibliothèque.md
   - Fait divers:
-      - fait-divers/index.md
+    - fait-divers/Fait.md
   - Footing:
-      - footing/index.md
+    - footing/Footing.md
   - 'Commentaires':
-      - Classe: Commentaires/CommentairesC.md
-      - Élève: Commentaires/CommentairesE.md
+    - Classe: Commentaires/CommentairesC.md
+    - Élève: Commentaires/CommentairesE.md
   - 'Stratégie':
-      - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
+    - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
 
 markdown_extensions:
 
