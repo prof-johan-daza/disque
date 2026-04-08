@@ -10,3 +10,9 @@
 
 - [x] 22 février 2026, mercredi 6,8 km / 34 min 02 secondes → 5 min/km
 - [x] 22 mars 2026, dimanche 4,82 km / 20 min 34 secondes → 4 min 16 secondes/km
+
+## 3. Test
+
+$$
+\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
+$$
