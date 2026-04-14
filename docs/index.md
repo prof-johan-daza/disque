@@ -3,7 +3,7 @@
 ## À imprimer
 
 !!! question ""
-    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/G.pdf)
+    [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/5/S33.pdf)
 !!! question ""
     [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/C.pdf)
 
