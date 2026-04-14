@@ -70,9 +70,10 @@
 - [x] Début mars 2026 – 0,450 M
 - [x] Presque mi-Mars 2026 – 0,208 M
 
-## 3. Épisode de pluie intense
+## 3. Épisode de pluie intense ou de non-sens C2H5OH
 
 - [x] 18 mars 2026 – 90%
+- [x] Jeudi, 9 avril 2026 – 0,25 M
 
 ## 4. Perte TT
 
