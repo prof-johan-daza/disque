@@ -36,4 +36,4 @@
 
 ## 18. La guirnalda Colombiana – Jean CAMP
 
-- [ ] 19. La puta de Babilonia – Fernando VALLEJO
+## 19. La puta de Babilonia – Fernando VALLEJO
