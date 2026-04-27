@@ -64,7 +64,7 @@
 - [ ] Mois 49 – 1 avril. 2028 au 5 avril. 2028
 - [ ] Mois 50 – 1 mai. 2028 au 5 mai. 2028
 
-## 2. Incohérence ou Non-sens
+## 2. Incohérence ou Non-sens Z3
 
 - [x] Mi février 2026 – 0,503 M
 - [x] Début mars 2026 – 0,450 M
@@ -74,7 +74,8 @@
 
 - [x] 18 mars 2026 – 90%
 - [x] Jeudi, 9 avril 2026 – 0,25 M
+- [x] Fin avril 2026 – 0,408 M
 
-## 4. Perte TT
+## 4. Perte TTk
 
 - [x] 29 mars 2026 – 2h et demi
