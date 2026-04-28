@@ -2,8 +2,7 @@
 
 ## À imprimer
 
-
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/5/S33.pdf)
+[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/5/S35.pdf)
 
 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/C.pdf)
 
