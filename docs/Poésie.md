@@ -1,6 +1,9 @@
 # **_Poésie_** <!-- Viajamos en medio del espanto,[··] padres de-->
+
 ## **_RAMÓN DE CAMPOAMOR_**
+
 ### **_Amar y querer_**
+
 A la infiel más infiel de las hermosas  
 un hombre la quería, y yo la amaba;  
 y ella a un tiempo a los dos nos encantaba  
@@ -17,8 +20,11 @@ que uno la da por vil, y otro por necia.
 No hallará paz con él, ni bien conmigo:  
 él, que solo la quiso, la desprecia;  
 yo, que tanto la amaba, la maldigo.
+
 ## HANS MAGNUS ENZENSBERGER
+
 ### **_Canción para los que saben_**
+
 Sabemos que hay que hacer algo inmediatamente, lo sabemos  
 pero naturalmente es demasiado pronto para hacerlo  
 pero naturalmente es demasiado tarde para hacerlo, lo sabemos  
@@ -49,8 +55,11 @@ y que la vida es preciosa y que eso es todo, lo sabemos
 lo sabemos, lo sabemos perfectamente bien.
 
 Y que lo sabemos perfectamente bien, eso también lo sabemos.
+
 ## NICOLÁS GUILLÉN
+
 ### **_Digo que yo no soy un hombre puro_**
+
 Yo no voy a decirte que soy un hombre puro.  
 Entre otras cosas  
 falta saber si es que lo puro existe.  
@@ -104,7 +113,9 @@ de quien no llegó a ser lo suficientemente impuro
 para saber qué cosa es la pureza.  
 Punto, fecha y firma.  
 Así lo dejo escrito.
+
 ### **_No sé por qué piensas tú_**
+
 Soldado, que te odio yo,  
 si somos la misma cosa  
 yo,  
@@ -132,7 +143,9 @@ pero sabiendo tú y yo,
 a dónde vamos yo y tú...  
 ¡No sé por qué piensas tú,  
 soldado, que te odio yo!
+
 ### **_Secuestro a la mujer de Antonio_**
+
 Te voy a beber de un trago,  
 como una copa de ron;  
 te voy a echar en la copa  
@@ -180,7 +193,9 @@ Repique, repique, pique,
 repique, repique, ¡pó!  
 ¡Prieta quemada en ti misma,  
 cintura de mi canción!
+
 ### **_La canción del bongó_**
+
 Esta es la canción del bongó:  
 Aquí el que más fino sea,  
 responde, si llamo yo.  
@@ -225,8 +240,11 @@ ya pasearemos del brazo,
 ya estarás donde yo estoy:  
 ya vendrás de abajo arriba,  
 ¡que aquí el más alto soy yo!
+
 ## GLORIA FUENTES
+
 ### **_Autobio_**
+
 Os digo en prosa:  
 Nunca pedí dinero,  
 comida, sangre o ropa.  
@@ -239,8 +257,11 @@ lo único que pedí prestado
 fue amor,  
 lo devolví con creces,  
 hoy estoy arruinada.
+
 ## JAIME SABINES
+
 ### **_Me doy cuenta de que me faltas…_**
+
 Y de que te busco entre las gentes,  
 en el ruido,  
 pero todo es inútil.  
@@ -265,7 +286,9 @@ en mi garganta como moscas en un frasco.
 Yo estoy arruinado.  
 Estoy arruinado en mis huesos,  
 todo es pesadumbre.
+
 ### **_Espero curarme de ti_**
+
 Espero curarme de ti en unos días.  
 Debo dejar de fumarte, de beberte, de pensarte.  
 Es posible.  
@@ -293,8 +316,11 @@ guardarlo, acariciarlo, tirarlo a la basura.
 No sirve, es cierto. Sólo quiero una semana  
 para entender las cosas. Porque esto es muy parecido  
 a estar saliendo de un manicomio para entrar a un panteón.
+
 ## CÉSAR VALLEJO
+
 ### **_Los heraldos negros_**
+
 Hay golpes en la vida, tan fuertes...  
 ¡Yo no sé!  
 Golpes como del odio de Dios;  
@@ -321,17 +347,19 @@ vuelve los ojos locos, y todo lo vivido
 se empoza, como charco de culpa, en la mirada.  
 Hay golpes en la vida, tan fuertes...  
 ¡Yo no sé!
+
 ### **_Espergesia_**
+
 Yo nací un día  
-que Dios estuvo enfermo.  
+que Dios estuvo enfermo.
 
 Todos saben que vivo,  
-que soy malo; y no saben   
-del diciembre de ese enero.  
+que soy malo; y no saben  
+del diciembre de ese enero.
 
 Pues yo nací un día  
-que Dios estuvo enfermo.  
-    
+que Dios estuvo enfermo.
+
 Hay un vacio  
 en mi aire metafísico  
 que nadie ha de palpar:  
@@ -343,7 +371,7 @@ que Dios estuvo enfermo.
 
 Hermano, escucha, escucha...  
 Bueno. Y que no me vaya  
-sin llevar diciembres,   
+sin llevar diciembres,  
 sin dejar eneros.  
 Pues yo nací un día  
 que Dios estuvo enfermo.
@@ -368,8 +396,11 @@ Lindes.
 Yo nací un día  
 que Dios estuvo enfermo,  
 grave.
+
 ## LOPE FÉLIX DE VEGA Y CARPIO
+
 ### **_Esto es amor_**
+
 Desmayarse, atreverse, estar furioso,  
 áspero, tierno, liberal, esquivo,  
 alentado, mortal, difunto, vivo,  
@@ -383,9 +414,12 @@ beber veneno por licor suave,
 olvidar el provecho, amar el daño;  
 creer que un cielo en un infierno cabe,  
 dar la vida y el alma a un desengaño;  
-esto es amor, quien lo probó lo sabe.  
+esto es amor, quien lo probó lo sabe.
+
 ## SILVINA OCAMPO
+
 ### **_Las huellas_**
+
 A orillas de las aguas recogidas  
 en la luz regular del suelo unidas  
 como si juntas siempre caminaran,  
@@ -401,8 +435,11 @@ se divide en el aire y atraviesa
 la azul crueldad de la naturaleza  
 mientras solos cruzamos  
 la playa y nos hablamos.
+
 ## DULCE MARÍA LOYNAZ
+
 ### **_Yo quería tus ojos claros_**
+
 Yo quería tus ojos ojos claros  
 para prenderlos en mi pelo negro  
 con un alfiler de oro.
@@ -424,8 +461,11 @@ seguramente muy triste
 Luego cayó la tarde  
 que yo no entendí bien.  
 y los dos elegimos el mar.
+
 ## JULIO HERRERA Y REISSIG
+
 ### **_Amor sádico_**
+
 Ya no te amaba, sin dejar por eso  
 de amar la sombra de tu amor distante.  
 Ya no te amaba, sin embargo el beso  
@@ -440,11 +480,14 @@ Y ya perdida para siempre, al verte
 anochecer en el eterno luto,  
 mudo el amor, el corazón inerte,
 
-huraño, atroz, inexorable, hirsuto...    
+huraño, atroz, inexorable, hirsuto...  
 jamás viví como en aquella muerte,  
 nunca te amé como en aquel minuto!
-## JAIME SABINES
+
+## JAIME SABINES (II)
+
 ### **_Canonicemos a las putas_**
+
 Santoral del sábado: Betty, Lola, Margot, vírgenes perpetuas, reconstruidas,  
 mártires provisorias llenas de gracia, manantiales de generosidad.
 
@@ -457,7 +500,9 @@ y los sueños, sonríes y besas. Eres paciente, experta, atribulada, sabia, sin 
 
 No engañas a nadie, eres honesta, íntegra, perfecta; anticipas tu precio,  
 te enseñas; no discriminas a los viejos, a los criminales, a los tontos,  
-a los de otro color; soportas las agresiones del orgullo, las asechanzas de los  enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos,   encuentras la fórmula de los desencantados. Eres la confidente del borracho,  
+a los de otro color; soportas las agresiones del orgullo, las asechanzas de los  
+enfermos; alivias a los impotentes, estimulas a los tímidos, complaces a los hartos,  
+encuentras la fórmula de los desencantados. Eres la confidente del borracho,  
 el refugio del perseguido, el lecho del que no tiene reposo.
 
 Has educado tu boca y tus manos, tus músculos y tu piel, tus vísceras y tu alma.  
@@ -476,8 +521,11 @@ Oh puta amiga, amante, amada, recodo de este día de siempre,
 te reconozco, te canonizo a un lado de los hipócritas y de los perversos,  
 te doy todo mi dinero, te corono con hojas de yerba y me dispongo a aprender  
 de ti todo el tiempo.
+
 ## ANA ROSSETTI
+
 ### **_Qué será ser tú_**
+
 Este es el enigma,la atracción  
 sobrecogedora  
 de conocer, el irresistible afán de echar  
@@ -491,16 +539,19 @@ verdaderamente tú y,
 con tus ojos, verme.  
 Qué será percibir que yo te ame.  
 Que será, siendo tú, oírmelo decir.  
-Qué, entonces, sentir lo que sentirías tú.  
+Qué, entonces, sentir lo que sentirías tú.
+
 ## EDUARDO LANGAGNE
+
 ### **_Ella_**
-Ella está hecha a semejanza. 
+
+Ella está hecha a semejanza.  
 de las cosas que amo.  
 Se parece a la noche,  
 o mejor:  
 a una noche sin ausencias.  
 Ella es exacta.  
-Cuando la noche escurre,   
+Cuando la noche escurre,  
 su cuerpo se humedece.
 
 Me permite trepar por mis temblores  
@@ -508,8 +559,11 @@ y agitar su nombre desde la oscuridad.
 Ella es irrepetible.  
 Nació en las piedras,  
 donde empieza mi desorden.
+
 ## GIOCONDA BELLI
+
 ### **_Ahuyentemos el tiempo, amor..._**
+
 Ahuyentemos el tiempo, amor,  
 que ya no exista;  
 esos minutos largos que desfilan pesados  
@@ -533,15 +587,20 @@ te busco
 y no estás  
 y estás
 allí  
-tan cerca.  
+tan cerca.
+
 ### **_Vencer las trampas_**
+
 Volvés a sentir el calorcito en la yema de los dedos,  
 la cosquilla de escribir en el estómago y sos de nuevo  
 poeta, mujer, pájara. Estas otra vez fértil y tierrosa  
 llenas de fuego líquido las venas que creías apagadas  
-como ríos mansos.  
+como ríos mansos.
+
 ## CARLOS CASTRO SAAVEDRA
+
 ### **_Soneto del amor elemental_**
+
 Te quiero así, mujer: sencillamente,  
 como quiere el pastor a sus ovejas,  
 el caminante a las encinas viejas  
@@ -552,15 +611,18 @@ y como la colmena a las abejas,
 y los ojos dormidos a las cejas  
 que vuelan en el cielo de la frente.
 
-Voy a tu corazón como las olas   
+Voy a tu corazón como las olas  
 a los buques cargados de amapolas  
 y de maderas claras y sencillas.
 
 Doy con tu beso al fin, con tu ternura,  
 como el río con toda la llanura  
 y la sed con el agua sin orillas.
+
 ## JOSÉ GAUTIER BENÍTEZ
+
 ### **_Deber de amar_**
+
 Mientras errante por extraño suelo  
 me acuerde de mi patria;  
 mientras el santo amor de la familia  
@@ -601,15 +663,21 @@ que las olas arrojen mi cadáver
 sobre ignorada playa,  
 todo, todo, lo juro! lo prefiero  
 primero que olvidarla.
+
 ## LEOPOLDO MARÍA PANERO
+
 ### **_Diario de un seductor_**
+
 No es tu sexo lo que en tu sexo busco  
 sino ensuciar tu alma:  
 desflorar  
 con todo el barro de la vida  
 lo que aún no ha vivido.
+
 ## RAMÓN COTE
+
 ### **_Extranjeros_**
+
 Los extranjeros tienen una forma de alejarse  
 que muchas veces se parece al desprecio. La timidez  
 de un vagón de la Western Pacific,  
@@ -628,8 +696,11 @@ ese extravío mudo
 de las cosas olvidadas  
 el dolor guardado golondrinas con que callan,  
 el anillo equivocado de las despedidas.
+
 ## ARCIPRESTE DE HITA
+
 ### **_Aristóteles dijo_**
+
 Aristóteles dijo, y es cosa verdadera,  
 que el hombre por dos cosas trabaja: la primera,  
 por el sustentamiento, y la segunda era  
@@ -654,8 +725,11 @@ Yo, como soy humano y, por tal, pecador,
 sentí por las mujeres, a veces, gran amor.  
 Que probemos las cosas no siempre es lo peor;  
 el bien y el mal sabed y escoged lo mejor.
+
 ## JUAN GUSTAVO COBO BORDA
+
 ### **_Los poetas mienten_**
+
 Sus palabras  
 doran la piel de la amada,  
 prolongan el parloteo incesante  
@@ -682,8 +756,11 @@ Sensible como el abrazo
 que se dan  
 quienes se quieren  
 y tiemblan.
+
 ## COSMOLOGÍA KOGUI
+
 ### **_Primero estaba el mar_**
+
 Todo estaba oscuro. No había sol, ni luna, ni gente,  
 ni animales, ni plantas. Solo el mar estaba en todas  
 partes. El mar era la madre. Ella era agua, era río,  
@@ -693,8 +770,11 @@ la madre. La madre no era gente, ni nada, ni cosa alguna.
 Ella era Aluna. Ella era espíritu de lo que iba a venir  
 y ella era pensamiento y memoria. Así la madre existió  
 sólo en Aluna, en el mundo más abajo, sola.
+
 ## CARLOS CASTAÑEDA
+
 ### **_Las enseñanzas de Don Juan_**
+
 Por ejemplo, cuando yo estaba aprendiendo sobre  
 la yerba del diablo, era demasiado ansioso.  
 Me agarraba a las cosas de la misma manera que  
@@ -710,7 +790,7 @@ ninguna condición.
 
 Para tener esa claridad debes llevar una vida  
 disciplinada. Sólo entonces sabrás que un camino  
-es nada más un camino, y no hay afrenta,   
+es nada más un camino, y no hay afrenta,  
 ni para ti ni para otros, en dejarlo si eso es  
 lo que tu corazón te dice. Pero tu decisión de  
 seguir en el camino o de dejarlo debe estar libre  
@@ -735,8 +815,11 @@ pero uno tiene corazón y el otro no.
 Uno hace gozoso el viaje; mientras lo sigas, eres uno con él.  
 El otro te hará maldecir tu vida.  
 Uno te hace fuerte; el otro te debilita.
+
 ## OTTO RENÉ CASTILLO
+
 ### **_Acontece así, enamorados_**
+
 Los enamorados  
 que ahora se besan,  
 todavía no saben  
@@ -756,8 +839,11 @@ Pobres
 los que aún no se han hallado,  
 ahora tendrán  
 que continuar esperando.
+
 ## JORGE LUIS BORGES
+
 ### **_Milonga de Jacinto Chiclana_**
+
 Me acuerdo. Fue en Balvanera,  
 En una noche lejana  
 Que alguien dejó caer el nombre  
@@ -812,7 +898,9 @@ Siempre el coraje es mejor,
 la esperanza nunca es vana;  
 vaya pues esta milonga,  
 Para Jacinto Chiclana.
+
 ### **_Después de un tiempo_**
+
 Después de un tiempo,  
 uno aprende la sutil diferencia  
 entre sostener una mano  
@@ -844,8 +932,11 @@ que uno realmente es fuerte,
 que uno realmente vale,  
 y uno aprende y aprende…  
 y con cada día uno aprende.
+
 ## PEDRO SALINAS
+
 ### **_Si me llamaras, sí..._**
+
 ¡Si me llamaras, sí,  
 si me llamaras!  
 Lo dejaría todo,  
@@ -873,7 +964,9 @@ incógnito, sin verlo.
 Nunca desde los labios que te beso,  
 nunca desde a voz que dice:  
 "No te vayas."
+
 ### **_La voz a ti debida_**
+
 Ayer te besé en los labios.  
 Te besé en los labios. Densos,  
 rojos. Fue un beso tan corto  
@@ -904,8 +997,11 @@ ni una boca lo que beso,
 que se escapa, que me huye.  
 No.  
 Te estoy besando más lejos.
+
 ## MARIO WAITS
+
 ### **_Hay veces_**
+
 Hay veces que te joden los muertos con su sonrisa  
 permanente, su profunda mirada y un viento de  
 reclamos entre su innecesario respirar.  
@@ -936,8 +1032,11 @@ demasiadas opciones, pues te rompes la testa o
 las promesas...  
 Y ellos que se pasean con profundas miradas,  
 sonrisas transparentes y sus trajes de fiesta.
+
 ## DARÍO JARAMILLO AGUDELO
+
 ### **_Algún día_**
+
 Algún día te escribiré un poema que no  
 mencione el aire ni la noche;  
 un poema que omita los nombres de las flores,  
@@ -954,8 +1053,11 @@ algún día escribiré un poema que huela a ti,
 un poema con el ritmo de tus pulsaciones,  
 con la intensidad estrujada de tu abrazo.  
 Algún día te escribiré un poema, el canto de mi dicha.
+
 ## DIEGO DE TORRES Y VILLARROEL
+
 ### **_Ciencia de los cortesanos de este siglo_**
+
 Bañarse con harina la melena,  
 ir enseñando a todos la camisa,  
 espada que no asuste y que dé risa,  
@@ -970,8 +1072,11 @@ y bailar en francés tuerto o derecho;
 con esto, y olvidar el catecismo,  
 cátate hecho y derecho cortesano,  
 mas llevárate el diablo dicho y hecho.
+
 ## LUIS CERNUDA
+
 ### **_Te quiero_**
+
 Te quiero.  
 Te lo he dicho con el viento,  
 jugueteando como animalillo en la arena  
@@ -997,8 +1102,11 @@ más allá de la vida,
 quiero decírtelo con la muerte;  
 más allá del amor,  
 quiero decírtelo con el olvido.
+
 ## JAIRO ANÍBAL NIÑO
+
 ### **_El día de tu santo_**
+
 El día de tu santo te hicieron regalos muy valiosos:  
 un perfume extranjero, una sortija, un lapicero de oro,  
 unos patines, unos tenis Nike y una bicicleta.  
@@ -1010,8 +1118,11 @@ de caobo y de amarillo.
 Esas semillas son pacientes y esperan su lugar y su tiempo.  
 Yo no tenía dinero para comprarte algo lujoso.  
 Yo simplemente quise regalarte un bosque.
+
 ## JUAN MANUEL ROCA
+
 ### **_Poema invadido por Romanos_**
+
 Los romanos eran maliciosos.  
 Llenaron Europa de ruinas  
 confabulados con el tiempo.  
@@ -1052,8 +1163,11 @@ Como tu amor,
 que se vuelve ruina  
 mientras más lo construyo.  
 El tiempo es romano.
+
 ## PABLO NERUDA
+
 ### **_Farewell_**
+
 1  
 Desde el fondo de ti, y arrodillado,  
 un niño triste, como yo, nos mira.  
@@ -1080,7 +1194,7 @@ Dejan una promesa.
 No vuelven nunca más.  
 En cada puerto una mujer espera:  
 los marineros besan y se van.  
-Una noche se acuestan con la muerte 
+Una noche se acuestan con la muerte  
 en el lecho del mar).
 
 4  
@@ -1107,8 +1221,11 @@ Yo me voy. Estoy triste: pero siempre estoy triste.
 Vengo desde tus brazos. No sé hacia dónde voy.  
 ...Desde tu corazón me dice adiós un niño.  
 Y yo le digo adiós.
+
 ## LEOPOLDO ALAS
+
 ### **_Razón de amor_**
+
 No es sólo la pasión de los abrazos, la saliva,  
 el aroma, el vértigo, los besos o el plácido desvelo  
 de la ausencia. Mi amor es la fábula y la trama,  
@@ -1123,7 +1240,9 @@ El consentir la calma en las mareas y atesorar las horas
 y los días de la fiesta de luz que celebramos, del banquete  
 voraz de los sentidos. Y abolir la frontera de los cuerpos,  
 detenernos, subiendo la escalera, a besarnos en todos los peldaños.
+
 ### **_Al filo de los treinta_**
+
 Supón que todo sigue...  
 La voz que siempre escuchas por las tardes  
 cuando a solas suspiras para aliviar el peso,  
@@ -1140,7 +1259,9 @@ el cielo azul cansado y una torre dormida.
 despenar sin heridas como en los viejos tiempos,  
 madrugadas difusas y, a la tarde,  
 un rato nada más en el abismo.
+
 ### **_Al filo de los cuarenta_**
+
 Hasta cuándo podré querer a muchos sin entregarme a nadie.  
 Cuántos días de espontánea indefinición me quedan por delante.  
 Él me espera y tiene mis facciones.  
@@ -1165,10 +1286,13 @@ de horizontes inmensos
 como estos de ahora, caídos y sin perspectiva.  
 Y del amor ni hablemos  
 pues todo lo apostado se perdió en el propio engaño.  
-Pero me tengo al fin.   
+Pero me tengo al fin.  
 Ya no me busco en el espejo. Soy el que soy.
+
 ## SILVA
+
 ### **_El mal del siglo_**
+
 El paciente:  
 Doctor, un desaliento de la vida  
 que en lo íntimo de mí se arraiga y nace,  
@@ -1187,8 +1311,11 @@ Eso es cuestión de régimen: camine
 de mañanita; duerma largo, báñese;  
 beba bien; coma bien; cuídese mucho,  
 ¡Lo que usted tiene es hambre!...
+
 ## VINICIUS DE MORAES
+
 ### **_Para vivir un gran amor_**
+
 Para vivir un gran amor se necesita  
 mucha concentración y mucho tino,  
 mucha seriedad y poca risa...
@@ -1285,8 +1412,11 @@ Pero todo esto no sirve de nada
 si en esta oscura y alocada selva  
 no se supiere hallar a la bien-amada...  
 para vivir un gran amor.
+
 ## RAÚL GÓMEZ JATTIN
+
 ### **_Canción del amor sincero_**
+
 Prometo no amarte eternamente,  
 ni serte fiel hasta la muerte,  
 ni caminar tomados de la mano,  
@@ -1314,7 +1444,9 @@ Mas te digo que nos amaremos,
 construiremos, compartiremos.  
 ¿Ahora sí podrás creerme que...  
 te amo?
+
 ### **_Piel_**
+
 No se deje engañar por su apariencia fresca  
 y sobre todo por su olorcillo a tocador decente  
 detrás un poco detrás están las marcas
@@ -1328,8 +1460,11 @@ se puede adivinar un asco al dulzor de las caricias
 implorando  
 es carne de hospital y de presidio  
 lo que esa putica camufla en su esplendor.
+
 ## ALFONSINA STORNI
+
 ### **_Así_**
+
 Hice el libro así:  
 Gimiendo, llorando, soñando, ay de mí.  
 Mariposa triste, leona cruel,  
@@ -1349,8 +1484,11 @@ Da entonces lo mismo, que lo he visto bien,
 Ser rosa o espina, ser néctar o hiel.  
 Así voy a curvas con mi mala sed  
 Podando jardines de todo jaez.
+
 ## PIER PAOLO PASOLINI
+
 ### **_Análisis tardío_**
+
 (Fin de los años sesenta)
 Sé bien, sé bien que estoy en el fondo de la fosa;  
 que todo aquello que toco ya lo he tocado;  
@@ -1367,7 +1505,9 @@ que doy vueltas de un lado a otro por la tierra como una bestia enjaulada;
 que de tantas cuerdas que tengo he terminado por tirar de una sola;  
 que me gusta embarrarme porque el barro es materia pobre y por lo tanto pura;  
 que adoro la luz sólo si no ofrece esperanza.
+
 ### **_Muerte_**
+
 Vuelvo a ti, como vuelve  
 un emigrado a su país y lo redescubre:  
 he hecho fortuna (en el intelecto)  
@@ -1384,8 +1524,11 @@ Ahora me das miedo de verdad,
 porque estás de verdad cerca, incluida  
 en mi estado de rabia, de oscura  
 hambre, de ansia casi de criatura nueva.
+
 ## LEÓN DE GREIFF
+
 ### **_Villa de la candelaria_**
+
 Vano el motivo  
 desta prosa:  
 nada...  
@@ -1405,7 +1548,9 @@ si todo
 se fincara en la riqueza,  
 en menjurjes bursátiles  
 y en un mayor volumen de la panza.
+
 ### **_Relato de Sergio Stepansky_**
+
 Juego mi vida, cambio mi vida,  
 de todos modos  
 la llevo perdida...  
@@ -1473,8 +1618,11 @@ toda la hartura, todo el fastidio, todo el horror que almaceno en mis odres...!
 Juego mi vida, cambio mi vida.  
 De todos modos  
 la llevo perdida...
+
 ## EDMUNDO DE ORY
+
 ### **_Estar contigo es un vocablo insólito..._**
+
 Estar contigo es un vocablo insólito  
 y el día que se rompa en pedacitos  
 el enorme silencio del olvido  
@@ -1485,8 +1633,11 @@ ya no cultivaré la corteza uniforme
 de una estrella en la punta de mis dedos.  
 Eres tan espantosamente joven  
 que estar contigo es un regalo loco.
+
 ## JUAN FELIPE ROBLEDO
+
 ### **_Se acepta la propia condición_**
+
 No es arriba, en el cielo, donde encontraremos nuestro destino,  
 no es abajo tampoco, porque allí nuestros pies encontrarán el polvo,  
 no entre adelfas o nomeolvides hallaremos reposo,  
@@ -1502,8 +1653,11 @@ padres de gemidos que no se oirán en la brisa,
 y no somos sino días cegados  
 y ponientes que se doblan y mañanas para nada  
 y delirios de un ayer que tampoco fue mejor.
+
 ## RAFAEL ALBERTI
+
 ### **_La paloma_**
+
 Se equivocó la paloma,  
 se equivocaba.  
 Por ir al norte fue al sur,  
@@ -1517,8 +1671,11 @@ Que tu falda era su blusa,
 que tu corazón su casa.  
 (Ella se durmió en la orilla,  
 tú en la cumbre de una rama.)
+
 ## IDEA VILARIÑO
+
 ### **_Ya no_**
+
 Ya no será  
 ya no  
 no viviremos juntos  
@@ -1556,15 +1713,21 @@ como esa noche
 nunca.  
 No volveré a tocarte.  
 No te veré morir.
+
 ## MIGUEL DE CERVANTES SAAVEDRA
+
 ### **_Don Quijote de la Mancha_**
+
 No se muera vuestra merced,  
 sino tome mi consejo, y viva muchos años;  
 porque la mayor locura que puede hacer en esta vida es dejarse morir,  
 sin más ni más, sin que nadie le mate,  
 ni otras manos le acaben que las de la melancolía.
+
 ## ALLEN GINSBERG
+
 ### **_Buena suerte_**
+
 Tengo suerte de tener los cinco dedos en la mano derecha  
 Suerte de hacer pipí sin que me duela mucho  
 Suerte que los intestinos se muevan.
@@ -1587,7 +1750,9 @@ camino descalzo por el piso del loft,
 algo insensibilizadas las plantas de los pies.
 
 Suerte que puedo pensar y que el cielo puede nevar.
+
 ## JOSÉ EUSTACIO RIVERA
+
 ### **_Los potros_**
 
 Atropellados, por la pampa suelta,  
@@ -1607,10 +1772,13 @@ entonces para el triunfante casco,
 resoplan, roncos, ante el sol violento,  
 y alzando en grupo las cabezas locas,  
 oyen llegar el restrasado viento.
+
 ## JOSÉ MARTÍ
+
 ### **_Versos sencillos_**
+
 Yo soy un hombre sincero  
-de donde crece la palma;    
+de donde crece la palma;  
 y antes de morirme quiero  
 echar mis versos del alma.
 
