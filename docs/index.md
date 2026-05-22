@@ -10,4 +10,4 @@
 
 [Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/C.pdf)
 
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/general/3/S29/S29C.pdf)
+[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/S40.pdf)
