@@ -2,12 +2,4 @@
 
 ## À imprimer
 
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/5/S35.pdf)
-
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/A.pdf)
-
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/G.pdf)
-
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/C.pdf)
-
-[Cliquez ici pour télécharger les documents](https://prof-johan-daza.github.io/disque/Disque/Disque/index/S40.pdf)
+[Alexis](https://prof-johan-daza.github.io/disque/Disque/Disque/index/S40.pdf)
