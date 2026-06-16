@@ -4,6 +4,7 @@
 
 ```python
 diskutil list
+killall -9 QuickLookSatellite && diskutil unmountDisk /dev/disk2
 ```
 
 ## 2. Terminal MAC – Mot de passe PDF
