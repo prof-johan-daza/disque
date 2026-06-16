@@ -75,6 +75,7 @@
 - [x] 18 mars 2026 – 90%
 - [x] Jeudi, 9 avril 2026 – 0,25 M
 - [x] Fin avril 2026 – 0,408 M
+- [x] Mi juin 2026 – 0,4 M
 
 ## 4. Perte TTk
 
