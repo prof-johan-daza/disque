@@ -76,3 +76,4 @@
 - [x] Jeudi, 9 avril 2026 – 0,25 M
 - [x] Fin avril 2026 – 0,408 M
 - [x] Mi juin 2026 – 0,4 M
+- [x] Mi juillet 2026 – 1,2 M
