@@ -6,14 +6,14 @@
 
 ***Première séquence***
 
-- [x] Séance $\mathit{I}$
+- [x] Séance $\mathit{Séance I}$
 
     *Définition d'énergie de la part de l'élève. Durée : 1 h 30 (2 cours × 45 min). Premier temps 1h 15. Deuxième temps 15 min.*
 
     - [x] Première heure de cours, travail en groupe
     
     [Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-1.pdf)
-    
+
     - [x] Deuxième heure de cours, quinze minutes de trace écrite
     
     [Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
