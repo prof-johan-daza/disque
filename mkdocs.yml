@@ -1,7 +1,8 @@
-site_name: Johan Daza
+site_name: *Florence et Johan*
 site_url: https://sitename.example
 theme:
   name: material
+  language: fr
   font:
     text: Merriweather Sans
     code: Red Hat Mono
@@ -34,10 +35,9 @@ theme:
 
 nav:
 
-  - Florence T. et Johan - Cinquième: index.md
-  - Poésie: Poésie.md
-  - 'Stratégie':
-      - Quadriennale: Plans stratégiques/Plan-strat%C3%A9gique-quadriennale.md
+  - Cinquième: index.md
+  - Quatrième: _4.md
+  - Troisième: _3.md
 
 markdown_extensions:
 
@@ -92,4 +92,4 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: Copyright &copy; 2025-2026 Johan Daza
+copyright: Copyright &copy; 2025-2026 Florence T. et Johan Daza

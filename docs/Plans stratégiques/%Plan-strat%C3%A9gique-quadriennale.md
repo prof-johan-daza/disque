@@ -40,8 +40,8 @@
        - [x] C 6
 - [x] Mois 29 – 1 août. 2026 au 5 août. 2026
        - [x] C 7
-- [ ] Mois 30 – 1 septembre. 2026 au 5 septembre. 2026
-       - [ ] C 8
+- [x] Mois 30 – 1 septembre. 2026 au 5 septembre. 2026
+       - [x] C 8
 - [ ] Mois 31 – 1 octobre. 2026 au 5 octobre. 2026
        - [ ] C 9
 - [ ] Mois 32 – 1 novembre. 2026 au 5 novembre. 2026
