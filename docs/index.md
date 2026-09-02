@@ -6,7 +6,7 @@
 
 **L’énergie qu’est-ce que c’est**
 
-- [x] Séance I
+- [x] Séance $I$
 
     *Définition d'énergie de l'élève, durée : 1 h 30 (2 cours × 45 min). Premier temps 1h 15. Deuxième temps 15 min.*
 
