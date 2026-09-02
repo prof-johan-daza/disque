@@ -12,11 +12,11 @@
 
     - [x] Première heure de cours, travail en groupe
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-1.pdf)
 
     - [ ] Deuxième heure de cours, quinze minutes de trace écrite
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;[Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
 
 - [ ] $\mathit{Séance~II}$
 
@@ -24,7 +24,7 @@
 
     - [ ] Heure de cours
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS2-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS2-1.pdf)
 
 - [ ] $\mathit{Séance~III}$
 
@@ -32,10 +32,10 @@
 
     - [ ] Première heure de cours
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS3-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS3-1.pdf)
 
     - [ ] Deuxième heure de cours
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;[Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS3-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS3-2.pdf)
 
 ---
