@@ -14,7 +14,7 @@
     
        [Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-1.pdf)
 
-    - [x] Deuxième heure de cours, quinze minutes de trace écrite
+    - [ ] Deuxième heure de cours, quinze minutes de trace écrite
     
      [Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
 
