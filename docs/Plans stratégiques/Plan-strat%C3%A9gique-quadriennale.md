@@ -1,5 +1,7 @@
 # Laura
 
+---
+
 ## 1. Mai 2028
 
 - [x] Mois 1 – 1 avril. 2024 au 5 avril. 2024
@@ -63,17 +65,3 @@
 - [ ] Mois 48 – 1 mars. 2028 au 5 mars. 2028
 - [ ] Mois 49 – 1 avril. 2028 au 5 avril. 2028
 - [ ] Mois 50 – 1 mai. 2028 au 5 mai. 2028
-
-## 2. Incohérence ou Non-sens Z3
-
-- [x] Mi février 2026 – 0,503 M
-- [x] Début mars 2026 – 0,450 M
-- [x] Presque mi-Mars 2026 – 0,208 M
-
-## 3. Épisode de pluie intense ou de non-sens C2H5OH
-
-- [x] 18 mars 2026 – 90%
-- [x] Jeudi, 9 avril 2026 – 0,25 M
-- [x] Fin avril 2026 – 0,408 M
-- [x] Mi juin 2026 – 0,4 M
-- [x] Mi juillet 2026 – 1,2 M
