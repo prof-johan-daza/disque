@@ -4,7 +4,7 @@
 
 ## Première séquence
 
-**L’énergie qu’est-ce que c’est**
+**L'ÉNERGIE QU'EST-CE QUE C'EST**
 
 - [x] Séance   $\mathit{I}$
 
