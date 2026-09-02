@@ -6,7 +6,7 @@
 
 ***Première séquence***
 
-- [x] Séance $\mathit{Séance I}$
+- [x] $\mathit{Séance~I}$
 
     *Définition d'énergie de la part de l'élève. Durée : 1 h 30 (2 cours × 45 min). Premier temps 1h 15. Deuxième temps 15 min.*
 
@@ -18,7 +18,7 @@
     
     [Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
 
-- [ ] Séance $\mathit{II}$
+- [ ] $\mathit{Séance~II}$
 
     *Définition d'énergie de la part du professeur, réservoirs et ressources naturelles-artificielles. Durée : 45 min (1 cours × 45 min).*
 
@@ -26,7 +26,7 @@
     
     [Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS2-1.pdf)
 
-- [ ] Séance $\mathit{III}$
+- [ ] $\mathit{Séance~III}$
 
     *Formes, transferts et conversions de l'énergie. Durée : 1 h 30 (2 cours × 45 min). Premier temps 1h. Deuxième temps 30 min.*
 
