@@ -2,9 +2,9 @@
 
 ---
 
-## Première séquence
+## **L'ÉNERGIE QU'EST-CE QUE C'EST**
 
-**L'ÉNERGIE QU'EST-CE QUE C'EST**
+Première séquence
 
 - [x] Séance   $\mathit{I}$
 
