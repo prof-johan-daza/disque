@@ -16,7 +16,6 @@
     - [x] Deuxième heure de cours, quinze minutes de trace écrite
     
     [Dans la cuisine : qu'ont-ils en commun ?](https://prof-johan-daza.github.io/disque/local/_5eS1-2.pdf)
-
 - [ ] Séance $\mathit{II}$
 
     *Définition d'énergie de la part du professeur, réservoirs et ressources naturelles-artificielles. Durée : 45 min (1 cours × 45 min).*
