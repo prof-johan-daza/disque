@@ -1,7 +1,6 @@
 # Première partie
 
 ---
-
 ## L'énergie qu'est-ce que c'est
 
 ***Première séquence***
@@ -37,5 +36,4 @@
     - [ ] Deuxième heure de cours
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS3-2.pdf)
-
 ---
