@@ -38,6 +38,7 @@ nav:
   - Cinquième: index.md
   - Quatrième: 4.md
   - Troisième: 3.md
+  - Extra: Imprimer.md
 
 markdown_extensions:
 
