@@ -20,8 +20,9 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
+
 ---
----
+
 ## Deuxième séquence : L'énergie qu'est-ce que c'est
 
 - [ ] $\mathit{Séance~I}$
@@ -41,8 +42,9 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Première séance d'exercices.](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-2.pdf)
 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Première séance d'exercices.](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-2.pdf)
+
 ---
----
+
 ## Troisième séquence : Chaînes énergetiques, les unités
 
 - [ ] $\mathit{Séance~III}$
@@ -60,5 +62,5 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Première séance d'exercices]
 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Première séance d'exercices]
----
+
 ---
