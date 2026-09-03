@@ -1,6 +1,7 @@
 # Première partie
 
 ---
+
 ## Première séquence : L'énergie qu'est-ce que c'est
 
 - [x] $\mathit{Séance~I}$
