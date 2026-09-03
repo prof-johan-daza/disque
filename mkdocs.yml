@@ -36,8 +36,8 @@ theme:
 nav:
 
   - Cinquième: index.md
-  - Quatrième: _4.md
-  - Troisième: _3.md
+  - Quatrième: 4.md
+  - Troisième: 3.md
 
 markdown_extensions:
 
