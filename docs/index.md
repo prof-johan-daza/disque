@@ -13,13 +13,13 @@
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chauffer, refroidir, remuer : une seule ressource](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-1.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ - Chauffer, refroidir, remuer : une seule ressource](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ $\longrightarrow$ Chauffer, refroidir, remuer : une seule ressource](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-1.pdf)
 
     - [ ] Deuxième heure de cours, quinze minutes de trace écrite
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ - Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ $\longrightarrow$ Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
 
 - [ ] $\mathit{Séance~II}$
 
@@ -29,7 +29,7 @@
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ce qu'est l'énergie et où on la trouve](https://prof-johan-daza.github.io/disque/local/_5eS1-S2-1.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ - Ce qu'est l'énergie et où on la trouve](https://prof-johan-daza.github.io/disque/local/_5eS1-S2-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ $\longrightarrow$ Ce qu'est l'énergie et où on la trouve](https://prof-johan-daza.github.io/disque/local/_5eS1-S2-1.pdf)
 
 - [ ] $\mathit{Séance~III}$
 
@@ -39,12 +39,12 @@
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[L'énergie ne disparaît pas, elle se transforme](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-1.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ - L'énergie ne disparaît pas, elle se transforme](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ $\longrightarrow$ L'énergie ne disparaît pas, elle se transforme](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-1.pdf)
 
     - [ ] Deuxième heure de cours
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-2.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ - Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathit{CORRIGÉ}$ $\longrightarrow$ Première séance d'exercices](https://prof-johan-daza.github.io/disque/local/_5eS1-S3-2.pdf)
      
 ---
