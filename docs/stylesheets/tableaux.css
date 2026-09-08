@@ -1,0 +1,27 @@
+.progression {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.75rem;
+}
+.progression th,
+.progression td {
+  border: 1px solid #7f7f7f;
+  padding: 6px 8px;
+  vertical-align: top;
+  text-align: left;
+}
+.progression .theme,
+.progression .sous-titre {
+  background-color: #FFF2CC;
+  color: #3d3000;
+}
+.progression .theme,
+.progression thead th {
+  font-weight: bold;
+}
+.progression td p {
+  margin: 0 0 0.5rem 0;
+}
+.progression td p:last-child {
+  margin-bottom: 0;
+}
