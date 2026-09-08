@@ -41,6 +41,7 @@ nav:
   - Emploi du temps: Emploi.md
   - Progression: Progression.md
   - Extra: Imprimer.md
+  - Test: tableau-de-bord.md
 
 markdown_extensions:
 
