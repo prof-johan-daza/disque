@@ -39,10 +39,13 @@ nav:
   - Quatrième: 4.md
   - Troisième: 3.md
   - Emploi du temps: Emploi.md
-  - Progression: Progression.md
+  - 'Progressions': 
+      - Progression troisième : Progressions/progression-3e.md
+      - Progression quatrième : Progressions/progression-4e.md
+      - Progression cinquième : Progressions/progression-5e.md
   - Extra: Imprimer.md
-  - Test: tableau-de-bord.md
-  - Progression 5e: progression-5e.md
+
+
 
 markdown_extensions:
 
