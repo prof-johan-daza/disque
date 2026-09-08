@@ -1,12 +1,10 @@
-# Progression de 4<sup>e</sup>
+# Progression de quatrième
 
-Fil conducteur : l'énergie
-
-4 grandes séquences qui balaient les 4 thèmes du programme
+## Premier trimestre
 
 <table class="progression">
 <thead>
-<tr><td class="theme" colspan="3">Thème 1 : constitution et transformations de la matière</td></tr>
+<tr><td class="theme" colspan="3">Premier thème : description de la matière</td></tr>
 <tr>
 <th>Séquences : notions du programme</th>
 <th>Activités possibles</th>

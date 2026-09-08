@@ -18,7 +18,7 @@ Fil conducteur : l'énergie
 <tbody>
 <tr><td class="sous-titre" colspan="3">Décrire la constitution de la matière</td></tr>
 <tr>
-<td><a href="../local/_3eS1-S1-1-C.pdf">SEQ 3-1 : « La centrale électrique thermique »</a> — caractériser les différents états de la matière (solide, liquide, gaz)</td>
+<td><a href="../../local/_3eS1-S1-1-C.pdf">SEQ 3-1 : « La centrale électrique thermique »</a> — caractériser les différents états de la matière (solide, liquide, gaz)</td>
 <td>TP sur les états de l'eau : glaçon-liquide, puis distillation. Conservation de la masse très difficile.</td>
 <td>
 <p>Mesurer des grandeurs physiques (masse et volume)</p>

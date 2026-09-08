@@ -25,3 +25,6 @@
 .progression td p:last-child {
   margin-bottom: 0;
 }
+.progression .theme {
+  text-align: center;
+}

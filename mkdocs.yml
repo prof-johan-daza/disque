@@ -36,9 +36,9 @@ theme:
 nav:
 
   - 'Progressions': 
-      - Progression troisième : Progressions/progression-3e.md
-      - Progression quatrième : Progressions/progression-4e.md
-      - Progression cinquième : Progressions/progression-5e.md
+      - Progression de troisième : Progressions/progression-3e.md
+      - Progression de quatrième : Progressions/progression-4e.md
+      - Progression de cinquième : Progressions/progression-5e.md
   - Cinquième: index.md
   - Quatrième: 4.md
   - Troisième: 3.md
