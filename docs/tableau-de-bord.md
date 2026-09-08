@@ -1,3 +1,7 @@
+# Tableau de bord (test)
+
+<canvas id="graphique-test" style="max-height: 400px;"></canvas>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   new Chart(document.getElementById('graphique-test'), {
