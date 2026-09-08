@@ -28,3 +28,13 @@
 .progression .theme {
   text-align: center;
 }
+.progression .theme,
+.progression .sous-titre {
+  text-align: center;
+}
+.progression thead th {
+  text-align: center;
+}
+.progression tbody td {
+  text-align: justify;
+}
