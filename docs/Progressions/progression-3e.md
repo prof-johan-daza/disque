@@ -1,5 +1,7 @@
 # Progression de 3<sup>e</sup>
 
+## Primer trimestre
+
 Fil conducteur : l'énergie
 
 4 grandes séquences qui balaient les 4 thèmes du programme
@@ -16,7 +18,7 @@ Fil conducteur : l'énergie
 <tbody>
 <tr><td class="sous-titre" colspan="3">Décrire la constitution de la matière</td></tr>
 <tr>
-<td>SEQ 3-1 : « La centrale électrique thermique » — caractériser les différents états de la matière (solide, liquide, gaz)</td>
+<td><a href="../local/_3eS1-S1-1-C.pdf">SEQ 3-1 : « La centrale électrique thermique »</a> — caractériser les différents états de la matière (solide, liquide, gaz)</td>
 <td>TP sur les états de l'eau : glaçon-liquide, puis distillation. Conservation de la masse très difficile.</td>
 <td>
 <p>Mesurer des grandeurs physiques (masse et volume)</p>
