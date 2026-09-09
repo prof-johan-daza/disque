@@ -18,9 +18,9 @@
 
     - [ ] Deuxième heure de cours, quinze minutes de trace écrite
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Identifier les dispositifs de conversion.](https://prof-johan-daza.github.io/disque/local/_5e_T1_002.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[De l’énergie ou des énergies ?](https://prof-johan-daza.github.io/disque/local/_5e_T1_002.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Identifier les dispositifs de conversion.](https://prof-johan-daza.github.io/disque/local/_5e_T1_002_C.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ De l’énergie ou des énergies ?](https://prof-johan-daza.github.io/disque/local/_5e_T1_002_C.pdf)
 
 ---
 
