@@ -18,9 +18,9 @@
 
     - [ ] Deuxième heure de cours, quinze minutes de trace écrite
     
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Identifier les dispositifs de conversion.](https://prof-johan-daza.github.io/disque/local/_5e_T1_002.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Selon moi, l'énergie c'est…](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-2.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Identifier les dispositifs de conversion.](https://prof-johan-daza.github.io/disque/local/_5e_T1_002_C.pdf)
 
 ---
 
