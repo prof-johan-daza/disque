@@ -12,7 +12,7 @@
     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[L'énergie, à quoi ça sert ?](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-1.pdf)
 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ L'énergie, à quoi ça sert ?](https://prof-johan-daza.github.io/disque/local/_5eS1-S1-1.pdf)
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ L'énergie, à quoi ça sert ?](https://prof-johan-daza.github.io/disque/local/_5e_T1_001_C.pdf)
 
 - [ ] $\mathit{Séance~II}$
 
