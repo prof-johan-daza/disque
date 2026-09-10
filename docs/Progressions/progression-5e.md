@@ -1,3 +1,14 @@
+<style>
+  table.encadre {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  table.encadre > tbody > tr > td {
+    border: 1px solid white;
+    padding: 12px 14px;
+  }
+</style>
+
 # Progression de cinquième
 
 ## Premier trimestre
@@ -21,7 +32,18 @@
 <tr>
 <td>I. Donne ta définition de l'énergie.</td>
 <td>
-<p>Activité <em>post-it et feuilles A3</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert ?</a></p>
+<table class="encadre">
+<tbody>
+<tr>
+<td>
+<p>Activité <em>post-it et feuilles A3</em> :</p>
+<p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert ?</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<td>
+</td>
 </td>
 <td>
 <p></p>
