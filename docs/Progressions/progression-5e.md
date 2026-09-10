@@ -36,7 +36,7 @@
 <tbody>
 <tr>
 <td>
-<p>Activité <em>post-it et feuilles A3</em> :</p>
+<p>Activité <em>post-it et feuilles A3</em>&nbsp;:</p>
 <p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert ?</a></p>
 </td>
 </tr>
