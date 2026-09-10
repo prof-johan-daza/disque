@@ -9,7 +9,7 @@
 <col style="width: 25%">
 </colgroup>
 <thead>
-<tr><td class="theme" colspan="3">Thème I&nbsp;: Transfert et constitution de la matière</td></tr>
+<tr><td class="theme" colspan="3">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
 <tr>
 <th>Notions du programme</th>
 <th>Activités possibles</th>
@@ -19,25 +19,21 @@
 <tbody>
 <tr><td class="sous-titre" colspan="3">Séquence I&nbsp;: Description de la matière</td></tr>
 <tr>
-<td>I. Les états de la matière.</td>
+<td>I. Donne ta définition de l'énergie.</td>
 <td>
-<p>Cours I&nbsp;: Propriétés des trois états.</p>
+<p>Activité <em>post-it et feuilles A3</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert ?</a></p>
 </td>
 <td>
-<p>Pratiquer des langages&nbsp;: décrire les propriétés des trois états physiques à l'aide d'un vocabulaire scientifique précis.</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td>II. Les changements d'état.</td>
+<td>II. Pour moi, l'énergie c'est...</td>
 <td>
-<p>TP I&nbsp;: La fusion et la conservation de la masse.</p>
-<p>TP II&nbsp;: Température de changement d'état.</p>
-<p>Cours I&nbsp;: Interpréter le changement d'état au niveau microscopique.</p>
-<p>Cours II&nbsp;: Donner les noms des changements d'état.</p>
-<p>Cours III&nbsp;: Les propriétés d'un changement d'état (masse, température et corps purs).</p>
+<p></p>
 </td>
 <td>
-<p>Pratiquer des démarches scientifiques&nbsp;: interpréter des résultats expérimentaux et en tirer des conclusions sur la conservation de la masse.</p>
+<p></p>
 </td>
 </tr>
 <tr><td class="sous-titre" colspan="3">Séquence II&nbsp;: La matière : atomes et molécules</td></tr>
