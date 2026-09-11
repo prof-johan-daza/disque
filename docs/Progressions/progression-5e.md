@@ -81,11 +81,9 @@
 </td>
 </tr>
 <tr>
-<td>II. Les molécules.</td>
+<td>?</td>
 <td>
-<p>Activité I&nbsp;: Définition de molécule.</p>
-<p>Cours I&nbsp;: Réprésentation (modèles moléculaires).</p>
-<p>Cours II&nbsp;: Formule chimique.</p>
+<p>?</p>
 </td>
 <td>
 <p></p>
