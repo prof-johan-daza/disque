@@ -1,11 +1,17 @@
 <style>
+  table.progression,
   table.encadre {
     border-collapse: collapse;
+  }
+  table.encadre {
     margin: 0 auto;
   }
+  table.progression > thead > tr > th,
+  table.progression > thead > tr > td,
+  table.progression > tbody > tr > td,
   table.encadre > tbody > tr > td {
     border: 1px solid white;
-    padding: 12px 14px;
+    padding: 9px;
   }
 </style>
 
@@ -15,9 +21,9 @@
 
 <table class="progression">
 <colgroup>
-<col style="width: 25%">
-<col style="width: 50%">
-<col style="width: 25%">
+<col style="width: 40%">
+<col style="width: 41%">
+<col style="width: 19%">
 </colgroup>
 <thead>
 <tr><td class="theme" colspan="3">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
@@ -28,7 +34,7 @@
 </tr>
 </thead>
 <tbody>
-<tr><td class="sous-titre" colspan="3">Séquence I&nbsp;: Description de la matière</td></tr>
+<tr><td class="sous-titre" colspan="3">Séquence I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
 <tr>
 <td>I. Donne ta définition de l'énergie.</td>
 <td>
@@ -36,14 +42,12 @@
 <tbody>
 <tr>
 <td>
-<p>Activité <em>post-it et feuilles A3</em>&nbsp;:</p>
+<p><em>Activité post-it et feuilles A3</em>&nbsp;:</p>
 <p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert ?</a></p>
 </td>
 </tr>
 </tbody>
 </table>
-<td>
-</td>
 </td>
 <td>
 <p></p>
@@ -52,23 +56,28 @@
 <tr>
 <td>II. Pour moi, l'énergie c'est...</td>
 <td>
-<p></p>
+<p><em>Trace écrite au cahier.</em></p>
 </td>
 <td>
 <p></p>
 </td>
 </tr>
-<tr><td class="sous-titre" colspan="3">Séquence II&nbsp;: La matière : atomes et molécules</td></tr>
+<tr><td class="sous-titre" colspan="3">Séquence II&nbsp;: « Ressources en énergie » et « énergie ».</td></tr>
 <tr>
-<td>I. L'atome.</td>
+<td>I. Introduire la notion de conversion d’énergie.</td>
 <td>
-<p>Activité I&nbsp;: Histoire de l'atome (Video et frise)</p>
-<p>Cours I&nbsp;: Constitution de l'atome (noyau et nuage électronique)</p>
-<p>Activité II&nbsp;: Taille de l'atome (noyau et atome, puissances de 10)</p>
-<p>Cours II&nbsp;: Symbole et classification</p>
+<table class="encadre">
+<tbody>
+<tr>
+<td>
+<p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_002.pdf">De l’énergie ou des énergies&nbsp;?</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 <td>
-<p>Pratiquer des langages&nbsp;: décrire les propriétés des trois états physiques à l'aide d'un vocabulaire scientifique précis.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -79,7 +88,7 @@
 <p>Cours II&nbsp;: Formule chimique.</p>
 </td>
 <td>
-<p>Pratiquer des démarches scientifiques&nbsp;: interpréter des résultats expérimentaux et en tirer des conclusions sur la conservation de la masse.</p>
+<p></p>
 </td>
 </tr>
 </tbody>

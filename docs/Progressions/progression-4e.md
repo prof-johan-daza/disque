@@ -4,9 +4,9 @@
 
 <table class="progression">
 <colgroup>
-<col style="width: 25%">
-<col style="width: 50%">
-<col style="width: 25%">
+<col style="width: 40%">
+<col style="width: 41%">
+<col style="width: 19%">
 </colgroup>
 <thead>
 <tr><td class="theme" colspan="3">Thème I&nbsp;: Transfert et constitution de la matière</td></tr>
@@ -24,7 +24,7 @@
 <p>Cours I&nbsp;: Propriétés des trois états.</p>
 </td>
 <td>
-<p>Pratiquer des langages&nbsp;: décrire les propriétés des trois états physiques à l'aide d'un vocabulaire scientifique précis.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 <p>Cours III&nbsp;: Les propriétés d'un changement d'état (masse, température et corps purs).</p>
 </td>
 <td>
-<p>Pratiquer des démarches scientifiques&nbsp;: interpréter des résultats expérimentaux et en tirer des conclusions sur la conservation de la masse.</p>
+<p></p>
 </td>
 </tr>
 <tr><td class="sous-titre" colspan="3">Séquence II&nbsp;: La matière : atomes et molécules</td></tr>
@@ -50,7 +50,7 @@
 <p>Cours II&nbsp;: Symbole et classification</p>
 </td>
 <td>
-<p>Pratiquer des langages&nbsp;: décrire les propriétés des trois états physiques à l'aide d'un vocabulaire scientifique précis.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@
 <p>Cours II&nbsp;: Formule chimique.</p>
 </td>
 <td>
-<p>Pratiquer des démarches scientifiques&nbsp;: interpréter des résultats expérimentaux et en tirer des conclusions sur la conservation de la masse.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
