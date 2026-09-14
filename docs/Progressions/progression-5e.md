@@ -21,20 +21,18 @@
 
 <table class="progression">
 <colgroup>
-<col style="width: 40%">
-<col style="width: 41%">
-<col style="width: 19%">
+<col style="width: 50%">
+<col style="width: 50%">
 </colgroup>
 <thead>
-<tr><td class="theme" colspan="3">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
+<tr><td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
 <tr>
 <th>Notions du programme</th>
 <th>Activités possibles</th>
-<th>Compétences travaillées</th>
 </tr>
 </thead>
 <tbody>
-<tr><td class="sous-titre" colspan="3">Séquence I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
+<tr><td class="sous-titre" colspan="2">Séquence I&nbsp;: L'énergie qu'est-ce que c'est</td></tr>
 <tr>
 <td>I. Donne ta définition de l'énergie.</td>
 <td>
@@ -49,20 +47,14 @@
 </tbody>
 </table>
 </td>
-<td>
-<p></p>
-</td>
 </tr>
 <tr>
 <td>II. Pour moi, l'énergie c'est...</td>
 <td>
 <p><em>Trace écrite au cahier.</em></p>
 </td>
-<td>
-<p></p>
-</td>
 </tr>
-<tr><td class="sous-titre" colspan="3">Séquence II&nbsp;: « Ressources en énergie » et « énergie ».</td></tr>
+<tr><td class="sous-titre" colspan="2">Séquence II&nbsp;: « Ressources en énergie » et « énergie ».</td></tr>
 <tr>
 <td>I. Introduire la notion de conversion d’énergie.</td>
 <td>
@@ -76,17 +68,11 @@
 </tbody>
 </table>
 </td>
-<td>
-<p></p>
-</td>
 </tr>
 <tr>
 <td>?</td>
 <td>
 <p>?</p>
-</td>
-<td>
-<p></p>
 </td>
 </tr>
 </tbody>
