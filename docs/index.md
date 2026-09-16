@@ -4,6 +4,8 @@
 
 ## Thème I : L'énergie qu'est-ce que c'est.
 
+---
+
 ***Séquence I : L'énergie qu'est-ce que c'est.***
 
 - [x] $\mathit{\textit{Cours : C'est quoi l'énergie}}$

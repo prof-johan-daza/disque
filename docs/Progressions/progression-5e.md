@@ -77,3 +77,15 @@
 </tr>
 </tbody>
 </table>
+
+***Séquence III : L'énergie autour de nous.***
+
+- [x] $\mathit{\textit{Série d'exercices : L'énergie, sources, formes, transferts et conversions.}}$
+
+    - [x] I. Série d'exercices.
+    
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{COURS}$ $\longrightarrow$ Série d'exercices.](https://prof-johan-daza.github.io/disque/local/_5e_T1_003.pdf)
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[$\mathcal{CORRIGÉ}$ $\longrightarrow$ Série d'exercices.](https://prof-johan-daza.github.io/disque/local/_5e_T1_003_C.pdf)
+
+---
