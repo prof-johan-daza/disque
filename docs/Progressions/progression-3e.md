@@ -51,8 +51,8 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>Cours&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_001.pdf">Grandeurs
-                    utilisées en SPC.</a></p>
+                <p>Cours&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_001.pdf">Grandeurs utilisées en SPC.</a></p>
+                <p>$\mathrm{TP~1:}$ Identifier les instruments de mesure du laboratoire et convertir un $\mathrm{dm^{3}}$ en litre.
               </td>
             </tr>
           </tbody>
