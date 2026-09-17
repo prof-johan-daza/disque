@@ -70,7 +70,7 @@
   </colgroup>
   <thead>
     <tr>
-      <td class="theme" colspan="2">Thème I&nbsp;: Transfert et constitution de la matière</td>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière</td>
     </tr>
     <tr>
       <th>Notions du programme</th>
