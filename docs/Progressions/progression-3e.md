@@ -17,9 +17,9 @@
   }
 </style>
 
-# Progression de troisième
+# Progression du cours de troisième
 
-## Introduction
+## Rentrée $\longrightarrow$ 18 septembre 2026
 
 <table class="progression">
   <colgroup>
@@ -51,8 +51,10 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>Cours&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_001.pdf">Grandeurs utilisées en SPC.</a></p>
-                <p>$\mathrm{TP~1:}$ Identifier les instruments de mesure du laboratoire et convertir un $\mathrm{dm^{3}}$ en litre.
+                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_001.pdf"><em>Grandeurs
+                    utilisées en SPC.</em></a></p>
+                <p>$\mathrm{TP~1:}$ Identifier les instruments de mesure du laboratoire et convertir un
+                  $\mathrm{dm^{3}}$ en litre.
               </td>
             </tr>
           </tbody>
@@ -62,7 +64,7 @@
   </tbody>
 </table>
 
-## Premier trimestre
+## 21 septembre 2026 $\longrightarrow$ 2 octobre 2026
 
 <table class="progression">
   <colgroup>
@@ -71,7 +73,7 @@
   </colgroup>
   <thead>
     <tr>
-      <td class="theme" colspan="2">Thème I&nbsp;: Transfert et constitution de la matière.</td>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière.</td>
     </tr>
     <tr>
       <th>Notions du programme</th>
@@ -83,13 +85,25 @@
       <td class="sous-titre" colspan="2">Séquence 1 : Décrire la constitution de la matière.</td>
     </tr>
     <tr>
-      <td>I. Révision sur la constitution de la matière (états et interprétation microscopique des changements d’état,
-        température de changement d’état, corps pur et mélanges).</td>
       <td>
-        <p>TP I : Pourquoi utiliser un autocuiseur&nbsp;?</p>
+        <p>I. Les états de la matière.</p>
+        <p>II. Les changements d’état.</p>
+        <p>III. Corps purs et mélanges.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
+                <p>$\mathrm{TP~2:}$ Pourquoi utiliser un autocuiseur.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </td>
     </tr>
-    <tr>
+<!--    <tr>
       <td>II. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times
           V\)</span> , propriétés, la masse volumique un outil d’identification).</td>
       <td>
@@ -98,8 +112,8 @@
         <p>TP IV : Identification de liquides et de solides par la masse volumique (tâche complexe).</p>
       </td>
     </tr>
-    <tr>
-      <td class="sous-titre" colspan="2">Séquence II : Décrire et expliquer les transformations chimiques.</td>
+    <tr> -->
+      <!--      <td class="sous-titre" colspan="2">Séquence II : Décrire et expliquer les transformations chimiques.</td>
     </tr>
     <tr>
       <td>I. Modèles de l’atome (d’où viennent les atomes, rappel : modèles de l’atome, rappel : constituants de l’atome
@@ -145,4 +159,4 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->

@@ -17,9 +17,9 @@
   }
 </style>
 
-# Progression de cinquième
+# Progression du cours de cinquième
 
-## Premier trimestre
+## Rentrée $\longrightarrow$ 18 septembre 2026
 
 <table class="progression">
   <colgroup>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td>II. Pour moi, l'énergie c'est...</td>
-      <td>
+      <td style="text-align: center">
         <p><em>Trace écrite au cahier.</em></p>
       </td>
     </tr>
@@ -76,12 +76,6 @@
             </tr>
           </tbody>
         </table>
-      </td>
-    </tr>
-    <tr>
-      <td>?</td>
-      <td>
-        <p>?</p>
       </td>
     </tr>
   </tbody>

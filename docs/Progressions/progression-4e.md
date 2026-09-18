@@ -17,7 +17,7 @@
   }
 </style>
 
-# Progression de quatrième
+# Progression du cours de quatrième
 
 ## Rentrée $\longrightarrow$ 18 septembre 2026
 
