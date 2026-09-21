@@ -1,4 +1,4 @@
-<style>
+ƒ<style>
   table.progression,
   table.encadre {
     border-collapse: collapse;
