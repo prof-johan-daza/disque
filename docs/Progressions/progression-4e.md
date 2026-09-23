@@ -92,7 +92,7 @@
             <tr>
               <td>
                 <p><em>Cours</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
-                <p><a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_002.pdf">$\mathrm{TP~2:}$ La masse se conserve-t-elle lors de la fusion ?</a></p>
+                <p>$\mathrm{TP~2:}$<a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_003.pdf"> La masse se conserve-t-elle lors de la fusion ?</a></p>
               </td>
             </tr>
           </tbody>
