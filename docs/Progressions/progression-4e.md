@@ -100,9 +100,7 @@
       </td>
     </tr>
     <!--<tr>
-      <td>II. Les changements d'état.</td>
       <td>
-        <p>TP I&nbsp;: La fusion et la conservation de la masse.</p>
         <p>TP II&nbsp;: Température de changement d'état.</p>
         <p>Cours I&nbsp;: Interpréter le changement d'état au niveau microscopique.</p>
         <p>Cours II&nbsp;: Donner les noms des changements d'état.</p>
