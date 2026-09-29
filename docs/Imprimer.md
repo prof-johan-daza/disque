@@ -1,1 +1,1 @@
-[Imprimer](https://prof-johan-daza.github.io/disque/local/_G2026.pdf)
+<a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_003.pdf">
