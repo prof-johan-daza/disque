@@ -96,7 +96,7 @@
             <tr>
               <td style="vertical-align: middle">
                 <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
-                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_003.pdf"> Pourquoi utiliser un autocuiseur.</p>
+                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_003.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
               </td>
             </tr>
           </tbody>
