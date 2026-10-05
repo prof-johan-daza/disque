@@ -77,6 +77,18 @@
           </tbody>
         </table>
       </td>
+      <td>II. Dispositifs de conversion d’énergie.</td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td>
+                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_003.pdf">Dispositifs de conversion d’énergies (inclus TP I)&nbsp;?</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
     </tr>
   </tbody>
 </table>
