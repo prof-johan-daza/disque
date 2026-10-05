@@ -2,6 +2,10 @@
 
 ---
 
+## [Emploi du temps](https://prof-johan-daza.github.io/disque/Emploi/)
+
+---
+
 ## [Progression du cours de cinquième](https://prof-johan-daza.github.io/disque/P5e/_P5e_T1/)
 
 ---
@@ -14,4 +18,4 @@
 
 ---
 
-<p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_004.pdf">_5e_T1_004</a></p>
+<p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_004.pdf">$\varphi$</a></p>
