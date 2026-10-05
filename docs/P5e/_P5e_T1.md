@@ -77,6 +77,8 @@
           </tbody>
         </table>
       </td>
+    </tr>
+    <tr>
       <td>II. Dispositifs de conversion d’énergie.</td>
       <td>
         <table class="encadre">
