@@ -97,18 +97,13 @@
               <td style="vertical-align: middle">
                 <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
                 <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_003.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
-                <p>$\mathrm{TP~3:}$<em>Pourquoi utiliser un autocuiseur.</em>Miscibilité/solubilité dans l’eau.</p>
+                <p>$\mathrm{TP~3:}$</em>Miscibilité/solubilité dans l’eau.</p>
               </td>
             </tr>
           </tbody>
         </table>
       </td>
     </tr>
-
-
-
-
-
 
 
 
