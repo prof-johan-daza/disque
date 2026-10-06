@@ -10,22 +10,22 @@
 
 ### 5e5 : 23 élèves
 
-- P1 : 12 élèves
-- P2 : 11 élèves
+%- P1 : 12 élèves
+%- P2 : 11 élèves
 
 ---
 
 ## [Progression du cours de quatrième](https://prof-johan-daza.github.io/disque/P4e/_P4e_T1/)
 
-### 4e3 : 25 élèves
+### 4e3 et 4e4 : 51 élèves
 
-- P1 : 13 élèves
-- P2 : 12 élèves
+%- P1 : 13 élèves
+%- P2 : 12 élèves
 
-### 4e4 : 26 élèves
+%### 4e4 : 26 élèves
 
-- P1 : 13 élèves
-- P2 : 13 élèves
+%- P1 : 13 élèves
+%- P2 : 13 élèves
 
 ---
 
@@ -33,8 +33,8 @@
 
 ### 3e4 : 26 élèves
 
-- P1 : 11 élèves
-- P2 : 15 élèves
+%- P1 : 11 élèves
+%- P2 : 15 élèves
 
 ---
 
