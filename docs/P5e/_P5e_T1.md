@@ -19,7 +19,7 @@
 
 # Progression du cours de cinquième
 
-## Rentrée $\longrightarrow$ 18 septembre 2026
+## Rentrée $\longrightarrow$ 9 octobre 2026
 
 <table class="progression">
   <colgroup>

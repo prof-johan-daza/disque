@@ -61,7 +61,7 @@
   </tbody>
 </table>
 
-## 21 septembre 2026 $\longrightarrow$ 2 octobre 2026
+## 21 septembre 2026 $\longrightarrow$ 9 octobre 2026
 
 <table class="progression">
   <colgroup>
