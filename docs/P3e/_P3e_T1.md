@@ -137,7 +137,7 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_005.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
+                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_005.pdf"><em>Masse volumique</em></a></p>
               </td>
             </tr>
           </tbody>
@@ -149,7 +149,7 @@
 
 
 
-<!--    <tr>
+<!-- <tr>
       <td>II. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times
           V\)</span> , propriétés, la masse volumique un outil d’identification).</td>
       <td>
@@ -158,8 +158,10 @@
         <p>TP IV : Identification de liquides et de solides par la masse volumique (tâche complexe).</p>
       </td>
     </tr>
-    <tr> -->
-      <!--      <td class="sous-titre" colspan="2">Séquence II : Décrire et expliquer les transformations chimiques.</td>
+    <tr> 
+-->
+
+<!--      <td class="sous-titre" colspan="2">Séquence II : Décrire et expliquer les transformations chimiques.</td>
     </tr>
     <tr>
       <td>I. Modèles de l’atome (d’où viennent les atomes, rappel : modèles de l’atome, rappel : constituants de l’atome
@@ -204,4 +206,4 @@
         <p>TP IX : Des unités de distances adaptées.</p>
       </td>
     </tr>
- -->
+-->
