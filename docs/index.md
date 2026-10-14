@@ -38,7 +38,7 @@
 
 ---
 
-<p><a href="https://prof-johan-daza.github.io/disque/local/_4e3P1_T1_005.pdf">$\varphi$</a></p>
+<p><a href="https://prof-johan-daza.github.io/disque/local/_4e3P1_T1_005.pdf">$\color{Red}\varphi$</a></p>
 <p><a href="https://prof-johan-daza.github.io/disque/local/_4e3P2_T1_005.pdf">$\Gamma$</a></p>
 <p><a href="https://prof-johan-daza.github.io/disque/local/_4e4P1_T1_005.pdf">$\Delta$</a></p>
 <p><a href="https://prof-johan-daza.github.io/disque/local/_4e4P2_T1_005.pdf">$\color{Red}\Theta$</a></p>
