@@ -104,7 +104,48 @@
         </table>
       </td>
     </tr>
+    </tbody>
+</table>
 
+
+## 13 octobre 2026 $\longrightarrow$ 23 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière.</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="sous-titre" colspan="2">Séquence ? : ?</td>
+    </tr>
+    <tr>
+      <td>
+        <p>I. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times V\)</span> , propriétés, la masse volumique un outil d’identification).</td>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_005.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    </tbody>
+</table>
 
 
 
@@ -163,5 +204,4 @@
         <p>TP IX : Des unités de distances adaptées.</p>
       </td>
     </tr>
-  </tbody>
-</table> -->
+ -->
