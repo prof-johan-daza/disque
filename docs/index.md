@@ -38,5 +38,5 @@
 
 ---
 
-<p><a href="https://prof-johan-daza.github.io/disque/local/_3eP1_T1_004.pdf">$\color{Red}\varphi$</a></p>
-<p><a href="https://prof-johan-daza.github.io/disque/local/_4e3P2_T1_005.pdf">$\Gamma$</a></p>
+<p><a href="https://prof-johan-daza.github.io/disque/local/_3eP1_T1_004.pdf">$\varphi$</a></p>
+<p><a href="https://prof-johan-daza.github.io/disque/local/_3eP2_T1_004.pdf">$\Gamma$</a></p>
