@@ -147,7 +147,41 @@
     </tbody>
 </table>
 
+## 19 octobre 2026
 
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière.</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>Évaluation</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_3eP1_T1_004.pdf"><em>$\colorbox{white}{$\xi_{P1}$}$</em></p> <a href="https://prof-johan-daza.github.io/disque/local/_3eP2_T1_004.pdf"><em>$\colorbox{white}{$\xi_{P2}$}$</em></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- <tr>
       <td>II. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times
