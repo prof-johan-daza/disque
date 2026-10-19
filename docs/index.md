@@ -39,4 +39,4 @@
 ---
 
 <p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_007.pdf">$\varphi$</a></p>
-<p><a href="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html">$\Gamma$</a></p>
+<p><a href="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html">$\colorbox{Green}{$\star$}$</a></p>
