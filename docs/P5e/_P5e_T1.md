@@ -94,3 +94,38 @@
     </tr>
   </tbody>
 </table>
+
+## 20 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Le cycle de l'eau dans une centrale thermique et les états de la matière.</td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td>
+                <p><a href="https://prof-johan-daza.github.io/disque/local/5eT1/007.pdf">Cycle de l'eau dans une centrale thermique</a></p>
+                <p><a href="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html">Lien vers «&nbsp;États de la matière&nbsp;»</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
