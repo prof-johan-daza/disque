@@ -19,7 +19,7 @@
 
 # Progression du cours de quatrième
 
-## Rentrée $\longrightarrow$ 18 septembre 2026
+## 18 septembre 2026
 
 <table class="progression">
   <colgroup>
@@ -61,7 +61,7 @@
   </tbody>
 </table>
 
-## 21 septembre 2026 $\longrightarrow$ 9 octobre 2026
+## 9 octobre 2026
 
 <table class="progression">
   <colgroup>

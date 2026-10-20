@@ -19,7 +19,7 @@
 
 # Progression du cours de troisième
 
-## Rentrée $\longrightarrow$ 18 septembre 2026
+## 18 septembre 2026
 
 <table class="progression">
   <colgroup>
@@ -64,7 +64,7 @@
   </tbody>
 </table>
 
-## 21 septembre 2026 $\longrightarrow$ 9 octobre 2026
+## 9 octobre 2026
 
 <table class="progression">
   <colgroup>
@@ -108,7 +108,43 @@
 </table>
 
 
-## 13 octobre 2026 $\longrightarrow$ 23 octobre 2026
+## 19 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière.</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>Évaluation</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P1_004.pdf"><em>$\colorbox{white}{$\xi_{P1}$}$</em></p> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P2_004.pdf"><em>$\colorbox{white}{$\xi_{P2}$}$</em></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 23 octobre 2026
 
 <table class="progression">
   <colgroup>
@@ -145,42 +181,6 @@
       </td>
     </tr>
     </tbody>
-</table>
-
-## 19 octobre 2026
-
-<table class="progression">
-  <colgroup>
-    <col style="width: 50%">
-    <col style="width: 50%">
-  </colgroup>
-  <thead>
-    <tr>
-      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière.</td>
-    </tr>
-    <tr>
-      <th>Notions du programme</th>
-      <th>Activités possibles</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p>Évaluation</p>
-      </td>
-      <td>
-        <table class="encadre">
-          <tbody>
-            <tr>
-              <td style="vertical-align: middle">
-                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P1_004.pdf"><em>$\colorbox{white}{$\xi_{P1}$}$</em></p> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P2_004.pdf"><em>$\colorbox{white}{$\xi_{P2}$}$</em></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 <!-- <tr>
