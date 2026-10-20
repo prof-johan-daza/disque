@@ -128,5 +128,42 @@
         <p>Cours II&nbsp;: Formule chimique.</p>
       </td>
     </tr>
+-->
+  </tbody>
+</table>
+
+## 20 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thèmes I et II&nbsp;: Grandeurs, unités et instruments de mesure&nbsp;; Transfert et constitution de la matière.</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>Évaluation</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>20 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_005.pdf"><em>Évaluation de mi-trimestre</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
   </tbody>
 </table>
