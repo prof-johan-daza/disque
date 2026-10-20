@@ -51,7 +51,7 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_001.pdf"><em>Grandeurs
+                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/001.pdf"><em>Grandeurs
                     utilisées en SPC.</em></a></p>
                 <p>$\mathrm{TP~1:}$ Identifier les instruments de mesure du laboratoire et convertir un
                   $\mathrm{dm^{3}}$ en litre.
@@ -95,8 +95,8 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
-                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_003.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
+                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/002.pdf"><em>Constitution de la matière.</em></a></p>
+                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/3eT1/003.pdf"><em>Pourquoi utiliser un autocuiseur.</em></a></p>
                 <p>$\mathrm{TP~3:}$<em> Miscibilité/solubilité dans l’eau.</em></p>
               </td>
             </tr>
@@ -137,7 +137,7 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/_3e_T1_005.pdf"><em>Masse volumique</em></a></p>
+                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/3eT1/005.pdf"><em>Masse volumique</em></a></p>
               </td>
             </tr>
           </tbody>
@@ -173,7 +173,7 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_3eP1_T1_004.pdf"><em>$\colorbox{white}{$\xi_{P1}$}$</em></p> <a href="https://prof-johan-daza.github.io/disque/local/_3eP2_T1_004.pdf"><em>$\colorbox{white}{$\xi_{P2}$}$</em></p>
+                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P1_004.pdf"><em>$\colorbox{white}{$\xi_{P1}$}$</em></p> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P2_004.pdf"><em>$\colorbox{white}{$\xi_{P2}$}$</em></p>
               </td>
             </tr>
           </tbody>

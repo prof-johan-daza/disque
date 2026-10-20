@@ -50,7 +50,7 @@
           <tbody>
             <tr>
               <td>
-                <p><em>Cours</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_001.pdf"><em>Grandeurs utilisées en SPC.</em></a></p>
+                <p><em>Cours</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/001.pdf"><em>Grandeurs utilisées en SPC.</em></a></p>
                 <p>$\mathrm{TP~1:}$ Identifier les instruments de mesure du laboratoire et convertir un $\mathrm{dm^{3}}$ en litre.</p>
               </td>
             </tr>
@@ -91,9 +91,9 @@
           <tbody>
             <tr>
               <td>
-                <p><em>Cours</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_002.pdf"><em>Constitution de la matière.</em></a></p>
-                <p>$\mathrm{TP~2:}$<a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_003.pdf"><em> La masse se conserve-t-elle lors de la fusion ?</em></a></p>
-                <p>$\mathrm{TP~3:}$<a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_004.pdf"><em> La température augmente-t-elle régulièrement jusqu'à ce que toute la glace ait fondu ?</em></a></p>
+                <p><em>Cours</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/002.pdf"><em>Constitution de la matière.</em></a></p>
+                <p>$\mathrm{TP~2:}$<a href="https://prof-johan-daza.github.io/disque/local/4eT1/003.pdf"><em> La masse se conserve-t-elle lors de la fusion ?</em></a></p>
+                <p>$\mathrm{TP~3:}$<a href="https://prof-johan-daza.github.io/disque/local/4eT1/004.pdf"><em> La température augmente-t-elle régulièrement jusqu'à ce que toute la glace ait fondu ?</em></a></p>
               </td>
             </tr>
           </tbody>
@@ -158,7 +158,7 @@
           <tbody>
             <tr>
               <td style="vertical-align: middle">
-                <p>20 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/_4e_T1_005.pdf"><em>Évaluation de mi-trimestre</em></a></p>
+                <p>20 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/005.pdf"><em>Évaluation de mi-trimestre</em></a></p>
               </td>
             </tr>
           </tbody>

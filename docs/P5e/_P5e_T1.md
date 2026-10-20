@@ -47,7 +47,7 @@
             <tr>
               <td>
                 <p><em>Activité post-it et feuilles A3</em>&nbsp;:</p>
-                <p><a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_001.pdf">L'énergie, à quoi ça sert
+                <p><a href="https://prof-johan-daza.github.io/disque/local/5eT1/001.pdf">L'énergie, à quoi ça sert
                     ?</a></p>
               </td>
             </tr>
@@ -71,7 +71,7 @@
           <tbody>
             <tr>
               <td>
-                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_002.pdf">De l’énergie ou des énergies&nbsp;?</a></p>
+                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/5eT1/002.pdf">De l’énergie ou des énergies&nbsp;?</a></p>
               </td>
             </tr>
           </tbody>
@@ -85,7 +85,7 @@
           <tbody>
             <tr>
               <td>
-                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/_5e_T1_003.pdf">Dispositifs de conversion d’énergies (inclu le TP I)</a></p>
+                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/5eT1/003.pdf">Dispositifs de conversion d’énergies (inclu le TP I)</a></p>
               </td>
             </tr>
           </tbody>
