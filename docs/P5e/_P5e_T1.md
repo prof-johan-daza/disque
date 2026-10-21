@@ -148,3 +148,43 @@
     </tr>
   </tbody>
 </table>
+
+## 21 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="sous-titre" colspan="2">Séquence 3&nbsp;: La centrale thermique, une chaîne de conversions d’énergie.</td>
+    </tr>
+    <tr>
+      <td>
+        <p>I. Les états de la matière.</p>
+        <p>II. Les différents changements d’état.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td>
+                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/5eT1/006.pdf"><em>Comment reconnaître si une matière est à l’état solide, liquide ou gazeux&nbsp;?</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
