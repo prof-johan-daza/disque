@@ -65,7 +65,11 @@
       <td class="sous-titre" colspan="2">Séquence II&nbsp;: « Ressources en énergie » et « énergie ».</td>
     </tr>
     <tr>
-      <td>I. Introduire la notion de conversion d’énergie.</td>
+      <td>
+        <p>I. Introduire la notion de conversion d’énergie.</p>
+        <p>II. Différents réservoirs d’énergie.</p>
+        <p>III. Différentes formes d’énergie.</p>
+      </td>
       <td>
         <table class="encadre">
           <tbody>
