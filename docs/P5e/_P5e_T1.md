@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence I&nbsp;: L'énergie qu'est-ce que c'est</td>
+      <td class="sous-titre" colspan="2">Séquence 1&nbsp;: L'énergie qu'est-ce que c'est</td>
     </tr>
     <tr>
       <td>I. Donne ta définition de l'énergie.</td>
@@ -62,7 +62,7 @@
       </td>
     </tr>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence II&nbsp;: « Ressources en énergie » et « énergie ».</td>
+      <td class="sous-titre" colspan="2">Séquence 2&nbsp;: « Ressources en énergie » et « énergie ».</td>
     </tr>
     <tr>
       <td>
@@ -119,6 +119,9 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td class="sous-titre" colspan="2">Séquence 3&nbsp;: La centrale thermique, une chaîne de conversions d’énergie.</td>
+    </tr>
     <tr>
       <td>I. Le cycle de l'eau dans une centrale thermique et les états de la matière.</td>
       <td>
