@@ -141,7 +141,7 @@
   </colgroup>
   <thead>
     <tr>
-      <td class="theme" colspan="2">Thèmes I et II&nbsp;: Grandeurs, unités et instruments de mesure&nbsp;; Transfert et constitution de la matière.</td>
+      <td class="theme" colspan="2">Thèmes I et II</td>
     </tr>
     <tr>
       <th>Notions du programme</th>
