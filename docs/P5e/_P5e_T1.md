@@ -127,6 +127,15 @@
             <tr>
               <td>
                 <p><a href="https://prof-johan-daza.github.io/disque/local/5eT1/007.pdf">Cycle de l'eau dans une centrale thermique</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td>
                 <p><a href="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html">Lien vers «&nbsp;États de la matière&nbsp;»</a></p>
               </td>
             </tr>
