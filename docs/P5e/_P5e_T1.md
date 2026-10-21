@@ -120,7 +120,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Le cycle de l'eau dans une centrale thermique et les états de la matière.</td>
+      <td>I. Le cycle de l'eau dans une centrale thermique et les états de la matière.</td>
       <td>
         <table class="encadre">
           <tbody>
