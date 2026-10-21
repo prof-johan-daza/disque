@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence I&nbsp;: Grandeurs utilisées en SPC.</td>
+      <td class="sous-titre" colspan="2">Séquence 1&nbsp;: Grandeurs utilisées en SPC.</td>
     </tr>
     <tr>
       <td>
@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence 1 : Décrire la constitution de la matière.</td>
+      <td class="sous-titre" colspan="2">Séquence 2 : Décrire la constitution de la matière.</td>
     </tr>
     <tr>
       <td>
