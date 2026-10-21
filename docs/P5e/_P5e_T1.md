@@ -83,7 +83,10 @@
       </td>
     </tr>
     <tr>
-      <td>II. Dispositifs de conversion d’énergie.</td>
+      <td>
+        <p>I. Dispositifs de conversion d’énergie.</p>
+        <p>II. Le diagramme énergétique.</p>
+      </td>
       <td>
         <table class="encadre">
           <tbody>
