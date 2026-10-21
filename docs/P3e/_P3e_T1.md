@@ -162,7 +162,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence ? : ?</td>
+      <td class="sous-titre" colspan="2">Séquence 1 (suite)&nbsp;: Décrire la constitution de la matière.</td>
     </tr>
     <tr>
       <td>
@@ -174,6 +174,24 @@
             <tr>
               <td style="vertical-align: middle">
                 <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/3eT1/005.pdf"><em>Masse volumique</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>I. Masse et volume.</p>
+        <p>II. La masse volumique&nbsp;: définition, unités, mesure et propriétés.</p>
+        <p>III. La masse volumique&nbsp;: un outil d’identification.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p><em>Cours&nbsp;:</em> <a href="https://prof-johan-daza.github.io/disque/local/3eT1/006.pdf"><em>La masse volumique.</em></a></p>
               </td>
             </tr>
           </tbody>
