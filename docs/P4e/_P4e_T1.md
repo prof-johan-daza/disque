@@ -151,7 +151,13 @@
   <tbody>
     <tr>
       <td>
-        <p>Évaluation</p>
+        <p>I. Grandeurs, unités et instruments de mesure.</p>
+        <p>II. Les instruments de mesures.</p>
+        <p>III. Multiples et sous-multiples des unités.</p>
+        <p>IV. Convertir des unités de mesure.</p>
+        <p>V. Les états de la matière.</p>
+        <p>VI. Les différents changements d’état.</p>
+        <p>VII. Propriétés des changements d’état.</p>
       </td>
       <td>
         <table class="encadre">
