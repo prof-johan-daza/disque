@@ -170,7 +170,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="sous-titre" colspan="2">Séquence 1 (suite)&nbsp;: Décrire la constitution de la matière.</td>
+      <td class="sous-titre" colspan="2">Séquence 2&nbsp;: Décrire la constitution de la matière.</td>
     </tr>
     <tr>
       <td>
