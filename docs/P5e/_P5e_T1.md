@@ -56,6 +56,11 @@
       </td>
     </tr>
     <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/5eT1/001_C.pdf">L'énergie, à quoi ça sert&nbsp;?</a></em></p>
+      </td>
+    </tr>
+    <tr>
       <td>II. Pour moi, l'énergie c'est...</td>
       <td style="text-align: center">
         <p><em>Trace écrite au cahier.</em></p>
