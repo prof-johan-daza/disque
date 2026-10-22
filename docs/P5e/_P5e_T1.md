@@ -88,6 +88,11 @@
       </td>
     </tr>
     <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/5eT1/002_C.pdf">De l’énergie ou des énergies&nbsp;?</a></em></p>
+      </td>
+    </tr>
+    <tr>
       <td>
         <p>I. Dispositifs de conversion d’énergie.</p>
         <p>II. Le diagramme énergétique.</p>
