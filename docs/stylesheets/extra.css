@@ -20,3 +20,13 @@
 .md-typeset a.lien-vert:focus {
   color: #43a047;
 }
+
+/* Tout le site en italique */
+body,
+.md-header,
+.md-tabs,
+.md-nav,
+.md-typeset,
+.md-footer {
+  font-style: italic;
+}
