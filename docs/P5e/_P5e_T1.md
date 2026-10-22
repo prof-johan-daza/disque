@@ -92,7 +92,7 @@
           <tbody>
             <tr>
               <td>
-                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/5eT1/003.pdf">Dispositifs de conversion d’énergies (inclu le TP I)</a></p>
+                <p><em>Cours</em> : <a href="https://prof-johan-daza.github.io/disque/local/5eT1/005.pdf">Dispositifs de conversion d’énergie I</a></p>
               </td>
             </tr>
           </tbody>
@@ -179,7 +179,7 @@
           <tbody>
             <tr>
               <td>
-                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/5eT1/006.pdf"><em>Comment reconnaître si une matière est à l’état solide, liquide ou gazeux&nbsp;?</em></a></p>
+                <p>$\mathrm{TP~2:}$ <a href="https://prof-johan-daza.github.io/disque/local/5eT1/006.pdf"><em>Dispositifs de conversion d’énergie II</em></a></p>
               </td>
             </tr>
           </tbody>
