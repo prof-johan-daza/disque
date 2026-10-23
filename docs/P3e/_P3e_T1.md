@@ -231,6 +231,11 @@
         </table>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/3eT1/006_C.pdf">La masse volumique.</a></em></p>
+      </td>
+    </tr>
     </tbody>
 </table>
 
