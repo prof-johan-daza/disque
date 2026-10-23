@@ -117,6 +117,50 @@
   </tbody>
 </table>
 
+## 19 octobre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. L’énergie dans la nature.</p>
+        <p>II. Définition de l’énergie.</p>
+        <p>III. Les différentes formes de l’énergie.</p>
+        <p>IV. Transferts et conversions de l’énergie.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>19 octobre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/5eT1/008.pdf"><em>Évaluation de mi-trimestre</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/5eT1/008_C.pdf">Évaluation de mi-trimestre</a></em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 20 octobre 2026
 
 <table class="progression">
