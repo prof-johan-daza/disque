@@ -198,3 +198,47 @@
     </tr>
   </tbody>
 </table>
+
+## 4 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="sous-titre" colspan="2">Séquence 3&nbsp;: L'atome à travers l'histoire</td>
+    </tr>
+    <tr>
+      <td>
+        <p>I. L'évolution du modèle atomique.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td>
+                <p><em>Activité</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/006.pdf"><em>L'atome à travers l'histoire et l'évolution des modèles élémentaire et particulaire.</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Impression</strong>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/006_I.pdf">copies nominatives des 4 groupes (4e3 P1, 4e3 P2, 4e4 P1, 4e4 P2)</a></em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
