@@ -239,6 +239,49 @@
     </tbody>
 </table>
 
+## 4 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. Étude d’un changement d’état du cyclohexane.</p>
+        <p>II. Changements d’état des métaux.</p>
+        <p>III. Qu’est-ce que la masse volumique&nbsp;?</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>4 novembre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/3eT1/007.pdf"><em>Évaluation de fin de trimestre</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/3eT1/007_C.pdf">Évaluation de fin de trimestre</a></em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- <tr>
       <td>II. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times
           V\)</span> , propriétés, la masse volumique un outil d’identification).</td>
