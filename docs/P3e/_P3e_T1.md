@@ -282,6 +282,42 @@
   </tbody>
 </table>
 
+## 6 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thèmes I et II</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>Tenue du cahier&nbsp;: pour chaque séance, la date, la prise de notes et le travail réalisé.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>6 novembre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/3eT1/P2_008.pdf"><em>Note de cahier</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- <tr>
       <td>II. Masse volumique (rappels sur la masse et le volume, relation <span class="arithmatex">\(m = \rho \times
           V\)</span> , propriétés, la masse volumique un outil d’identification).</td>
