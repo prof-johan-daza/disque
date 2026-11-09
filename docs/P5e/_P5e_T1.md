@@ -252,3 +252,39 @@
     </tr>
   </tbody>
 </table>
+
+## 9 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>Tenue du cahier&nbsp;: pour chaque séance, la date, la prise de notes et le travail réalisé.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>9 novembre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/5eT1/P2_009.pdf"><em>Note de cahier</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
