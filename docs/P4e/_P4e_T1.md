@@ -237,11 +237,6 @@
     </tr>
     <tr>
       <td colspan="2">
-        <p><em><strong>Impression</strong>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/006_I.pdf">copies nominatives des 4 groupes (4e3 P1, 4e3 P2, 4e4 P1, 4e4 P2)</a></em></p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
         <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/4eT1/006_C.pdf">L'atome à travers l'histoire et l'évolution des modèles élémentaire et particulaire.</a></em></p>
       </td>
     </tr>
