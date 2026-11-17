@@ -242,3 +242,41 @@
     </tr>
   </tbody>
 </table>
+
+## 17 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. Changements d’états physiques.</p>
+        <p>II. Le cycle de l’eau, ou cycle hydrologique.</p>
+        <p>III. Classification de la matière&nbsp;: corps purs et mélanges.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>17 novembre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/4eT1/007.pdf"><em>Évaluation&nbsp;: changements d’états physiques et classification de la matière</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
