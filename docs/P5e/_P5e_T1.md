@@ -327,3 +327,42 @@
     </tr>
   </tbody>
 </table>
+
+## 19 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: L'énergie qu'est-ce que c'est</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. Les états de la matière (échelle macroscopique).</p>
+        <p>II. Les expériences du travail pratique.</p>
+        <p>III. Les états de la matière (échelle microscopique).</p>
+        <p>IV. Les changements d’état dans la centrale.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>19 novembre 2026&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/5eT1/011.pdf"><em>Évaluation&nbsp;: états de la matière et changements d’état</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
