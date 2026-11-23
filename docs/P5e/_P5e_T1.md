@@ -325,6 +325,11 @@
         </table>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/5eT1/010_C.pdf">Évaluation&nbsp;: états de la matière et changements d’état</a></em></p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -362,6 +367,11 @@
             </tr>
           </tbody>
         </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/5eT1/011_C.pdf">Évaluation&nbsp;: états de la matière et changements d’état</a></em></p>
       </td>
     </tr>
   </tbody>

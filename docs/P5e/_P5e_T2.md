@@ -55,5 +55,10 @@
         </table>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/DOCX/5eT2/001_C.pdf">Les corps purs et les mélanges</a></em></p>
+      </td>
+    </tr>
   </tbody>
 </table>
