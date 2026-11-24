@@ -19,6 +19,50 @@
 
 # Progression du cours de troisième
 
+## 13 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème I&nbsp;: La matière dans l’Univers.</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. Histoire de l’Univers et sa composition.</p>
+        <p>II. Le système solaire et l’unité astronomique.</p>
+        <p>III. Notre galaxie et l’année-lumière.</p>
+        <p>IV. «&nbsp;Nous sommes tous des poussières d’étoiles&nbsp;».</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p>$\mathrm{TP~4:}$ <a href="https://prof-johan-daza.github.io/disque/local/DOCX/3eT2/002.pdf"><em>La matière dans l’Univers (classe puzzle)</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/DOCX/3eT2/002_C.pdf">La matière dans l’Univers (classe puzzle)</a></em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 24 novembre 2026
 
 <table class="progression">
