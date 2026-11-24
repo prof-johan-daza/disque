@@ -55,5 +55,10 @@
         </table>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/4eT1/010_C.pdf">Évaluation&nbsp;: représentation des molécules</a></em></p>
+      </td>
+    </tr>
   </tbody>
 </table>
