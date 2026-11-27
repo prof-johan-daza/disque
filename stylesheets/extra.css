@@ -1,0 +1,32 @@
+@keyframes download-bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(8px);
+  }
+  60% {
+    transform: translateY(4px);
+  }
+}
+
+.download {
+  display: inline-block;
+  animation: download-bounce 1.5s infinite;
+}
+
+/* Lien qui devient vert au survol */
+.md-typeset a.lien-vert:hover,
+.md-typeset a.lien-vert:focus {
+  color: #43a047;
+}
+
+/* Tout le site en italique */
+body,
+.md-header,
+.md-tabs,
+.md-nav,
+.md-typeset,
+.md-footer {
+  font-style: italic;
+}
