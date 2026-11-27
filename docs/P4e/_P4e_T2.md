@@ -147,3 +147,50 @@
     </tr>
   </tbody>
 </table>
+
+## 27 novembre 2026
+
+<table class="progression">
+  <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <td class="theme" colspan="2">Thème II&nbsp;: Transfert et constitution de la matière</td>
+    </tr>
+    <tr>
+      <th>Notions du programme</th>
+      <th>Activités possibles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>I. Le coefficient&nbsp;: nombre de molécules.</p>
+        <p>II. L’indice&nbsp;: nombre d’atomes dans une molécule.</p>
+        <p>III. Compter les atomes&nbsp;: coefficient × indice.</p>
+        <p>IV. Les atomes se conservent lors d’une transformation chimique.</p>
+      </td>
+      <td>
+        <table class="encadre">
+          <tbody>
+            <tr>
+              <td style="vertical-align: middle">
+                <p><em>Séance d’exercices</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/DOCX/4eT2/002_4e3P1.pdf"><em>Le coefficient (4e3 P1)</em></a></p>
+                <p><em>Séance d’exercices</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/DOCX/4eT2/002_4e3P2.pdf"><em>Le coefficient (4e3 P2)</em></a></p>
+                <p><em>Séance d’exercices</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/DOCX/4eT2/002_4e4P1.pdf"><em>Le coefficient (4e4 P1)</em></a></p>
+                <p><em>Séance d’exercices</em>&nbsp;: <a href="https://prof-johan-daza.github.io/disque/local/DOCX/4eT2/002_4e4P2.pdf"><em>Le coefficient (4e4 P2)</em></a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p><em><strong>Corrigé</strong>&nbsp;: <a class="lien-vert" href="https://prof-johan-daza.github.io/disque/local/DOCX/4eT2/002_C.pdf">Le coefficient</a></em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
